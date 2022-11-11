@@ -23,7 +23,8 @@
             </nav>
         </header>
         <article>
-            {{ block "main" . }}{{ end }}
+            <h1>{{.Title}}</h1>
+            {{.Content}}
         </article>
         <hr/>
         <footer>
