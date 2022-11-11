@@ -87,7 +87,7 @@ nav li {
 }
 article, hr, footer {
     margin: 0 auto;
-    width: 50em;
+    max-width: 50em;
     padding: 0;
     margin-top: 2ex;
     margin-bottom: 2ex;
