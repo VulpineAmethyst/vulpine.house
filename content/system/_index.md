@@ -1,5 +1,6 @@
 ---
 title: System Reference
+description: A set of documents describing the Amethyst system.
 ---
 The Amethyst system is a **median** system, meaning that the alters, the individuals comprising the system, have significant overlap.
 

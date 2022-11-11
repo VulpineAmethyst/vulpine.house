@@ -1,5 +1,6 @@
 ---
 title: Wishlists
+description: If you're interested in supporting us, here are links to our wishlists.
 ---
 * **Amazon**:
   * [fun things](https://www.amazon.com/hz/wishlist/ls/3OLYHGSBVPIMM)
