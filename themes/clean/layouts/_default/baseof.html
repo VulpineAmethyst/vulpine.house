@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title>{{ .Title }} | {{ .Site.Title }}</title>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:site" content="@VulpineAmethyst"/>
+        <meta name="twitter:title" content="{{.Title}}"/>
+        <meta name="twitter:description" content="{{.Description}}"/>
+        <meta name="og:title" content="{{.Title}}"/>
+        <meta name="og:description" content="{{.Description}}"/>
+        <link href='{{"/css/clean.css" | relURL}}' rel="stylesheet" media="all"/>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </header>
+        <article>
+            {{ block "main" . }}{{ end }}
+        </article>
+        <hr/>
+        <footer>
+            <p>Copyright &copy; 2022 Síle Ekaterin Liszka, under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0 International</a>.</p>
+        </footer>
+    </body>
+</html>

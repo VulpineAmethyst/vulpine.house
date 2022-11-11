@@ -1,0 +1,108 @@
+/* Global variables */
+:root {
+    --font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    
+    /* colours */
+    --normal-red:    #B00;
+    --normal-yellow: #B50;
+    --normal-green:  #0B0;
+    --normal-cyan:   #0BB;
+    --normal-blue:   #00B;
+    --normal-purple: #B0B;
+    --normal-black:  #000;
+    --normal-white:  #bbb;
+    --bright-red:    #F55;
+    --bright-yellow: #FF5;
+    --bright-green:  #5F5;
+    --bright-cyan:   #5FF;
+    --bright-blue:   #55F;
+    --bright-purple: #F5F;
+    --bright-black:  #555;
+    --bright-white:  #FFF;
+    
+    --terminal-fg: var(--normal-white);
+    --terminal-bg: var(--normal-black);
+    --link-normal: var(--normal-cyan);
+    --link-active: var(--normal-red);
+    --link-visited: var(--normal-cyan);
+    --bold: var(--bright-white);
+    --italic: var(--normal-purple);
+}
+html {
+    font-family: var(--font);
+}
+body {
+    background-color: var(--terminal-bg);
+    color: var(--terminal-fg);
+    font-size: 16pt;
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-size: 16pt;
+    font-weight: normal;
+    color: var(--bright-white);
+}
+b, strong {
+    color: var(--bold);
+    font-weight: normal;
+}
+i, em {
+    color: var(--italic);
+    font-style: normal;
+}
+a {
+    text-decoration: underline;
+}
+a:link {
+    color: var(--link-normal);
+}
+a:hover, a:active, a:visited:hover {
+    color: var(--link-active);
+}
+a:visited {
+    color: var(--link-visited);
+}
+nav a {
+    text-decoration: none;
+}
+nav a:link, nav a:visited, nav {
+    color: var(--normal-black);
+    background-color: var(--normal-white);
+}
+nav a:hover, nav a:active, nav a:visited:hover {
+    color: var(--bright-white);
+    background-color: var(--normal-black);
+}
+nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+}
+nav li {
+    display: inline-block;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-left: 0;
+    padding-right: 0;
+}
+article, hr, footer {
+    margin: 0 auto;
+    width: 50em;
+    padding: 0;
+    margin-top: 2ex;
+    margin-bottom: 2ex;
+}
+article ul {
+    list-style-type: '- ';
+}
+article li {
+    margin-bottom: 2ex;
+}
+article li > ul {
+    margin-top: 2ex;
+}
+hr {
+    height: calc(2ex - 2px);
+    border: 0;
+    border-bottom: 2px solid var(--terminal-fg);
+}

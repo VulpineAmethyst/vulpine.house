@@ -1,0 +1,9 @@
+name = 'clean'
+license = 'ISC'
+description = 'A clean theme that resembles links(1).'
+homepage = "https://github.com/VulpineAmethyst/hugo-theme-clean"
+tags = ["page", "minimalistic", "minimal", "dark"]
+
+[author]
+  name = "VulpineAmethyst"
+  homepage = "https://vulpine.house"
