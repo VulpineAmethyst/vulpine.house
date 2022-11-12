@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{.Title}}</h1>
+{{ range .Recipes }}
+<section class="recipe">
+    <h2>{{.Name}}</h2>
+    <p><b>Ingredients:</b></p>
+    <ul>{{ range .Ingredients }}
+        <li>{{.}}</li>{{ end }}
+    </ul>
+    <p><b>Directions:</b></p>
+    <ol>{{ range .Directions }}
+        <li>{{.}}</li>{{ end }}
+    </ol>
+</section>
+{{ end }}
+{{ end }}
