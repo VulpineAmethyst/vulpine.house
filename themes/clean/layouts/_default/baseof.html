@@ -15,16 +15,13 @@
     <body>
         <header>
             <nav>
-                <ul>
-                    {{ range .Site.Menus.main }}
-                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                    {{ end }}
+                <ul>{{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>{{ end }}
                 </ul>
             </nav>
         </header>
         <article>
-            <h1>{{.Title}}</h1>
-            {{.Content}}
+            {{ block "main" . }} {{ end }}
         </article>
         <hr/>
         <footer>
