@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = 'The Fridge'
 author = 'Síle Ekaterin Liszka'
 theme = 'clean'
-disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap']
+disableKinds = ['RSS', 'sitemap']
+[taxonomies]
+tag = 'tags'
 
 [[menu.main]]
 identifier = 'home'
@@ -12,25 +14,31 @@ url        = '/'
 weight     = 1
 
 [[menu.main]]
+identifier = 'recipes'
+name       = 'Recipes'
+url        = '/recipe'
+weight     = 2
+
+[[menu.main]]
 identifier = 'links'
 name       = 'Links'
 url        = 'links'
-weight     = 2
+weight     = 3
 
 [[menu.main]]
 identifier = 'commissions'
 name       = 'Commissions'
 url        = 'commissions'
-weight     = 3
+weight     = 4
 
 [[menu.main]]
 identifier = 'system'
 name       = 'System Reference'
 url        = 'system'
-weight     = 4
+weight     = 5
 
 [[menu.main]]
 identifier = 'wishlists'
 name       = 'Wishlists'
 url        = 'wishlists'
-weight     = 5
+weight     = 6

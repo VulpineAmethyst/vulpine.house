@@ -1,4 +1,12 @@
-            {{ define "main" }}
-            <h1>{{ .Title }}</h1>
-            {{ .Content }}
+        {{ define "main"}}
+        <article>
+            <h1>{{.Title}}</h1>
+            {{ if .Params.tags }}
+            <div>
+                <b>Tags:</b> {{ range .Params.tags }}
+                <span><a href="{{$.Site.BaseURL}}/tags/{{ . | urlize}}/">{{ . }}</a></span>{{ end }}
+            </div>
             {{ end }}
+            {{.Content}}
+        </article>
+        {{ end }}
