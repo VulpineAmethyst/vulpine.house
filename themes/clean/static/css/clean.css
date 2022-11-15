@@ -34,7 +34,7 @@ html {
 body {
     background-color: var(--terminal-bg);
     color: var(--terminal-fg);
-    font-size: 16pt;
+    font-size: 14pt;
     margin: 0;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -87,7 +87,7 @@ nav li {
 }
 article, hr, footer {
     margin: 0 auto;
-    max-width: 50em;
+    max-width: 40em;
     padding: 0;
     margin-top: 2ex;
     margin-bottom: 2ex;
