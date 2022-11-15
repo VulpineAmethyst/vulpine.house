@@ -1,5 +1,6 @@
 ---
-title: About
+title: About Me
+description: About the owner of this site.
 ---
 Hi, folks. I'm Síle Ekaterin Liszka. My pronouns are fae/faer or she/her. I'm:
 
@@ -8,6 +9,7 @@ Hi, folks. I'm Síle Ekaterin Liszka. My pronouns are fae/faer or she/her. I'm:
 - agender trans-feminine,
 - a asexual/pan-romantic lesbian,
 - therian,
+- a median system (see [the system reference](/system/) for more information),
 - a little, and
 - an arctic fox kit.
 
