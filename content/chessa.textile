@@ -1,0 +1,83 @@
+---
+layout: page
+title: Chessa
+---
+
+This page documents Chessa's commands.
+
+h1. Dicebot
+
+All dicebot commands support four special features not available to other commands:
+
+* @.help@ gives usage information and a description of the command.
+* @.<command>-as <nick>@ processes the command as though @nick@ had used it.
+* @.<command>-to <nick>@ sends the output of the command to you and @nick@ as a private message.
+* @.<command> ; <comment>@ appends the comment to the end of the command's output.
+
+The following commands are associated:
+
+* @.attrib@ generates D&D dice-rolled attributes.
+* @.silcore@ rolls dice for Silhouette Core.
+* @.exalted@ rolls dice for Exalted 2e; @.exalted <dice> 6@ may be used for old World of Darkness.
+* @.hellcats@ rolls dice for Hellcats & Hockeysticks.
+* @.fudge@ rolls dice for Fudge and Fate, and supports the Fate ladder.
+* @.lonewolf@ rolls a die for the Lone Wolf gamebooks and tabletop game.
+* @.dryh@ rolls dice for Don't Rest Your Head.
+* @.dw@ rolls dice for Dungeon World and variants.
+* @.swrpg@ (and aliases @.eote@, @.aor@, and @.fad@) rolls dice for the Star Wars RPG tabletop game.
+* @.roll@ and @.math@ are more generic; the former allows for multiple formulas to be calculated at once, whereas the latter allows spaces to be used to make formulas more legible.
+
+The @.roll@ and @.math@ commands support the following:
+
+<table>
+    <tr><th>Op.</th><th>Operation</th><th>Function</th><th>Effects</th><th>Args</th><th>Var.</th><th>Definition</th></tr>
+    <tr><th><code>**</code></th><td>Exponents</td><th>int</th><td>Truncation</td><td>1</td><th>pi</th><td>4 * atan2(1, 1)</td></tr>
+    <tr><th><code>*</code></th><td>Multiplication</td><th>hex</th><td>Hexadecimal (integer-only)</td><td>1</td><th>e</th><td>exp(1)</td></tr>
+    <tr><th><code>/</code></th><td>Division</td><th>oct</th><td>Octal (integer-only)</td><td>1</td><th>tau</th><td>8 * atan2(1, 1)</td</tr>
+    <tr><th><code>%</code></th><td>Modulus</td><th>bin</th><td>Binary (integer-only)</td><td>1</td><th>pie</th><td>pi * e</td></tr>
+    <tr><th><code>d</code></th><td>Die roll</td><th>atan2</th><td>Two-argument arc-tangents</td><td>2</td></tr>
+    <tr><th><code>^</code></th><td>Bitwise XOR</td><th>cos</th><td>Cosine</td><td>1</td>
+    <tr><th><code>&</code></th><td>Bitwise AND</td><th>exp</th><td>e to the nth power</td><td>1</td></tr>
+    <tr><th><code>|</code></th><td>Bitwise OR</td><th>log</th><td>Logarithm of n</td><td>1</td></tr>
+    <tr><th><code>+</code></th><td>Addition</td><th>logn</th><td>Logarithm of n (base x)</td><td>2</td></tr>
+    <tr><th><code>-</code></th><td>Subtraction<br>Negation</td><th>log10</th><td>Logarithm of n (base 10)</td><td>10</td></tr>
+    <tr><th><code>~</code></th><td>1's complement</td><th>sin</th><td>Sine</td><td>1</td></tr>
+    <tr><th><code>+</code></th><td>Absolute value (unary)</td><th>asin</th><td>Arcsine</td><td>1</td></tr>
+    <tr><td colspan="2"></td><th>sqrt</th><td>Square root</td><td>1</td></tr>
+    <tr><td colspan="2"></td><th>c2f</th><td>Convert Celsius to Fahrenheit</td><td>1</td></tr>
+    <tr><td colspan="2"></td><th>f2c</th><td>Convert Fahrenheit to Celsius</td><td>1</td></tr>
+    <tr><td colspan="2"></td><th>floor</th><td>Round downward</td><td>1</td></tr>
+    <tr><td colspan="2"></td><th>ceil</th><td>Round upward</td><td>1</td></tr>
+    <tr><td colspan="2"></td><th>min</th><td>Lowest of given arguments</td><td>∞</td></tr>
+    <tr><td colspan="2"></td><th>max</th><td>Highest of given arguments</td><td>∞</td></tr>
+</table>
+
+h1. Database Commands
+
+Chessa has a pluggable database interface, which provides a common interface for database-related functionality. Currently, the following plugins exist:
+
+* Pronouns: Simple database mapping users to their pronouns. Presets are available for male, female, and neutral.
+* Time: Timezone and current time for users.
+
+Plugins are accessible via @.<plugin>@, with the following subcommands:
+
+* @find@ looks up the requested user.
+* @set@ allows the user to set data for the particular plugin.
+* @help@ provides documentation for the plugin.
+
+If no subcommand is provided, @find@ is assumed. For example, @.time US/Eastern@ gives the time in that timezone.
+
+h1. Weather
+
+The weather command set consists of @.weather@, @.f@/@.f1@/@.f3@, @.alerts@, and @.location@. All commands take a query string and, optionally, a semicolon (@;@) followed by a country designator. This designator will constrain the query to the given country, in cases where an ambiguous query may return an unexpected result (e.g. @.weather hell@ might return the weather for Hellin, Spain, whereas @.weather hell;no@ will return the weather for Hell, Norway).
+
+@.f@ returns today's forecast, @.f1@ returns tomorrow's forecast, and @.f3@ returns (via PM) the forecast for the three days following today. Note that the forecast will change over at 00:00 local time.
+
+@.location@ stores the provided location for the user, so as to allow future inquiries to omit a query string.
+
+h1. Other Commands
+
+* @.choose@ returns a randomly-chosen entry from a list, delimited by a comma followed by a space.
+* @.unicode@ returns information on the given Unicode sequence. Supports combining characters.
+* @.uniname@ returns information on the given Unicode named sequence.
+
