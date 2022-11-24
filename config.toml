@@ -26,25 +26,19 @@ url        = '/recipe'
 weight     = 3
 
 [[menu.main]]
-identifier = 'links'
-name       = 'Links'
-url        = 'links'
-weight     = 4
-
-[[menu.main]]
 identifier = 'commissions'
 name       = 'Commissions'
 url        = 'commissions'
-weight     = 5
+weight     = 4
 
 [[menu.main]]
 identifier = 'system'
 name       = 'System Reference'
 url        = 'system'
-weight     = 6
+weight     = 5
 
 [[menu.main]]
-identifier = 'wishlists'
-name       = 'Wishlists'
-url        = 'wishlists'
-weight     = 7
+identifier = 'links'
+name       = 'Links'
+url        = 'links'
+weight     = 6
