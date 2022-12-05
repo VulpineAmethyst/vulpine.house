@@ -25,11 +25,11 @@ I have the following bases already:
 
 ## Examples
 
-* [Pride banner](/static/img/pride-3.0.png)
-* [Nonhuman](/static/img/nonhuman-f.png)
-* [Mexican pride](/static/img/mexico.png)
-* [Pan-da](/static/img/pan-da.png)
-* [Wood frog](/static/img/woodfrog.png)
+* [Pride banner](/img/pride-3.0.png)
+* [Nonhuman](/img/nonhuman-f.png)
+* [Mexican pride](/img/mexico.png)
+* [Pan-da](/img/pan-da.png)
+* [Wood frog](/img/woodfrog.png)
 
 ## Terms
 
