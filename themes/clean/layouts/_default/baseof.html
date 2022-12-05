@@ -4,13 +4,14 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <title>{{ .Title }} | {{ .Site.Title }}</title>
-        <meta name="twitter:card" content="summary"/>
-        <meta name="twitter:site" content="@VulpineAmethyst"/>
-        <meta name="twitter:title" content="{{.Title}}"/>
-        <meta name="twitter:description" content="{{.Description}}"/>
-        <meta name="og:title" content="{{.Title}}"/>
-        <meta name="og:description" content="{{.Description}}"/>
-        <link href='{{"/css/clean.css" | relURL}}' rel="stylesheet" media="all"/>
+        {{ template "_internal/twitter_cards.html" . }}
+        {{ template "_internal/opengraph.html" . }}
+        <link href='{{"/css/common.css" | relURL}}' rel="stylesheet" media="all"/>
+        {{ if .Params.Translation }}
+        <link href='{{"/css/tables.css" | relURL}}' rel="stylesheet" media="all"/>
+        {{- else -}}
+        <link href='{{"/css/clean.css" | relURL }}' rel="stylesheet" media="all"/>
+        {{- end }}
     </head>
     <body>
         <header>

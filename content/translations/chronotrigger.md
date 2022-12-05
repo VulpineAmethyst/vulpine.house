@@ -1,10 +1,11 @@
 ---
 title: Chrono Trigger
+translation: true
 ---
 
 Out of boredom, I decided to have a look at Chrono Trigger's non-script Japanese text. This is the result. (Yes, I'm aware that the folks at Chrono Compendium have done this too. Unfortunately, their translations are...subpar, to say the least.)
 
-As with the "Mystic Quest changes FAQ":/translations/mysticquest, "Sky Render":http://www.skyrender.net made valuable contributions to this page.
+As with the [Mystic Quest changes FAQ](/translations/mysticquest/), "Sky Render":http://www.skyrender.net made valuable contributions to this page.
 
 ## Locations
 
@@ -753,7 +754,7 @@ Some names are reused for different enemies (e.g. Pebbler). They will appear mul
 
 ## Chapters
 
-|_. Japanese           |_. Romaji                           |_. Síle                                |_. Woolsey             |_. Slattery           |
+| Japanese             | Romaji                             | Síle                                  | Woolsey               | Slattery             |
 | 旅立ち！夢みる千年祭 | tabidachi! ichimumirusennenmatsuri | Setting Out! Fateful Millenial Fair   | The Millenial Fair    | The Millenial Fair   |
 | 帰ってきた王妃       | kaettekiōkisai                     | The Return of the Queen               | The Queen Returns     | The Queen Returns    |
 | 消えた王女           | kietaōjo                           | The Vanishing Princess                | The Queen is Gone     | A Vanished Princess  |

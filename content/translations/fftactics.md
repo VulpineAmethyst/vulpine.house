@@ -1,96 +1,96 @@
 ---
-layout: page
-title: Final Fantasy Tactics Translation Guide
-type: Dataset
-about: '{"@type":"VideoGame","headline":"Final Fantasy Tactics","datePublished":"1997-06-20","publisher":{"@type":"Organization","name":"Square"}}'
+title: Final Fantasy Tactics
+translation: true
 ---
 
-p. I'm not a huge fan of strategy RPGs as a genre (for many reasons, which I won't discuss here), but the Final Fantasy Tactics series is a bit unusual in that I _want_ to like it (at least after FFT(Final Fantasy Tactics)), but can't for _some_ of those aforementioned reasons.
+I'm not a huge fan of strategy RPGs as a genre (for many reasons, which I won't discuss here), but the Final Fantasy Tactics series is a bit unusual in that I _want_ to like it (at least after FFT), but can't for _some_ of those aforementioned reasons.
 
-p. That said, translation issues are way up there, hence this guide. Unfortunately, I'm having to work off of data acquired through "the Final Fantasy Wikia wiki":http://finalfantasy.wikia.com/, so there are going to be things missing.
+That said, translation issues are way up there, hence this guide. Unfortunately, I'm having to work off of data acquired through "the Final Fantasy Wikia wiki":http://finalfantasy.wikia.com/, so there are going to be things missing.
 
-h2. People
+## People
 
-|_. Japanese                   |_. Romaji               |_. Aerdan               |_. PlayStation        |_. War of the Lions   |
-| ラムザ<br>ベオルブ           | ramuzabeorubu          | Ramza Béolve           | Ramza Beoulve        | Ramza Beoulve        |
-| ディリータ<br>ハイラル       | dirītahairaru          | Delita Hyrule[1]       | Delita Hyral         | Delita Heiral        |
-| オヴェリア<br>アトカーシャ   | overiaatokāsha         | Ovelia Atkarsha        | Ovelia Atkascha      | Ovelia Atkascha      |
-| アルマ<br>ベオルブ           | arumabeorubu           | Alma Béolve            | Alma Beoulve         | Alma Beoulve         |
-| ザルバッグ<br>ベオルブ       | zarubaggubeorubu       | Zalbag Béolve          | Zalbag Beoulve       | Zalbaag Beoulve      |
-| ダイスダーグ<br>ベオルブ     | daisudāgubeorubu       | Dycedarg Béolve        | Dycedarg Beoulve     | Dycedarg Beoulve     |
-| ベストラルダ<br>ラーグ       | besutorarudarāgu       | Bestrald Larg          | Bestrada Larg        | Bestrald Larg        |
-| ダクスマルダ<br>ゴルターナ   | dakusumarudagorutāna   | Daxmaldan Gortana      | Druksmald Goltana    | Druksmald Goltanna   |
-| オリナス<br>アトカーシャ     | orinasuatokāsha        | Orinas Atkarsha        | Orinas Atkascha      | Orinus Atkascha      |
-| ルーヴェリア<br>アトカーシャ | rūveriaatokāsha        | Rulvelia Atkarsha      | Ruvelia Atkascha     | Louveria Atkascha    |
-| オムドリア<br>アトカーシャ   | omudoriaatokāsha       | Omdolian Atkarsha      | Omdoria Atkascha     | Ondoria Atkascha     |
-| マリッジ<br>フューネラル     | marijjifyūneraru       | Mariz Funeral          | Marge Funeral        | Marcel Funebris      |
-| アルガス<br>サダルファス     | arugasusadarufasu      | Argus Thadalfus        | Algus Sadalfas       | Argath Thadalfus     |
-| ガフ<br>ガフガリオン         | gafugafugarion         | Gaff Gafgarion         | Gaff Gafgarion       | Goffard Gaffgarion   |
-| アグリアス<br>オークス       | aguriasuōkusu          | Agrias Oaks            | Agrias Oaks          | Agrias Oaks          |
-| シドルファス<br>オルランドゥ | shidorufasuorurandu    | Cidolphus Orlandeau    | Cidolfas Orlandu     | Cidolfus Orlandeau   |
-| オーラン<br>デュライ         | ōrandurai              | Olran Durai            | Olan Durai           | Orran Durai          |
-| ザルモゥ<br>ルスナーダ       | zarumurusunāda         | Zalum Rusnalda         | Zalmo Rusnada        | Zalmour Lucianada    |
-| ブレモンダ<br>フリートベルク | buremondafurītoberuku  | Bremondan Friet-Beruch | Buremonda            | Bremondt Freitberg   |
-| シモン<br>ペン<br>ラキシュ   | shimonpenrakishu       | Simon Penn Lakishu     | Simon Pen Rakshu     | Simon Penn-Lachish   |
+| Japanese                  | Romaji                 | Síle                   | PlayStation          | War   of the Lions   |
+| ------------------------- | ---------------------- | ---------------------- | -------------------- | -------------------- |
+| ラムザ ベオルブ           | ramuzabeorubu          | Ramza Béolve           | Ramza Beoulve        | Ramza Beoulve        |
+| ディリータ ハイラル       | dirītahairaru          | Delita Hyrule[1]       | Delita Hyral         | Delita Heiral        |
+| オヴェリア アトカーシャ   | overiaatokāsha         | Ovelia Atkarsha        | Ovelia Atkascha      | Ovelia Atkascha      |
+| アルマ ベオルブ           | arumabeorubu           | Alma Béolve            | Alma Beoulve         | Alma Beoulve         |
+| ザルバッグ ベオルブ       | zarubaggubeorubu       | Zalbag Béolve          | Zalbag Beoulve       | Zalbaag Beoulve      |
+| ダイスダーグ ベオルブ     | daisudāgubeorubu       | Dycedarg Béolve        | Dycedarg Beoulve     | Dycedarg Beoulve     |
+| ベストラルダ ラーグ       | besutorarudarāgu       | Bestrald Larg          | Bestrada Larg        | Bestrald Larg        |
+| ダクスマルダ ゴルターナ   | dakusumarudagorutāna   | Daxmaldan Gortana      | Druksmald Goltana    | Druksmald Goltanna   |
+| オリナス アトカーシャ     | orinasuatokāsha        | Orinas Atkarsha        | Orinas Atkascha      | Orinus Atkascha      |
+| ルーヴェリア アトカーシャ | rūveriaatokāsha        | Rulvelia Atkarsha      | Ruvelia Atkascha     | Louveria Atkascha    |
+| オムドリア アトカーシャ   | omudoriaatokāsha       | Omdolian Atkarsha      | Omdoria Atkascha     | Ondoria Atkascha     |
+| マリッジ フューネラル     | marijjifyūneraru       | Mariz Funeral          | Marge Funeral        | Marcel Funebris      |
+| アルガス サダルファス     | arugasusadarufasu      | Argus Thadalfus        | Algus Sadalfas       | Argath Thadalfus     |
+| ガフ ガフガリオン         | gafugafugarion         | Gaff Gafgarion         | Gaff Gafgarion       | Goffard Gaffgarion   |
+| アグリアス オークス       | aguriasuōkusu          | Agrias Oaks            | Agrias Oaks          | Agrias Oaks          |
+| シドルファス オルランドゥ | shidorufasuorurandu    | Cidolphus Orlandeau    | Cidolfas Orlandu     | Cidolfus Orlandeau   |
+| オーラン デュライ         | ōrandurai              | Olran Durai            | Olan Durai           | Orran Durai          |
+| ザルモゥ ルスナーダ       | zarumurusunāda         | Zalum Rusnalda         | Zalmo Rusnada        | Zalmour Lucianada    |
+| ブレモンダ フリートベルク | buremondafurītoberuku  | Bremondan Friet-Beruch | Buremonda            | Bremondt Freitberg   |
+| シモン ペン ラキシュ   | shimonpenrakishu       | Simon Penn Lakishu     | Simon Pen Rakshu     | Simon Penn-Lachish   |
 | アーレス ローゼンハイム      | āresurōzenhaimu        | Ares Rosenheim         | (not present)        | Aliste Rosenheim     |
-| ベイオウーフ<br>カドモス     | beioūfukadomosu        | Beowulf Cadmos         | Beowulf Kadmas       | Beowulf Cadmus       |
-| ウィーグラフ<br>フォルズ     | wīgurafuforuzu         | Wiglaf Forza           | Wiegraf Folles       | Wiegraf Folles       |
-| レーゼ<br>デューラー         | rēzedūrā               | Reis Duelral           | Reis Dular           | Reis Duelar          |
-| バルマウフラ<br>ラナンドゥ   | barumaufuraranandu     | Barmaufra Lanandu      | Balmafula Lanando    | Valmafra Lenande     |
-| アルフォンス<br>ドラクロワ   | arufonsudorakurowa     | Alphonse Delacroix     | Alphons Draclau      | Alphonse Delacroix   |
-| ラファ<br>ガルテナーハ       | rafagarutenāha         | Rapha Galtenarha       | Rafa Galthana        | Rapha Galthena       |
-| マラーク<br>ガルテナーハ     | marākugarutenāha       | Malach Galtenarha      | Malak Galthana       | Marach Galthena      |
-| メスドラーマ<br>エルムドア   | mesudorāmaerumudoa     | Mesdralman Elmdor      | Mesdoram Elmdor      | Messam Elmdore       |
-| ゲルカラニス<br>バリンテン   | gerukaranisubarinten   | Gelkaranis Barrington  | Gelkanis Barinten    | Gerrith Barrington   |
-| ムスタディオ<br>ブナンザ     | musutadiobunanza       | Mustadio Bunanza       | Mustadio Bunansa     | Mustadio Bunansa     |
-| ベスロディオ<br>ブナンザ     | besurodiobunanza       | Besrodio Bunanza       | Besrodio Bunanza     | Besrudio Bunansa     |
-| バート<br>ルードヴィッヒ     | bātorūdovihhi          | Bart Ludovici          | Rudvich Bart         | Ludovich Baert       |
-| セリア                       | seria                  | Celia                  | Celia                | Celia                |
-| レディ                       | redi                   | Lede                   | Lede                 | Lettie               |
-| アジョラ<br>グレバドス       | ajoragurebadosu        | Ajora Glebados         | Ajora Glabados       | Ajora Glabados       |
-| ヴォルマルフ<br>ティンジェル | vorumarufutinjeru      | Volmarf Tingelle       | Vormav Tingel        | Folmarv Tengille     |
-| ローファル<br>ウォドリング   | rōfaruwodoringu        | Rolfal Wodring         | Rofel Wodring        | Loffrey Wodring      |
-| イズルード<br>ティンジェル   | izurūdotinjeru         | Isolde Tingelle        | Izlude Tingel        | Isilud Tengille      |
-| クレティアン<br>ドロワ       | kuretiandorowa         | Cletienne Droix        | Kletian Drowa        | Cletienne Duroi      |
-| バルク<br>フェンゾル         | barukufenzoru          | Baruch Fendsor         | Balk Fenzol          | Barich Fendsor       |
-| メリアドール<br>ティンジェル | meriadōrutinjeru       | Meriador Tingelle      | Meliadoul Tingel     | Meliadoul Tengille   |
-| クラウド<br>ストライフ       | kuraudosutoraifu       | Cloud Strife           | Cloud Strife         | Cloud Strife         |
-| ティータ<br>ハイラル         | tītahairaru            | Tirta Hyrule[1]        | Teta Hyral           | Tietra Heiral        |
-| ?                            | ?                      | Valbanes Béolve        | Balbanes Beoulve     | Barbaneth Beoulve    |
-| ギュスタヴ<br>マルゲリフ     | gyusutavumarugerifu    | Gustav Malgérif        | Gustav Margueriff    | Gustav Margriff      |
-| ミルウーダ<br>フォルズ       | miruūdaforuzu          | Mirulda Forza          | Miluda Folles        | Milleuda Folles      |
-| ゴラグロス<br>ラヴェイン     | goragurosuravein       | Gragoroth Levigne      | Golagros Levine      | Gragoroth Levigne    |
-| ルッソ                       | russo                  | Luso                   | (not present)        | Luso                 |
-| バルフレア                   | barufurea              | Balthier               | (not present)        | Balthier             |
-| ボーアダム ダーラボン        | bōadamudarabon         | Boradam Daravon        | Bordam Daravon       | Master Darlavon      |
-| アラズラム<br>Ｊ･デュライ    | arazuramuJdurai        | Alazram J. Durai       | Alazlam Durai        | Arazlam Durai        |
-| ラッド                       | raddo                  | Radd                   | Rad                  | Ladd                 |
-| アリシア                     | arishia                | Alicia                 | Alicia               | Alicia               |
-| ラヴィアン                   | ravian                 | Lavian                 | Lavian               | Lavian               |
-| 労働八号                     | rondou8gou             | Labourer No. 8         | Worker-8             | Construct 8          |
-| ?                            | rondou7gou             | Labourer No. 7         | Worker-7-New         | Construct 7          |
-| グルワンヌ大臣               | guruwannudaijin        | Minister Gruwan        | Minister Gelwan      | Chancellor Glevanne  |
-| エアリス                     | earisu                 | Aerith                 | Aeris                | Aerith               |
-| ゲルモニーク                 | gerumonīku             | Gelmonique             | Germonik             | Germonique           |
-| レザレス                     | rezaresu               | Lezales                | Lezales              | Lezalas              |
-| ?                            | ?                      | Baron Grimms           | Baron Grims          | Baron Grimms         |
-| 司教カンバベリフ             | shikyōkanbaberifu      | Bishop Canba-Berif     | Kanbabrif            | Bishop Canne-Beurich |
-| ボルミナ男爵                 | boruminadanshaku       | Baron Bolmina          | Bolmna               | The Baron of Bolmina |
-| ブランシュ子爵               | buranshushishaku       | Viscount Blanche       | Blansh               | Viscount Blanche     |
-| シドに化けた<br>グレバドス教信者 | shidonibaketa<br>gurebadosukyōshinja | Corrupt Glebados Devout | Grevados             | Glabados Devout      |
+| ベイオウーフ カドモス     | beioūfukadomosu        | Beowulf Cadmos         | Beowulf Kadmas       | Beowulf Cadmus       |
+| ウィーグラフ フォルズ     | wīgurafuforuzu         | Wiglaf Forza           | Wiegraf Folles       | Wiegraf Folles       |
+| レーゼ デューラー         | rēzedūrā               | Reis Duelral           | Reis Dular           | Reis Duelar          |
+| バルマウフラ ラナンドゥ   | barumaufuraranandu     | Barmaufra Lanandu      | Balmafula Lanando    | Valmafra Lenande     |
+| アルフォンス ドラクロワ   | arufonsudorakurowa     | Alphonse Delacroix     | Alphons Draclau      | Alphonse Delacroix   |
+| ラファ ガルテナーハ       | rafagarutenāha         | Rapha Galtenarha       | Rafa Galthana        | Rapha Galthena       |
+| マラーク ガルテナーハ     | marākugarutenāha       | Malach Galtenarha      | Malak Galthana       | Marach Galthena      |
+| メスドラーマ エルムドア   | mesudorāmaerumudoa     | Mesdralman Elmdor      | Mesdoram Elmdor      | Messam Elmdore       |
+| ゲルカラニス バリンテン   | gerukaranisubarinten   | Gelkaranis Barrington  | Gelkanis Barinten    | Gerrith Barrington   |
+| ムスタディオ ブナンザ     | musutadiobunanza       | Mustadio Bunanza       | Mustadio Bunansa     | Mustadio Bunansa     |
+| ベスロディオ ブナンザ     | besurodiobunanza       | Besrodio Bunanza       | Besrodio Bunanza     | Besrudio Bunansa     |
+| バート ルードヴィッヒ     | bātorūdovihhi          | Bart Ludovici          | Rudvich Bart         | Ludovich Baert       |
+| セリア                    | seria                  | Celia                  | Celia                | Celia                |
+| レディ                    | redi                   | Lede                   | Lede                 | Lettie               |
+| アジョラ グレバドス       | ajoragurebadosu        | Ajora Glebados         | Ajora Glabados       | Ajora Glabados       |
+| ヴォルマルフ ティンジェル | vorumarufutinjeru      | Volmarf Tingelle       | Vormav Tingel        | Folmarv Tengille     |
+| ローファル ウォドリング   | rōfaruwodoringu        | Rolfal Wodring         | Rofel Wodring        | Loffrey Wodring      |
+| イズルード ティンジェル   | izurūdotinjeru         | Isolde Tingelle        | Izlude Tingel        | Isilud Tengille      |
+| クレティアン ドロワ       | kuretiandorowa         | Cletienne Droix        | Kletian Drowa        | Cletienne Duroi      |
+| バルク フェンゾル         | barukufenzoru          | Baruch Fendsor         | Balk Fenzol          | Barich Fendsor       |
+| メリアドール ティンジェル | meriadōrutinjeru       | Meriador Tingelle      | Meliadoul Tingel     | Meliadoul Tengille   |
+| クラウド ストライフ       | kuraudosutoraifu       | Cloud Strife           | Cloud Strife         | Cloud Strife         |
+| ティータ ハイラル         | tītahairaru            | Tirta Hyrule[1]        | Teta Hyral           | Tietra Heiral        |
+| ?                         | ?                      | Valbanes Béolve        | Balbanes Beoulve     | Barbaneth Beoulve    |
+| ギュスタヴ マルゲリフ     | gyusutavumarugerifu    | Gustav Malgérif        | Gustav Margueriff    | Gustav Margriff      |
+| ミルウーダ フォルズ       | miruūdaforuzu          | Mirulda Forza          | Miluda Folles        | Milleuda Folles      |
+| ゴラグロス ラヴェイン     | goragurosuravein       | Gragoroth Levigne      | Golagros Levine      | Gragoroth Levigne    |
+| ルッソ                    | russo                  | Luso                   | (not present)        | Luso                 |
+| バルフレア                | barufurea              | Balthier               | (not present)        | Balthier             |
+| ボーアダム ダーラボン     | bōadamudarabon         | Boradam Daravon        | Bordam Daravon       | Master Darlavon      |
+| アラズラム Ｊ･デュライ    | arazuramuJdurai        | Alazram J. Durai       | Alazlam Durai        | Arazlam Durai        |
+| ラッド                    | raddo                  | Radd                   | Rad                  | Ladd                 |
+| アリシア                  | arishia                | Alicia                 | Alicia               | Alicia               |
+| ラヴィアン                | ravian                 | Lavian                 | Lavian               | Lavian               |
+| 労働八号                  | rondō8gō               | Labourer No. 8         | Worker-8             | Construct 8          |
+| ?                         | rondō7gō               | Labourer No. 7         | Worker-7-New         | Construct 7          |
+| グルワンヌ大臣            | guruwannudaijin        | Minister Gruwan        | Minister Gelwan      | Chancellor Glevanne  |
+| エアリス                  | earisu                 | Aerith                 | Aeris                | Aerith               |
+| ゲルモニーク              | gerumonīku             | Gelmonique             | Germonik             | Germonique           |
+| レザレス                  | rezaresu               | Lezales                | Lezales              | Lezalas              |
+| ?                         | ?                      | Baron Grimms           | Baron Grims          | Baron Grimms         |
+| 司教カンバベリフ          | shikyōkanbaberifu      | Bishop Canba-Berif     | Kanbabrif            | Bishop Canne-Beurich |
+| ボルミナ男爵              | boruminadanshaku       | Baron Bolmina          | Bolmna               | The Baron of Bolmina |
+| ブランシュ子爵            | buranshushishaku       | Viscount Blanche       | Blansh               | Viscount Blanche     |
+| シドに化けた グレバドス教信者 | shidonibaketa gurebadosukyōshinja | Corrupt Glebados Devout | Grevados             | Glabados Devout      |
 
-fn1. It's probably not an intentional reference, but "see the Legend of Zelda: Ocarina of Time TAS(Tool-Assisted Speedrun)":http://www.youtube.com/watch?v=AVBqIeFqxbI#t=394s.
+1. It's probably not an intentional reference, but "see the Legend of Zelda: Ocarina of Time TAS(Tool-Assisted Speedrun)":http://www.youtube.com/watch?v=AVBqIeFqxbI#t=394s.
 
-h2. Jobs
+## Jobs
 
-|_. Japanese       |_. Romaji       |_. Aerdan           |_. PlayStation  |_. War of the Lions |
+| Japanese         | Romaji         | Síle               | PlayStation    | War of the Lions   |
+| ---------------- | -------------- | ------------------ | -------------- | ------------------ |
 | 見習い戦士       | minaraisenshi  | Warrior Apprentice | Squire         | Squire             |
 | ナイト           | naito          | Knight             | Knight         | Knight             |
 | 弓使い           | yumitukai      | Bowman             | Archer         | Archer             |
 | モンク           | monku          | Monk               | Monk           | Monk               |
 | シーフ           | shīfu          | Thief              | Thief          | Thief              |
 | 風水士           | fūsuishi       | Geomancer          | Geomancer      | Geomancer          |
-| 竜騎士           | ryuukishi      | Dragon Knight      | Lancer         | Dragoon            |
+| 竜騎士           | ryūkishi       | Dragon Knight      | Lancer         | Dragoon            |
 | 侍               | samurai        | Samurai            | Samurai        | Samurai            |
 | 忍者             | ninja          | Ninja              | Ninja          | Ninja              |
 | 踊り子           | odoriko        | Dancer             | Dancer         | Dancer             |
@@ -115,7 +115,7 @@ h2. Jobs
 | クレリック       | kurerikku      | Cleric             | Cleric         | Cleric             |
 | ハイプリースト   | haipurīsuto    | High Priest        | Holy Priest    | Celebrant          |
 | ナイトブレード   | naitoburēdo    | Nightblade         | Knight Blade   | Nightblade         |
-| 天道士           | tendoushi      | Celestial Knight   | Heaven Knight  | Skyseer            |
+| 天道士           | tendōshi       | Celestial Knight   | Heaven Knight  | Skyseer            |
 | 天冥士           | tenmeishi      | Infernal Knight    | Hell Knight    | Netherseer         |
 | アークナイト	   | ākunaito       | Ark Knight         | Arc Knight     | Ark Knight         |
 | アサシン         | asashin        | Assassin           | Assassin       | Assassin           |
@@ -130,9 +130,10 @@ h2. Jobs
 | モブハンター     | mobuhantā      | Mob Hunter         | (not present)  | Game Hunter        |
 | デスナイト       | desunaito      | Death Knight       | (not present)  | Deathknight        |
 
-h2. Job Skill Categories
+## Job Skill Categories
 
-|_. Japanese |_. Romaji      |_. Aerdan            |_. PlayStation  |_. War of the Lions |
+| Japanese   | Romaji        | Síle                | PlayStation    | War of the Lions   |
+| ---------- | ------------- | ------------------- | -------------- | ------------------ |
 | 基本技     | kihonwaza     | Basic Techniques    | Basic Skill    | Fundaments         |
 | 戦技       | senwaza       | Combat Techniques   | Battle Skill   | Arts of War        |
 | チャージ   | chāji         | Charge              | Charge         | Aim                |
@@ -162,9 +163,9 @@ h2. Job Skill Categories
 | 白洛魔法   | shirorakumahō | White Support Magic | (not present)  | Priest Magicks     |
 | 真言       | shingon       | Mantra              | Truth          | Sky Mantra         |
 | 裏真言     | urashingon    | Mirror Mantra       | Un-Truth       | Nether Mantra      |
-| 刀魂放気   | toukonhouki   | Sword Spirit        | Sword Spirit   | Sword Spirit       |
+| 刀魂放気   | tōkonhōki     | Sword Spirit        | Sword Spirit   | Sword Spirit       |
 | 仕手       | shite         | Performance         | Use Hand       | Subdual Arts       |
-| 剛剣       | gouken        | Mighty Sword        | Mighty Sword   | Unyielding Blade   |
+| 剛剣       | gōken         | Mighty Sword        | Mighty Sword   | Unyielding Blade   |
 | 全剣技     | zenkengi      | Supreme Techniques  | All Swordskill | Swordplay          |
 | 全魔法     | zenmahō       | Supreme Magic       | All Magic      | Magicks            |
 | 剣技       | kengi         | Sword Techniques    | Sword Skill    | Swordplay          |
@@ -176,9 +177,10 @@ h2. Job Skill Categories
 | ターゲット | tāgetto       | Target              | (not present)  | Piracy             |
 | エンゲージ | engēji        | Engage              | (not present)  | Huntcraft          |
 
-h2. Magic
+## Magic
 
-|_. Japanese |_. Romaji |_. Aerdan    |_. PlayStation |_. War of the Lions |
+| Japanese   | Romaji   | Síle        | PlayStation   | War of the Lions   |
+| ---------- | -------- | ----------- | ------------- | ------------------ |
 | アスピル   | asupiru  | Aspirate    | Aspel         | Syphon             |
 | アルテマ   | arutema  | Ultima      | Ultima        | Ultima             |
 | アレイズ   | areizu   | Raisega     | Raise 2       | Arise              |
@@ -207,8 +209,8 @@ h2. Magic
 | ストップ   | sutoppu  | Stop        | Stop          | Stop               |
 | スリプル   | suripuru | Sleep       | Sleep         | Sleep              |
 | スリプジャ | suripuja | Sleepga     | Sleep 2       | Sleepja            |
-| スロウ     | surou    | Slow        | Slow          | Slow               |
-| スロウジャ | surouja  | Slowga      | Slow 2        | Slowja             |
+| スロウ     | surō     | Slow        | Slow          | Slow               |
+| スロウジャ | surōja   | Slowga      | Slow 2        | Slowja             |
 | ゾンビー   | zonbī    | Zombie      | Zombie        | Zombie             |
 | チキン     | chikin   | Chicken     | Chicken       | Chicken            |
 | デス       | desu     | Death       | Death         | Death              |
@@ -253,9 +255,10 @@ h2. Magic
 | レイズ     | reizu    | Raise       | Raise         | Raise              |
 | レビテト   | rebitedo | Levitate    | Float         | Float              |
 
-h2. Monsters
+## Monsters
 
-|_. Japanese       |_. Romaji        |_. Aerdan         |_. PlayStation  |_. War of the Lions |
+| Japanese         | Romaji          | Síle             | PlayStation    | War of the Lions   |
+| ---------------- | --------------- | ---------------- | -------------- | ------------------ |
 | チョコボ         | chokobo         | Chocobo          | Chocobo        | Chocobo            |
 | 黒チョコボ       | kurochokobo     | Black Chocobo    | Black Chocobo  | Black Chocobo      |
 | 赤チョコボ       | akachokobo      | Red Chocobo      | Red Chocobo    | Red Chocobo        |
@@ -283,7 +286,7 @@ h2. Monsters
 | ジュラエイビス   | juraeibisu      | Jura Aevis       | Juravis        | Jura Aevis         |
 | スチールホーク   | suchīruhōku     | Steel Hawk       | Steel Hawk     | Steelhawk          |
 | コカトリス       | kokatorisu      | Cockatrice       | Cocatoris      | Cockatrice         |
-| うりぼう         | uribou          | Pig              | Uribo          | Pig                |
+| うりぼう         | uribō           | Pig              | Uribo          | Pig                |
 | ポーキー         | pōkī            | Porky            | Porky          | Swine              |
 | ワイルドボー     | wairudobō       | Wild Boar        | Wildbow        | Wild Boar          |
 | ウッドマン       | uddoman         | Woodman          | Woodman        | Dryad              |
@@ -304,11 +307,11 @@ h2. Monsters
 | ヒュドラ         | hyudora         | Hydra            | Hyudra         | Hydra              |
 | ハイドラ         | haidora         | Hydra            | Hydra          | Great Hydra        |
 | ティアマット     | tiamatto        | Tiamat           | Tiamat         | Tiamat             |
-| 不浄王           | fujouou         | Unclean King     | Impure King    | The Impure         |
+| 不浄王           | fujōō           | Unclean King     | Impure King    | The Impure         |
 | 魔人             | majin           | Demon            | Warlock        | The Gigas          |
 | 死の天使         | shinotenshi     | Angel of Death   | Angel of Death | The Death Seraph   |
 | 憤怒の霊帝       | fundonoreitei   | Spirit of Wrath  | Ghost of Fury  | Wroth              |
-| 統制者           | touseisha       | Judiciar         | Regulator      | Bringer of Order   |
+| 統制者           | tōseisha        | Judiciar         | Regulator      | Bringer of Order   |
 | 聖天使           | seitenshi       | Holy Angel       | Holy Angel     | The High Seraph    |
 | 聖大天使         | seidaitenshi    | Holy Archangel   | Arch Angel     | Arch Seraph        |
 | サーペンタリウス | sāpentariusu    | Serpentarius     | Serpentarius   | Serpentarius       |
@@ -321,18 +324,21 @@ h2. Monsters
 | ホーリードラゴン | horīdoragon     | Holy Dragon      | Holy Dragon    | Holy Dragon        |
 | ダークドラゴン   | dākudoragon     | Dark Dragon      | (not present)  | Dark Dragon        |
 
-h2. Items
+## Items
 
-|_. Japanese       |_. Romaji         |_. Aerdan      |_. PlayStation  |_. War of the Lions |
+### Consumables
+
+| Japanese         | Romaji           | Síle          | PlayStation    | War of the Lions   |
+| ---------------- | ---------------- | ------------- | -------------- | ------------------ |
 | ポーション       | pōshon           | Potion        | Potion         | Potion             |
-| ハイポーション   | haipōshon        | High Potion   | HīPotion      | HīPotion          |
+| ハイポーション   | haipōshon        | High Potion   | Hi-Potion      | Hi-Potion          |
 | エクスポーション | ekusupōshon      | Ex Potion     | X-Potion       | X-Potion           |
 | エーテル         | ēteru            | Ether         | Ether          | Ether              |
-| ハイエーテル     | haiēteru         | High Ether    | HīEther       | HīEther           |
+| ハイエーテル     | haiēteru         | High Ether    | Hi-Ether       | Hi-Ether           |
 | エリクサー       | erikusā          | Elixir        | Elixir         | Elixir             |
 | 毒消し           | dokukeshi        | Antidote      | Antidote       | Antidote           |
 | 目薬             | megusuri         | Eye Drops     | Eye Drop       | Eye Drops          |
-| やまびこ草       | yamabikosou      | Echo Grass    | Echo Grass     | Echo Herbs         |
+| やまびこ草       | yamabikosō       | Echo Grass    | Echo Grass     | Echo Herbs         |
 | 乙女のキッス     | otomenokissu     | Maiden's Kiss | Maiden's Kiss  | Maiden's Kiss      |
 | 金の針           | kinnohari        | Gold Needle   | Soft           | Gold Needle        |
 | 聖水             | seisui           | Holy Water    | Holy Water     | Holy Water         |
@@ -345,10 +351,10 @@ h2. Items
 | 風魔の手裏剣     | fūmanoshuriken   | Fuma Shuriken |	Magic Shuriken | Fuma Shuriken      |
 | 柳生の漆黒       | yagyūnoshikkoku  | Black Willow  | Yagyu Darkness | Yagyu Darkrood     |
 
+### Weapons
 
-h2. Weapons
-
-|_. Japanese       |_ Romaji             |_. Aerdan            |_. PlayStation   |_. War of the Lions  |
+| Japanese         |_ Romaji             | Síle                | PlayStation     | War of the Lions    |
+| ---------------- | ------------------- | ------------------- | --------------- | ------------------- |
 | ブロードソード   | burōdosōdo          | Broadsword          | Broad Sword     | Broadsword          |
 | ロングソード     | rongusōdo           | Longsword           | Long Sword      | Longsword           |
 | アイアンソード   | aiansōdo            | Iron Sword          | Iron Sword      | Iron Sword          |
@@ -386,7 +392,7 @@ h2. Weapons
 | アサシンダガー   | asashindagā         | Assassin Dagger     | Assassin Dagger | Assassin's Dagger   |
 | エアナイフ       | eanaifu             | Air Knife           | Air Knife       | Air Knife           |
 | ゾーリンシェイプ | zōrinsheipu         | Zorlin Shape        | Zorlin Shape    | Zwill Straightblade |
-| ロングボウ       | rongubou            | Longbow             | Long Bow        | Longbow             |
+| ロングボウ       | rongubō             | Longbow             | Long Bow        | Longbow             |
 | 銀の弓           | ginnoyumi           | Silver Bow          | Silver Bow      | Silver Bow          |
 | 氷の弓           | kōrinoyumi          | Frost Bow           | Ice Bow         | Ice Bow             |
 | ライトニングボウ | raitoningubō        | Lightning Bow       | Lightning Bow   | Lightning Bow       |
@@ -457,7 +463,7 @@ h2. Weapons
 | プリンセスガード | purinzesugādo       | Princess Guard      | (not present)   | Crown Sceptre       |
 | サイプレスパイル | saipuresupairu      | Cypress Spire       | Cypress Rod     | Cypress Pole        |
 | バトルバンブー   | batorubanbū         | Battle Bamboo       | Battle Bamboo   | Battle Bamboo       |
-| じゃこうしゃく   | jakoushaku          | Musk Shaku          | Musk Rod        | Musk Pole           |
+| じゃこうしゃく   | jakōshaku           | Musk Shaku          | Musk Rod        | Musk Pole           |
 | 鉄扇             | tessen              | Iron Fan            | Iron Fan        | Iron Fan            |
 | ゴクウの棒       | gokūnobō            | Goku's Bo           | Gokuu Rod       | Gokuu Pole          |
 | 象牙の棒         | zōgenobō            | Ivory Bo            | Ivory Rod       | Ivory Pole          |
@@ -483,9 +489,10 @@ h2. Weapons
 | 血の十二弦       | chinojunigen        | Bloodsoaked Harp    | Bloody Strings  | Bloodstring Harp    |
 | 妖精のハープ     | yōseinohāpu         | Faerie Harp         | Fairy Harp      | Fairie Harp         |
 
-h2. Headgear
+### Headgear
 
-|_. Japanese       |_ Romaji          |_. Aerdan        |_. PlayStation  |_. War of the Lions |
+| Japanese         |_ Romaji          | Síle            | PlayStation    | War of the Lions   |
+| ---------------- | ---------------- | --------------- | -------------- | ------------------ |
 | 革の帽子         | kawanobōshi      | Leather Cap     | Leather Hat    | Leather Cap        |
 | 羽根つき帽子     | hanetsukibōshi   | Feathered Cap   | Feather Hat    | Plumed Hat         |
 | 赤ずきん         | akazukin         | Red Cowl        | Red Hood       | Red Hood           |
@@ -519,16 +526,17 @@ h2. Headgear
 | バレッタ         | baretta          | Barette         | Barette        | Barette            |
 | リボン           | ribon            | Ribbon          | Ribbon         | Ribbon             |
 
-h2. Armor
+### Armor
 
-|_. Japanese       |_ Romaji           |_. Aerdan        |_. PlayStation  |_. War of the Lions |
-| 服               | fuku              | Garb            | Clothes        | Clothing           |
-| 革の服           | kawanofuku        | Leather Garb    | Leather Outfit | Leather Clothing   |
+| Japanese         |_ Romaji           | Síle            | PlayStation    | War of the Lions   |
+| ---------------- | ----------------- | --------------- | -------------- | ------------------ |
+| 服               | fuku              | Suits           | Clothes        | Clothing           |
+| 革の服           | kawanofuku        | Leather Suit    | Leather Outfit | Leather Clothing   |
 | レザープレイト   | rezāpureito       | Leather Plate   | Leather Vest   | Leather Plate      |
 | チェインプレイト | cheinpureito      | Chain Plate     | Chain Vest     | Ringmail           |
 | ミスリルベスト   | misurirubesuto    | Mithril Vest    | Mythril Vest   | Mythril Vest       |
 | アダマンベスト   | adamanbesuto      | Adamantine Vest | Adaman Vest    | Adaman Vest        |
-| 魔術師の服       | majutsushinofuku  | Mage's Garb     | Wizard Outfit  | Wizard Clothing    |
+| 魔術師の服       | majutsushinofuku  | Mage's Suit     | Wizard Outfit  | Wizard Clothing    |
 | ブリガンダイン   | burigandain       | Brigandine      | Brigandine     | Brigandine         |
 | 柔術道着         | jūjutsudōgi       | Jujutsu Gi      | Judo Outfit    | Jujitsu Gi         |
 | 力だすき         | chikaradasuki     | Power Sash      | Power Sleeve   | Power Garb         |
@@ -565,9 +573,10 @@ h2. Armor
 | マクシミリアン   | makushimirian     | Maximilian      | Maximillian    | Maximillian        |
 | オニオンアーマー | onionāmā          | Onion Armor     | (not present)  | Onion Armor        |
 
-h2. Accessories
+### Accessories
 
-|_. Japanese       |_ Romaji          |_. Aerdan           |_. PlayStation  |_. War of the Lions |
+| Japanese         |_ Romaji          | Síle                | PlayStation    | War of the Lions   |
+| ---------------- | ---------------- | ------------------- | -------------- | ------------------ |
 | バトルブーツ     | batorubūtsu      | Battle Boots        | Battle Boots   | Battle Boots       |
 | スパイクシューズ | supaikushūsu     | Spike Shoes         | Spike Shoes    | Spiked Boots       |
 | ラバーシューズ   | rabāshūsu        | Rubber Shoes        | Rubber Shoes   | Rubber Boots       |
@@ -607,14 +616,15 @@ h2. Accessories
 | セッティエムソン | settiemuson      | Septiémeson         | Setiemson      | Septième           |
 | ティンカーリップ | tingārippu       | Tyngar Lip          | (not present)  | Tynar Rouge        |
 
-h2. Locations
+### Locations
 
-|_. Japanese           |_ Romaji                |_. Aerdan                 |_. PlayStation                 |_. War of the Lions       |
+| Japanese             |_ Romaji                | Síle                     | PlayStation                   | War of the Lions         |
+| -------------------- | ---------------------- | ------------------------ | ----------------------------- | ------------------------ |
 | イグーロス城         | igūrosujō              | Castle Eagulos           | Igros Castle                  | Eagrose Castle           |
-| 魔法都市ガリランド   | mahoutoshigarirando    | Magical City Gariland    | Magic City of Gariland        | Magick City of Gariland  |
+| 魔法都市ガリランド   | mahōtoshigarirando     | Magical City Gariland    | Magic City of Gariland        | Magick City of Gariland  |
 | 貿易都市ドーター     | bōekitoshi dōta        | Commerce City Dorter     | Dorter Trade City             | Merchant City of Dorter  |
 | ジークデン砦         | jīkudentei             | Fort Zealkden            | Fort Zeakden                  | Ziekden Fortress         |
-| 盗賊の砦             | touzokunotei           | Robber's Redoubt         | Thieves' Fort                 | Brigands' Den            |
+| 盗賊の砦             | tōzokunotei            | Robber's Redoubt         | Thieves' Fort                 | Brigands' Den            |
 | マンダリア平原       | mandariaheigen         | Mandaria Fields          | Mandalia Plains               | Mandalia Plains          |
 | スウィージの森       | suwījinomori           | Sweege Woodlands         | Sweegy Woods                  | Siedge Weald             |
 | レナリア台地         | renariadaichi          | Lenaria Mesa             | Lenalian Plateau              | Lenalian Plateau         |
@@ -622,7 +632,7 @@ h2. Locations
 | 城塞都市ザランダ     | jōsaitoshizaranda      | Fortress City Zaranda    | Zaland Fort City              | Castled City of Zaland   |
 | 貿易都市ウォージリス | bōekitoshiwōjirisu     | Commerce City Waljiris   | Warjilis Trade City           | Port City of Warjilis    |
 | 機工都市ゴーグ       | kikōtoshi gōgu         | Mechanized City Golg     | Goug Machine City             | Clockwork City of Goug   |
-| ゴルゴラルダ処刑場   | gorugorarudashoukeijō  | Golgralda Gallows        | Golgorand Execution Site      | Golgollada Gallows       |
+| ゴルゴラルダ処刑場   | gorugorarudashōkeijō   | Golgralda Gallows        | Golgorand Execution Site      | Golgollada Gallows       |
 | ツィゴリス湿原       | zigorisushūgen         | Zigris Marsh             | Zigolis Swamp                 | Tchigolith Fenlands      |
 | バリアスの丘         | bariasunokyū           | Balias Hill              | Bariaus Hill                  | Balias Tor               |
 | バリアスの谷         | bariasunokoku          | Balias Valley            | Bariaus Valley                | Balias Swale             |
@@ -640,8 +650,8 @@ h2. Locations
 | フォボハム平原       | fobohamuheigen         | Fobham Fields            | Fovoham Plains                | Fovoham Windflats        |
 | 王都ルザリア         | ōtoruzaria             | Imperial Capital Ruzalia | Lesalia Imperial Capital      | Royal City of Lesalia    |
 | 炭鉱都市ゴルランド   | tankōtoshigorurando    | Coal City Gorland        | Goland Coal City              | Mining Town of Gollund   |
-| ゴルランドの炭坑     | gorurandonotankou      | Gorland Coal Mine        | Colliery                      | Gollund Colliery         |
-| ゴルランドの坑道     | gorurandonokoudou      | Gorland Mineshaft        | Underground Passage in Goland | Gollund Coal Shaft       |
+| ゴルランドの炭坑     | gorurandonotankō       | Gorland Coal Mine        | Colliery                      | Gollund Colliery         |
+| ゴルランドの坑道     | gorurandonokōdō        | Gorland Mineshaft        | Underground Passage in Goland | Gollund Coal Shaft       |
 | 自治都市ベルベニア   | jijitoshiberubenia     | City-State Verbenia      | Bervenia Free City            | Free City of Bervenia    |
 | オーボンヌ修道院     | ōbonnushūdōin          | Orbonne Monastery        | Orbonne Monastery             | Orbonne Monastery        |
 | 地下書庫             | chikashoko             | Library Cellar           | Underground Book Storage      | Monastery Vaults         |
@@ -651,11 +661,11 @@ h2. Locations
 | アラグアイの森       | araguainomori          | Araguay Woodlands        | Araguay Woods                 | Araguay Woods            |
 | グローグの丘         | gurōgunokyū            | Grolgh Hill              | Grog Hill                     | Grogh Heights            |
 | ゼイレキレ川         | zeirekiresen           | Zeirekille Stream        | Zirekile Falls                | Zeirchele Falls          |
-| ドグーラ岬           | dogūrakou              | Doguera Cape             | Dogoula Pass                  | Dugeura Pass             |
+| ドグーラ岬           | dogūrakō               | Doguera Cape             | Dogoula Pass                  | Dugeura Pass             |
 | 聖ミュロンド寺院     | seimyurondojiin        | St. Mulonde Temple       | St. Murond Temple             | Mullonde Cathedral       |
 | ネルベスカ神殿       | nerubesukashinden      | Nerveska Temple          | Nelveska Temple               | Nelveska Temple          |
 | ディープダンジョン   | dīpudanjon             | Deep Dungeon             | Deep Dungeon                  | Midlight's Deep          |
 | 死都ミュロンド       | shitomyurondo          | Necromanse Mulonde       | Murond Death City             | Necrohol of Mullonde     |
 | 失われた聖域         | ushinawaretaseiki      | Lost Holyland            | Lost Sacred Precincts         | Lost Halidom             |
-| 飛空艇の墓場         | hikuteinohoshuu        | Airship Graveyard        | Graveyard of Airships         | Airship Graveyard        |
+| 飛空艇の墓場         | hikuteinohoshū         | Airship Graveyard        | Graveyard of Airships         | Airship Graveyard        |
 

@@ -1,5 +1,6 @@
 ---
-title: Chrono Cross Translation Guide
+title: Chrono Cross
+translation: true
 ---
 
 Like most of Square's PlayStation-era RPGs, Chrono Cross's translation was...weird, to say the least, as though they decided Woolsey's habit of making things up as he went along (because he didn't have time to do it right) was the right approach to the game.

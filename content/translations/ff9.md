@@ -1,13 +1,11 @@
 ---
-layout: page
-title: Final Fantasy IX Changes Guide
-type: Dataset
-about: '{"@type":"VideoGame","headline":"Final Fantasy IX","datePublished":"2000-07-07","publisher":{"@type":"Organization":"name":"Square"}}'
+title: Final Fantasy IX
+translation: true
 ---
+## Characters
 
-h2. Characters
-
-|_. Japanese   |_. Romaji  |_. Aerdan   |_. Official |
+| Japanese     | Romaji    | Síle       | Official   |
+| ------------ | --------- | ---------- | ---------- |
 | ジタン       | jidan     | Zidane     | Zidane     |
 | スタイナー   | sutainā   | Steiner    | Steiner    |
 | マーカス     | mākasu    | Marcus     | Marcus     |
@@ -19,19 +17,20 @@ h2. Characters
 | ビビ         | bibi      | Vivi       | Vivi       |
 | クイナ       | kuina     | Quina      | Quina      |
 
-h2. Items
+## Items
 
-h3. Weapons
+### Weapons
 
-|_. Japanese       |_. Romaji         |_. Aerdan          |_. Official      |
-|_. 短刀           | tantō            | Short Blades      | (N/A)           |
+| Japanese         | Romaji           | Síle              | Official        |
+| ---------------- | ---------------- | ----------------- | --------------- |
+| 短刀             | tantō            | Short Blades      | (N/A)           |
 | ダガー           | dagā             | Dagger            | Dagger          |
 | メイジマッシャー | meijimashā       | Mage Masher       | Mage Masher     |
 | ミスリルダガー   | misurirudagā     | Mithril Dagger    | Mythril Dagger  |
 | グラディウス     | guradiusu        | Gladius           | Gladius         |
 | ゾーリンシェイプ | zōrinsheipu      | Zorlin Shape      | Zorlin Shape    |
 | オリハルコン     | oriharukon       | Orichalcum        | Orichalcon      |
-|_. 盗賊刀         | tōzokutō         | Thief Blades      | (N/A)           |
+| 盗賊刀           | tōzokutō         | Thief Blades      | (N/A)           |
 | バタフライソード | batafuraisōdo    | Butterfly Sword   | Butterfly Sword |
 | オーガニクス     | ōganikusu        | Ogrenix           | The Ogre        |
 | エクスプローダ   | ekusupurōda      | Exploder          | Exploda         |
@@ -41,7 +40,7 @@ h3. Weapons
 | マサムネ         | masamune         | Masamune          | Masamune        |
 | ザ･タワー        | za·tawā          | The Tower         | The Tower       |
 | アルテマウェポン | arutemawepon     | Ultima Weapon     | Ultima Weapon   |
-|_. 剣             | tsurugi          | Swords            | (N/A)           |
+| 剣               | tsurugi          | Swords            | (N/A)           |
 | ブロードソード   | burōdosōdo       | Broadsword        | Broadsword      |
 | アイアンソード   | aiansōdo         | Iron Sword        | Iron Sword      |
 | ミスリルソード   | misurirusōdo     | Mithril Sword     | Mythril Sword   |
@@ -52,13 +51,13 @@ h3. Weapons
 | フレイムタン     | fureimutan       | Flametongue       | Flame Sabre     |
 | ルーンブレイド   | rūnbureido       | Runeblade         | Rune Blade      |
 | ディフェンダー   | difendā          | Defender          | Defender        |
-|_. 騎士剣         | kishitsurugi     | Knight Swords     | (N/A)           |
+| 騎士剣           | kishitsurugi     | Knight Swords     | (N/A)           |
 | セイブザクイーン | seibuzakuīn      | Save the Queen    | Save the Queen  |
 | アルテマソード   | arutemasōdo      | Ultima Sword      | Ultima Sword    |
 | エクスカリバー   | ekusukaribā      | Excalibur         | Excalibur       |
 | ラグナロク       | ragunaroku       | Ragnarok          | Ragnarok        |
 | エクスカリバⅡⅡ   | ekusukaribāII    | Caladbolg         | Excalibur II    |
-|_. 槍             | yari             | Spears            | (N/A)           |
+| 槍               | yari             | Spears            | (N/A)           |
 | ジャベリン       | jaberin          | Javelin           | Javelin         |
 | ミスリルスピア   | misurirusupia    | Mithril Spear     | Mythril Spear   |
 | パルチザン       | paruchizan       | Partisan          | Partisan        |
@@ -69,7 +68,7 @@ h3. Weapons
 | ホーリーランス   | hōrīransu        | Holy Lance        | Holy Lance      |
 | ランスオブカイン | ransuobukain     | Cain's Lance      | Kain's Lance    |
 | 竜の髭           | ryūnohige        | Dragon's Whisker  | Dragon's Hair   |
-|_. 爪             | tsume            | Claws             | (N/A)           |
+| 爪               | tsume            | Claws             | (N/A)           |
 | 猫の爪           | nekonotsume      | Cat's Claw        | Cat's Claws     |
 | ポイズンナックル | poizunnakkuru    | Poison Knuckle    | Poison Knuckles |
 | ミスリルクロー   | misurirukurō     | Mithril Claw      | Mythril Claws   |
@@ -80,14 +79,14 @@ h3. Weapons
 | カイザーナックル | kaizānakkuru     | Kaiser Knuckle    | Kaiser Knuckles |
 | デュエルクロー   | duerukurō        | Duel Claw         | Duel Claws      |
 | ルーンの爪       | rūnnotsume       | Runed Claw        | Rune Claws      |
-|_. ラケット       | raketto          | Rackets           | (N/A)           |
+| ラケット         | raketto          | Rackets           | (N/A)           |
 | エアラケット     | earaketto        | Air Racket        | Air Racket      |
 | マルチナラケット | maruchinaraketto | Global Racket     | Multina Racket  |
 | 魔法のラケット   | mahōnoraketto    | Magical Racket    | Magic Racket    |
 | ミスリルラケット | misuriruraketto  | Mithril Racket    | Mythril Racket  |
 | 司祭のラケット   | shisainoraketto  | Priest's Racket   | Priest's Racket |
 | ねこの手ラケット | nekonoteraketto  | Catspaw Racket    | Tiger Racket    |
-|_. ロッド         | roddo            | Rods              | (N/A)           |
+| ロッド           | roddo            | Rods              | (N/A)           |
 | ロッド           | roddo            | Rod               | Rod             |
 | ミスリルロッド   | misuriruroddo    | Mithril Rod       | Mythril Rod     |
 | 星くずのロッド   | hoshikuzunoroddo | Stardust Rod      | Stardust Rod    |
@@ -95,24 +94,24 @@ h3. Weapons
 | アスラのロッド   | asuranoroddo     | Asura's Rod       | Asura's Rod     |
 | ウィザードロッド | wizādoroddo      | Wizard Rod        | Wizard Rod      |
 | 鯨の髭           | kujiranohige     | Whale's Whisker   | Whale Whisker   |
-|_. 笛             | fue              | Flutes            | (N/A)           |
+| 笛               | fue              | Flutes            | (N/A)           |
 | ゴーレムのふえ   | gōremunofue      | Golem's Flute     | Golem's Flute   |
 | ラミアのふえ     | ramianofue       | Lamia's Flute     | Lamia's Flute   |
 | 妖精のファイフ   | yōseinofaifu     | Faerie Fife       | Fairy Flute     |
 | ヒューメルーン   | hūmerūn          | Hamelin           | Hamelin         |
 | セイレーンのふえ | seirēnnofue      | Siren's Flute     | Siren's Flute   |
 | 天使のふえ       | tenshinofue      | Angelic Flute     | Angel's Flute   |
-|_. 杖             | tsue             | Staves            | (N/A)           |
+| 杖               | tsue             | Staves            | (N/A)           |
 | 魔道士のつえ     | madōshinotsue    | Novice's Staff    | Mage's Staff    |
 | 炎のつえ         | honōnotsue       | Fiery Staff       | Flame Staff     |
 | 氷のつえ         | kōrinotsue       | Icy Staff         | Ice Staff       |
 | 雷のつえ         | ikazuchinotsue   | Electric Staff    | Lightning Staff |
 | オークスタッフ   | ōkusutaffu       | Oak Staff         | Oak Staff       |
 | サイプレスパイル | saipuresupairu   | Cypress Pyre      | Cypress Pile    |
-| 八角棒           | hokkakubou       | Octagonal Pole    | Octagon Rod     |
+| 八角棒           | hokkakubō        | Octagonal Pole    | Octagon Rod     |
 | 魔導師のつえ     | madōshinotsue    | Mage's Staff      | High Mage Staff |
 | メイスオブゼウス | meisuobuzeusu    | Zeus's Mace       | Mace of Zeus    |
-|_. フォーク       | fōku             | Forks             | (N/A)           |
+| フォーク         | fōku             | Forks             | (N/A)           |
 | フォーク         | fōku             | Fork              | Fork            |
 | ニードルフォーク | nīdorufōku       | Needle Fork       | Needle Fork     |
 | ミスリルフォーク | misurirufōku     | Mithril Fork      | Mythril Fork    |
@@ -120,10 +119,11 @@ h3. Weapons
 | ビストロフォーク | bisutorofōku     | Bistro Fork       | Bistro Fork     |
 | ガストロフォーク | gasutorofōku     | Gastro Fork       | Gastro Fork     |
 
-h2. Headwear
+### Caps
 
-|_. Japanese       |_. Romaji            |_. Aerdan            |_. Official |
-|_. 帽子           | bōshi               | Caps                | (N/A)           |
+| Japanese         | Romaji              | Síle                | Official        |
+| ---------------- | ------------------- | ------------------- | --------------- |
+| 帽子             | bōshi               | Caps                | (N/A)           |
 | 皮の帽子         | kawanobōshi         | Hide Cap            | Leather Hat     |
 | むぎわら帽子     | mugiwarabōshi       | Straw Hat           | Straw Hat       |
 | 羽根付き帽子     | hanetsukibōshi      | Feathered Cap       | Feather Hat     |
@@ -148,8 +148,12 @@ h2. Headwear
 | 司祭の帽子       | shisainobōshi       | Priest's Cap        | Holy Mitre      |
 | 黄金のスカラー   | kinnosukarā         | Golden Scholar      | Golden Skullcap |
 | サークレット     | sākuretto           | Circlet             | Circlet         |
-|_. Japanese       |_. Romaji            |_. Aerdan            |_. Official      |
-|_. 兜             | kabuto              | Helmets             | (N/A)           |
+
+### Helmets
+
+| Japanese         | Romaji              | Síle                | Official        |
+| ---------------- | ------------------- | ------------------- | --------------- |
+| 兜               | kabuto              | Helmets             | (N/A)           |
 | ラバーヘルム     | rabāherumu          | Rubber Helm         | Rubber Helm     |
 | ブロンズヘルム   | buronzuherumu       | Bronze Helm         | Bronze Helm     |
 | アイアンヘルム   | aianherumu          | Iron Helm           | Iron Helm       |
@@ -163,10 +167,11 @@ h2. Headwear
 | 源氏の兜         | genjinokabuto       | Genji's Helmet      | Genji Helmet    |
 | グランドヘルム   | gurandoherumu       | Grand Helm          | Grand Helm      |
 
-h3. Armwear
+### Armwear
 
-|_. Japanese       |_. Romaji        |_. Aerdan            |_. Official      |
-|_. 腕輪           | udewa           | Bangles             | Armlets         |
+| Japanese         | Romaji          | Síle                | Official        |
+| ---------------- | --------------- | ------------------- | --------------- |
+| 腕輪             | udewa           | Bangles             | Armlets         |
 | ブルメリアブレス | burumeriaburesu | Brumelian Bracelet  | Pearl Armlet    |
 | リスト           | risuto          | Wristband           | Wrist           |
 | 皮のリスト       | kawanorisuto    | Hide Wristband      | Leather Wrist   |
@@ -181,8 +186,8 @@ h3. Armwear
 | ドラゴンリスト   | doragonrisuto   | Dragon Wristband    | Dragon Wrist    |
 | パワーリスト     | pawārisuto      | Power Wristband     | Power Wrist     |
 | ブレイザー       | bureizā         | Blazer              | Bracer          |
-|_. Japanese       |_. Romaji        |_. Aerdan            |_. Official      |
-|_. 小手           | kote            | Gauntlets           | Gloves          |
+| Japanese         | Romaji          | Síle                | Official        |
+| 小手             | kote            | Gauntlets           | Gloves          |
 | ブロンズのこて   | buronzunokote   | Bronze Gauntlet     | Bronze Gloves   |
 | エスカッション   | esukasshon      | Escutcheon          | Silver Gloves   |
 | ミスリルのこて   | misurirunokote  | Mithril Gauntlet    | Mythril Glvoes  |
@@ -195,10 +200,11 @@ h3. Armwear
 | イージスのこて   | ījisunokote     | Aegis Gauntlet      | Aegis Gloves    |
 | ガントレット     | gantoretto      | Gauntlet            | Gauntlets       |
 
-h3. Garments
+### Suits
 
-|_. Japanese       |_. Romaji         |_. Aerdan            |_. Official      |
-|_. 服             | fuku             | Suits               | (N/A)           |
+| Japanese         | Romaji           | Síle                | Official        |
+| ---------------- | ------------------- | ------------------- | --------------- |
+| 服               | fuku             | Suits               | (N/A)           |
 | アロハシャツ     | arohashatsu      | Aloha Shirt         | Aloha T-Shirt   |
 | 皮の服           | kawanofuku       | Hide Suit           | Leather Shirt   |
 | シルクの服       | shirukunofuku    | Silk Suit           | Silk Shirt      |
@@ -219,8 +225,8 @@ h3. Garments
 | 黒装束           | kuroshōzoku      | Black Outfit        | Dark Gear       |
 | ラバーコンシャス | rabākonshasu     | Rubber Conscious    | Rubber Suit     |
 | ブレイブスーツ   | bureibusūtsu     | Brave Suit          | Brave Suit      |
-|_. Japanese       |_. Romaji         |_. Aerdan            |_. Official      |
-|_. ローブ         | rōbu             | Robes               | (N/A)           |
+| Japanese         | Romaji           | Síle                | Official        |
+| ローブ           | rōbu             | Robes               | (N/A)           |
 | もめんのローブ   | momennorōbu      | Cotton Robe         | Cotton Robe     |
 | シルクのローブ   | shirukunorōbu    | Silk Robe           | Silk Robe       |
 | 魔術師のローブ   | majutsushinorōbu | Magician's Robe     | Magician Robe   |
@@ -229,8 +235,12 @@ h3. Garments
 | 黒のローブ       | kuronorōbu       | Black Robe          | Black Robe      |
 | 光のローブ       | hikarinorōbu     | Shimmering Robe     | Light Robe      |
 | ローブオブロード | rōbuoburōdo      | Lordly Robe         | Robe of Lords   |
-|_. Japanese       |_. Romaji         |_. Aerdan            |_. Official      |
-|_. 鎧             | yoroi            | Armor               | (N/A)           |
+
+### Armor
+
+| Japanese         | Romaji           | Síle                | Official        |
+| ---------------- | ---------------- | ------------------- | --------------- |
+| 鎧               | yoroi            | Armor               | (N/A)           |
 | ブロンズアーマー | buronzuāmā       | Bronze Armor        | Bronze Armor    |
 | リネンキュラッサ | renenkyurassa    | Linen Cuirass       | Linen Cuirass   |
 | チェインメイル   | cheinmeiru       | Chainmail           | Chain Mail      |
@@ -248,9 +258,10 @@ h3. Garments
 | グランドアーマー | gurandoāmā       | Grand Armor         | Grand Armor     |
 | ブリキの鎧       | burikinoyoroi    | Tin Armor           | Tin Armor       |
 
-h3. Accessories
+### Accessories
 
-|_. Japanese       |_. Romaji          |_. Aerdan            |_. Official     |
+| Japanese         | Romaji            | Síle                | Official       |
+| ---------------- | ----------------- | ------------------- | -------------- |
 | アクアマリン     | akuamarin         | Aquamarine          | Aquamarine     |
 | アメジスト       | amejisuto         | Amethyst            | Amethyst       |
 | アンクレット     | ankuretto         | Anklet              | Anklet         |
@@ -297,9 +308,10 @@ h3. Accessories
 | ルビー           | rubī              | Ruby                | Ruby           |
 | ロゼッタの指輪   | rozettanoyubiwa   | Rosetta's Ring      | Rosetta Ring   |
 
-h3. Key Items
+### Key Items
 
-|_. Japanese                 |_. Romaji                         |_. Aerdan                   |_. Official        |
+| Japanese                   | Romaji                           | Síle                       | Official          |
+| -------------------------- | -------------------------------- | -------------------------- | ----------------- |
 | 銀のペンダント             | kanenopendanto                   | Metal Pendant              | Silver Pendant    |
 | 追憶のイヤリング           | tsuiokunoiyaringu                | Memorial Earring           | Memory Earring    |
 | 天竜の爪                   | tenryūnotsume                    | Holy Dragon's Claw         | Falcon Claw       |
@@ -368,9 +380,10 @@ h3. Key Items
 | すべすべオイル             | subesubeoiru                     | Silken Oil                 | Superslick        |
 | こうりゃくぼん             | kōryakuban                       | Strategy Guide             | Strategy Guide    |
 
-h3. Consumables
+### Consumables
 
-|_. Japanese       |_. Romaji        |_. Aerdan       |_. Official     |
+| Japanese         | Romaji          | Síle           | Official       |
+| ---------------- | --------------- | -------------- | -------------- |
 | ポーション       | pōshon          | Potion         | Potion         |
 | ハイポーション   | haipōshon       | High Potion    | Hi-Potion      |
 | エーテル         | ēteru           | Ether          | Ether          |
@@ -406,11 +419,12 @@ h3. Consumables
 | ライジングサン   | raijingusan     | Rising Sun     | Rising Sun     |
 | ウイングエッジ   | winguejji       | Wing Edge      | Wing Edge      |
 
-h2. Abilities
+## Abilities
 
-h3. White Magic
+### White Magic
 
-|_. Japanese |_. Romaji |_. Aerdan    |_. Official |
+| Japanese   | Romaji   | Síle        | Official   |
+| ---------- | -------- | ----------- | ---------- |
 | ケアル     | kearu    | Cure        | Cure       |
 | ケアルラ   | kearura  | Curera      | Cura       |
 | ケアルガ   | kearuga  | Curega      | Curaga     |
@@ -436,9 +450,10 @@ h3. White Magic
 | ジュエル   | jueru    | Jewel       | Jewel      |
 | ホーリー   | hōrī     | Holy        | Holy       |
 
-h3. Black Magic
+### Black Magic
 
-|_. Japanese |_. Romaji |_. Aerdan    |_. Official |
+| Japanese   | Romaji   | Síle        | Official   |
+| ---------- | -------- | ----------- | ---------- |
 | ファイア   | faia     | Fire        | Fire       |
 | ファイラ   | faira    | Firera      | Fira       |
 | ファイガ   | faiga    | Firega      | Firaga     |
@@ -458,15 +473,16 @@ h3. Black Magic
 | グラビデ   | gurabide | Gravity     | Demi       |
 | コメット   | kometto  | Comet       | Comet      |
 | デス       | desu     | Death       | Death      |
-| ブレイク   | bureiku  | Brick       | Break      |
+| ブレイク   | bureiku  | Break       | Break      |
 | ウォータ   | wōta     | Water       | Water      |
 | メテオ     | meteo    | Meteor      | Meteor     |
 | フレア     | furea    | Flare       | Flare      |
 | ジハード   | jihādo   | Jihad       | Doomsday   |
 
-h3. Blue Magic
+### Blue Magic
 
-|_. Japanese       |_. Romaji       |_. Aerdan            |_. Official    |
+| Japanese         | Romaji         | Síle                | Official      |
+| ---------------- | -------------- | ------------------- |-------------- |
 | ゴブリンパンチ   | goburinpanchi  | Goblin Punch        | Goblin Punch  |
 | レベル5デス      | reberu5desu    | Level 5 Death       | LV5 Death     |
 | レベル4ホーリー  | reberu4hōrī    | Level 4 Holy        | LV4 Holy      |
@@ -492,9 +508,10 @@ h3. Blue Magic
 | マジックハンマー | majikkuhammā   | Magic Hammer        | Magic Hammer  |
 | リレイズ         | rireizu        | Reraise             | Auto-Life     |
 
-h3. Summons
+### Summons
 
-|_. Japanese     |_. Romaji  |_. Aerdan  |_. Official |
+| Japanese       | Romaji    | Síle      | Official   |
+| -------------- | --------- | --------- | ---------- |
 | シヴァ         | shiva     | Shiva     | Shiva      |
 | イフリート     | ifurīto   | Efreet    | Ifrit      |
 | ラムウ         | ramū      | Ramu      | Ramuh      |
@@ -508,10 +525,11 @@ h3. Summons
 | フェニックス   | fenikkusu | Phoenix   | Phoenix    |
 | マディーン     | madīn     | Madeen    | Madeen     |
 
-h3. Skills
+### Skills
 
-|_. Japanese       |_. Romaji        |_. Aerdan           |_. Official       |
-|_. 秘技           | higi            | Hidden Techniques  | Skills           |
+| Japanese         | Romaji          | Síle               | Official         |
+| ---------------- | --------------- | ------------------ | ---------------- |
+| 秘技             | higi            | Hidden Techniques  | Skills           |
 | とんずら         | tonzura         | Escape             | Flee             |
 | みやぶる         | miyazuru        | Discover           | Detect           |
 | あれはなんだ     | arewanande      | What's that?!      | What's That?!    |
@@ -520,8 +538,8 @@ h3. Skills
 | ライフデジョン   | raifudejon      | Dezone Life        | Sacrifice        |
 | リーチセブン     | rīchisebun      | Reach Seven        | Lucky Seven      |
 | 盗賊のあかし     | tōzokunoakashi  | Thief's Proof      | Thievery         |
-|_. Japanese       |_. Romaji        |_. Aerdan           |_. Official       |
-|_. 裏技           | rigi            | Reverse Techniques | Dyne             |
+| Japanese         | Romaji          | Síle               | Official         |
+| 裏技             | rigi            | Reverse Techniques | Dyne             |
 | フリーエナジー   | furīenajī       | Free Energy        | Free Energy      |
 | タイダルフレイム | taidarufureimu  | Tidal Flame        | Tidal Flame      |
 | スクープアウト   | sukūpuauto      | Scoop Out          | Scoop Art        |
@@ -530,8 +548,7 @@ h3. Skills
 | ミルツイスター   | mirutsuisutā    | Mill Twister       | Meo Twister      |
 | ソリューション9  | soryūshon9      | Solution 9         | Solution 9       |
 | グランドリーサル | gurandorīsaru   | Grand Lethal       | Grand Lethal     |
-|_. Japanese       |_. Romaji        |_. Aerdan           |_. Official       |
-|_. 剣技           | kengi           | Sword Techniques   | Sword Art        |
+| 剣技             | kengi           | Sword Techniques   | Sword Art        |
 | 暗黒剣           | ankokuken       | Black Blade        | Darkside         |
 | サガク剣         | sagakuken       | Difference Blade   | Minus Strike     |
 | いあいぬき       | iainuki         | Iainuki            | Iai Strike       |
@@ -544,8 +561,7 @@ h3. Skills
 | ストックブレイク | sutokkubureiku  | Stock Break        | Stock Break      |
 | クライムハザード | kuraimuhazādo   | Climb Hazard       | Climhazzard      |
 | ショック         | shokku          | Shock              | Shock            |
-|_. Japanese       |_. Romaji        |_. Aerdan           |_. Official       |
-|_. 竜技           | ryūgi           | Dragon Techniques  | Dragon           |
+| 竜技             | ryūgi           | Dragon Techniques  | Dragon           |
 | 竜剣             | ryūken          | Dragon Blade       | Lancer           |
 | レーゼの風       | rēzenokaze      | Rose Wind          | Reis's Wind      |
 | ドラゴンブレス   | doragonburesu   | Dragon Breath      | Dragon Breath    |
@@ -554,8 +570,7 @@ h3. Skills
 | 六竜             | rokuryū         | Six Dragons        | Six Dragons      |
 | 桜華狂咲         | ōkakyōshō       | Cherry Chaos       | Cherry Blossom   |
 | 竜の紋章         | ryūnomonshō     | Dragon's Crest     | Dragon's Crest   |
-|_. Japanese       |_. Romaji        |_. Aerdan           |_. Official       |
-|_. 奥義/絶技      | ōgi/zetsugi     | Martial Arts       | Flair            |
+| 奥義/絶技        | ōgi/zetsugi     | Martial Arts       | Flair            |
 | チャクラ         | chakura         | Chakra             | Chakra           |
 | ぜになげ         | zeninage        | Zeninage           | Spare Change     |
 | 雑魚ちらし       | jakochirashi    | Scattered Nobodies | No Mercy         |
@@ -565,9 +580,10 @@ h3. Skills
 | グラビデ拳       | gurabideken     | Gravity Fist       | Demi Shock       |
 | 秘孔拳           | hikōken         | Hidden Strike      | Countdown        |
 
-h3. Support Abilities
+### Support Abilities
 
-|_. Japanese       |_. Romaji                |_. Aerdan              |_. Official     |
+| Japanese         | Romaji                  | Síle                  | Official       |
+| ---------------- | ----------------------- | --------------------- | -------------- |
 | いつでもリフレク | itsudemorifureku        | Auto-Reflect          | Auto-Reflect   |
 | いつでもレビテト | itsudemorebiteto        | Auto-Levitate         | Auto-Float     |
 | いつでもヘイスト | itsudemoheisuto         | Auto-Haste            | Auto-Haste     |
@@ -627,14 +643,15 @@ h3. Support Abilities
 | オートポーション | ātopōshon               | Auto-Potion           | Auto-Potion    |
 | 止まらずの術     | tomarazunojutsu         | Stop-Avoiding Art     | Locomotion     |
 | 混乱回避の術     | konrankaihinojutsu      | Confusion-Evasion Art | Clear Headed   |
-| おうえん         | ouen                    | Assistance            | Boost          |
+| おうえん         | ōen                     | Assistance            | Boost          |
 | 斬鉄ダメージ     | zantetsudamēji          | Damage Odin-Immune    | Odin's Sword   |
 | ぶんどる         | bundoru                 | Plunder               | Mug            |
 | 盗賊の極意       | tōzokunogokui           | Thief's Expertise     | Master Thief   |
 
-h3. Bestiary
+## Bestiary
 
-|_. Japanese                     |_. Romaji                |_. Aerdan                  |_. Official            |
+| Japanese                       | Romaji                  | Síle                      | Official              |
+| ------------------------------ | ----------------------- | ------------------------- | --------------------- |
 | 謎の仮面男                     | nazonokamenotoko        | Mysterious Masked Man     | Masked Man            |
 | レア王                         | reaō                    | King Lear                 | King Leo              |
 | ゼネロ                         | zenero                  | Zenero                    | Zenero                |

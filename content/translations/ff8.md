@@ -1,13 +1,11 @@
 ---
-layout: page
-title: Final Fantasy VIII Changes Guide
-type: Dataset
-about: '{"@type":"VideoGame","headline":"Final Fantasy VIII","datePublished":"1999-02-11","publisher":{"@type":"Organization","name":"Square"}}'
+title: Final Fantasy VIII
+translation: true
 ---
+## Characters
 
-h2. Characters
-
-|_. Japanese   |_. Romaji |_. Aerdan |_. Official |
+| Japanese     | Romaji   | Síle     | Official   |
+| ------------ | -------- | -------- | ---------- |
 | スコール     | sukōru   | Squall   | Squall     |
 | リノア       | rinoa    | Lenore   | Rinoa      |
 | キスティス   | kisutisu | Quistis  | Quistis    |
@@ -15,9 +13,12 @@ h2. Characters
 | セルフィ     | serufi   | Selphi   | Selphie    |
 | アーヴァイン | āvain    | Irvine   | Irvine     |
 
-h2. Weapons
+## Items
 
-|_. Japanese           |_. Romaji          |_. Aerdan        |_. Official      |
+### Weapons
+
+| Japanese             | Romaji            | Síle            | Official        |
+| -------------------- | ----------------- | --------------- | --------------- |
 | リボルバー           | riborubā          | Revolver        | Revolver        |
 | キアストレート       | kiasutorēto       | Fixer-Upper[1]  | Shear Trigger   |
 | カッテングトリガー   | kattengutoriga-   | Cutting Trigger | Cutting Trigger |
@@ -47,11 +48,12 @@ h2. Weapons
 | ビスマルク           | bisumaruku        | Bismarck        | Bismarck        |
 | エクゼター           | ekuzetā           | Exeter          | Exeter          |
 
-fn1. The Japanese name is probably intended to be 'Castrate'. The official localization is, therefore, pretty clever. A fixer-upper is a serviceable item, but which wasn't maintained as well as it could've been. The wordplay here should be obvious.
+1. The Japanese name is probably intended to be 'Castrate'. The official localization is, therefore, pretty clever. A fixer-upper is a serviceable item, but which wasn't maintained as well as it could've been. The wordplay here should be obvious.
 
-h3. Consumables
+### Consumables
 
-|_. Japanese       |_. Romaji      |_. Aerdan            |_. Official    |
+| Japanese         | Romaji        | Síle                | Official      |
+| ---------------- | ------------- | ------------------- | ------------- |
 | ポーション       | pōshon        | Potion              | Potion        |
 | ポーション改     | pōshonkai     | Potion Mk2          | Potion+       |
 | ハイポーション   | haipōshon     | High Potion         | Hi-Potion     |
@@ -77,9 +79,10 @@ h3. Consumables
 | Ｇメガポーション | Gmegapōshon   | G Mega Potion       | G-Mega-Potion |
 | Ｇリターナー     | Gritānā       | G Returner          | G-Returner    |
 
-h3. Battle Items
+### Battle Items
 
-|_. Japanese       |_. Romaji              |_. Aerdan                |_. Official     |
+| Japanese         | Romaji                | Síle                    | Official       |
+| ---------------- | --------------------- | ----------------------- | -------------- |
 | プロテスストーン | purotesusutōn         | Protect Stone           | Protect Stone  |
 | シェルストーン   | sherusutōn            | Shell Stone             | Shell Stone    |
 | オーラストーン   | ōrasutōn              | Aura Stone              | Aura Stone     |
@@ -97,9 +100,10 @@ h3. Battle Items
 | 友情のあかし     | yūjōnoakashi          | Friendship Badge        | Friendship     |
 | モグのお守り     | mogunoomamori         | Mog's Charm             | Mog Amulet     |
 
-h3. Blue Magic Items
+### Blue Magic Items
 
-|_. Japanese       |_. Romaji                  |_. Aerdan             |_. Official       |
+| Japanese         | Romaji                    | Síle                 | Official         |
+| ---------------- | ------------------------- | -------------------- | ---------------- |
 | 牙式連発銃       | kibashikirenbatsujū       | Tusken Repeater      | Running Fire     |
 | 風のささやき     | kazenosasayaki            | Whispering Wind      | Whisper          |
 | 火竜の牙         | karyūnokiba               | Firedrake Fang       | Inferno Fang     |
@@ -116,9 +120,10 @@ h3. Blue Magic Items
 | モルボルの触手   | moruborunoshokushu        | Mortboule's Tentacle | Malboro Tentacle |
 | レーザーキャノン | rēzākyanon                | Laser Cannon         | Laser Cannon     |
 
-h3. Ammo
+### Ammo
 
-|_. Japanese |_. Romaji    |_. Aerdan             |_. Official      |
+| Japanese   | Romaji      | Síle                 | Official        |
+| ---------- | ----------- | -------------------- | --------------- |
 | 通常弾     | tsūjōtama   | Normal Round         | Normal Ammo     |
 | 散弾       | sandan      | Buckshot             | Shotgun Ammo    |
 | 暗黒弾     | ankoku      | Dark Round           | Dark Ammo       |
@@ -128,9 +133,10 @@ h3. Ammo
 | 徹甲弾     | tekkōdan    | Armor-Piercing Round | AP Ammo         |
 | 波動弾     | hadōtama    | Surge Round          | Pulse Ammo      |
 
-h3. GF Ability Items
+### GF Ability Items
 
-|_. Japanese         |_. Romaji             |_. Aerdan            |_. Official      |
+| Japanese           | Romaji               | Síle                | Official        |
+| ------------------ | -------------------- | ------------------- | --------------- |
 | アイテムの書       | aitemunohon          | Item Tome           | Item Scroll     |
 | アダマンタイン     | adamantain           | Adamantine          | Adamantine      |
 | 医術の心得         | ijutsunokokoroe      | Medical Text        | Doc's Code      |
@@ -191,9 +197,10 @@ h3. GF Ability Items
 | ロゼッタ石         | rozettaishi          | Rosetta Stone       | Rosetta Stone   |
 | 忘れ草             | wasuregusa           | Forgetful Grass     | Anmensia Greens |
 
-h3. GF Compatibility-Boosting Items
+### GF Compatibility-Boosting Items
 
-|_. Japanese     |_. Romaji       |_. Aerdan        |_. Official     |
+| Japanese       | Romaji         | Síle            | Official       |
+| -------------- | -------------- | --------------- | -------------- |
 | 赤い牙         | akaikiba       | Red Fang        | Red Fang       |
 | 風車           | kazaguruma     | Windmill        | Windmill       |
 | 風切り羽       | kazakiribane   | Flight Feathers | Shear Feather  |
@@ -215,12 +222,13 @@ h3. GF Compatibility-Boosting Items
 | ほうちょう     | hōchō          | Knife           | Chef's Knife   |
 | ラブラブＧ     | raburabuG      | Lovey-Dovey G   | LuvLuvG        |
 
-h3. Miscellaneous Items
+### Miscellaneous Items
 
-|_. Japanese       |_. Romaji           |_. Aerdan              |_. Official        |
-| 魔石のかけら     | maishinokakera     | Magirock Fragment     | M-Stone Piece     |
-| 魔石             | maishi             | Magirock              | Magic Stone       |
-| 魔導石           | madōishi           | Magical Rock          | Wizard Stone      |
+| Japanese         | Romaji             | Síle                  | Official          |
+| ---------------- | ------------------ | --------------------- | ----------------- |
+| 魔石のかけら     | maishinokakera     | Manastone Shard       | M-Stone Piece     |
+| 魔石             | maishi             | Manastone             | Magic Stone       |
+| 魔導石           | madōishi           | Magirock              | Wizard Stone      |
 | オチューの触手   | ochūnoshokushu     | Otyugh's Tentacle     | Ochu Tentacle     |
 | いやしの水       | iyashinosui        | Healing Water         | Healing Water     |
 | コカトリスの羽   | kokatorisunohone   | Cockatrice's Feather  | Cockatrice Pinion |
@@ -251,9 +259,10 @@ h3. Miscellaneous Items
 | スピードアップ   | supīdoappu         | Speed Up              | SPD Up            |
 | ラックアップ     | rakkuappu          | Luck Up               | LUCK Up           |
 
-h2. Magic
+## Magic
 
-|_. Japanese |_. Romaji |_. Aerdan    |_. Official |
+| Japanese   | Romaji   | Síle        | Official   |
+| ---------- | -------- | ----------- | ---------- |
 | ケアル     | kearu    | Cure        | Cure       |
 | ケアルラ   | kearura  | Curera      | Cura       |
 | ケアルガ   | kearuga  | Curega      | Curaga     |
@@ -304,9 +313,10 @@ h2. Magic
 | ライブラ   | raibura  | Library     | Scan       |
 | レビテト   | rebiteto | Levitate    | Float      |
 
-h3. GF Summons
+## GF Summons
 
-|_. Japanese         |_. Romaji         |_. Aerdan             |_. Official      |
+| Japanese           | Romaji           | Síle                 | Official        |
+| ------------------ | ---------------- | -------------------- | --------------- |
 | サンダーストーム   | sandāsutōmu      | Thunderstorm         | Thunder Storm   |
 | ダイアモンドダスト | daiamondodasuto  | Diamond Dust         | Diamond Dust    |
 | 地獄の火炎         | jigokunohonoo    | Hell's Flames        | Hell Fire       |
@@ -320,7 +330,7 @@ h3. GF Summons
 | 聖なる審判         | seinarushinban   | Holy Judgement       | Holy Judgement  |
 | メガフレア         | megafurea        | Megaflare            | Mega Flare      |
 | 果てしなき暴走     | hateshinakibōsō  | Eternal Rampage      | Runaway Train   |
-| 針千本             | harisenbon       | Thousand Needles     | 1,000 Needles   |
+| 針千本             | harisenbon       | 1,000 Needles        | 1,000 Needles   |
 | ほうちょう         | hōchō            | Kitchen Knife        | Chef's Knife    |
 | エターナル･ブレス  | etānaru·buresu   | Eternal Breath       | Eternal Breath  |
 | チョコファイア     | chokofaia        | Choco Fire           | ChocoFire       |
@@ -335,11 +345,12 @@ h3. GF Summons
 | エクスカリバー     | ekusukaribā      | Excalibur            | Excalibur       |
 | エクスカリパー     | ekusukaripā      | Excalibor            | Excalipoor      |
 
-h2. Equippable Abilities
+## Equippable Abilities
 
-h3. Junction Abilities
+### Junction Abilities
 
-|_. Japanese   |_. Romaji         |_. Aerdan             |_. Official |
+| Japanese     | Romaji           | Síle                 | Official   |
+| ------------ | ---------------- | -------------------- | ---------- |
 | HPJ          | HPJ              | HP-J                 | HP-J       |
 | 力J          | chikaraJ         | Power-J              | Str-J      |
 | 体力J        | tairyokuJ        | Stamina-J            | Vit-J      |
@@ -360,9 +371,10 @@ h3. Junction Abilities
 | アビリティ×3 | abiriti×3        | Ability×3            | Abilityx3  |
 | アビリティ×4 | abiriti×4        | Ability×4            | Abilityx4  |
 
-h3. Commands
+### Commands
 
-|_. Japanese   |_. Romaji     |_. Aerdan       |_. Official |
+| Japanese     | Romaji       | Síle           | Official   |
+| ------------ | ------------ | -------------- | ---------- |
 | たたかう     | tatakau      | Attack         | Attack     |
 | G.F.         | G.F.         | G.F.           | GF         |
 | まほう       | mahō         | Magic          | Magic      |
@@ -383,9 +395,10 @@ h3. Commands
 | たべる       | taberu       | Eat            | Devour     |
 | コモーグリ   | komōguri     | Li'l Mógli     | MiniMog    |
 
-h3. Support Abilities
+### Support Abilities
 
-|_. Japanese       |_. Romaji         |_. Aerdan        |_. Official    |
+| Japanese         | Romaji           | Síle            | Official      |
+| ---------------- | ---------------- | --------------- | ------------- |
 | HP＋20%          | HP+20%           | HP +20%         | HP+20%        |
 | HP＋40%          | HP+40%           | HP +40%         | HP+40%        |
 | HP＋80%          | HP+80%           | HP +80%         | HP+80%        |
@@ -425,18 +438,20 @@ h3. Support Abilities
 | ダブル消費1      | daburushōhi1     | Double Spends 1 | Expendx2-1    |
 | トリプル消費1    | toripurushōhi1   | Triple Spends 1 | Expendx3-1    |
 
-h3. Party Abilities
+### Party Abilities
 
-|_. Japanese       |_. Romaji       |_. Aerdan          |_. Official |
+| Japanese         | Romaji         | Síle              | Official   |
+| ---------------- | -------------- | ----------------- | ---------- |
 | けいかい         | keikai         | Vigilance         | Alert      |
 | 隠しポイント発見 | kakushipointo  | Find Hidden Spots | Move-Find  |
 | エンカウント半減 | enkauntohangen | Half Encounters   | Enc-Half   |
 | エンカウントなし | enkauntonashi  | No Encounters     | Enc-None   |
 | レアアイテム     | reaaitemu      | Rare Item         | Rare Item  |
 
-h3. G.F. Abilities
+### G.F. Abilities
 
-|_. Japanese    |_. Romaji       |_. Aerdan          |_. Official |
+| Japanese      | Romaji         | Síle              | Official   |
+| ------------- | -------------- | ----------------- | ---------- |
 | 召喚魔法＋10% | shōkanmahō+10% | Summon Magic +10% | SumMag+10% |
 | 召喚魔法＋20% | shōkanmahō+20% | Summon Magic +20% | SumMag+20% |
 | 召喚魔法＋30% | shōkanmahō+30% | Summon Magic +30% | SumMag+30% |
@@ -447,9 +462,10 @@ h3. G.F. Abilities
 | GFHP＋40%     | GFHP+40%       | GF HP +40%        | GFHP+40%   |
 | おうえん      | ouen           | Assistance        | Boost      |
 
-h3. Menu Abilities
+### Menu Abilities
 
-|_. Japanese         |_. Romaji                |_. Aerdan                     |_. Official     |
+| Japanese           | Romaji                  | Síle                         | Official       |
+| ------------------ | ----------------------- | ---------------------------- | -------------- |
 | 値切る             | negiru                  | Bargain                      | Haggle         |
 | 高値で売る         | takanedeuru             | Sell High                    | Sell-High      |
 | 顔なじみ           | kaonajime               | Friend                       | Familiar       |
@@ -475,9 +491,10 @@ h3. Menu Abilities
 | 薬レベルアップ     | kusurireberuappu        | Medicine Level Up            | Med LVL Up     |
 | カード変化         | kādohenka               | Change Cards                 | Card Mod       |
 
-h2. Guardian Forces (GFs)
+## Guardian Forces (GFs)
 
-|_. Japanese       |_. Romaji        |_. Aerdan       |_. Official       |
+| Japanese         | Romaji          | Síle           | Official         |
+| ---------------- | --------------- | -------------- | ---------------- |
 | ケツァクウァトル | kutsakuwatoru   | Quetzalcoatl   | Quetzalcoatl     |
 | シヴァ           | shiva           | Shiva          | Shiva            |
 | イフリート       | ifurīto         | Efreet         | Ifrit            |
@@ -501,11 +518,12 @@ h2. Guardian Forces (GFs)
 | オーディン       | ōdin            | Odin           | Odin             |
 | ギルガメッシュ   | girugamesshu    | Gilgamesh      | Gilgamesh        |
 
-h2. Cards
+## Cards
 
 This is presented in lieu of a bestiary.
 
-|_. Japanese         |_. Romaji          |_. Aerdan                 |_. Official     |
+| Japanese           | Romaji            | Síle                     | Official       |
+| ------------------ | ----------------- | ------------------------ | -------------- |
 | ハウリザード       | haurizādo         | Howlizard                | Geezard        |
 | フンゴオンゴ       | fungoongo         | Fungongo                 | Funguar        |
 | バイトバグ         | baitobagu         | Biting Bug               | Bite Bug       |

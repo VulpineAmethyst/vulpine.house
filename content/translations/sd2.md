@@ -1,30 +1,26 @@
 ---
-layout: page
-title: Seiken Densetsu 2 Changes Guide
-type: Dataset
-about: '{"@type":"VideoGame","headline":"Secret of Mana","datePublished":"1993-08-06","publisher":{"@type":"Organization","name":"Square"}}'
+title: 'Seiken Densetsu 2: Secret of Mana'
+translation: true
 ---
+## Locations
 
-p. This is a translation of the spells, items, equipment, and locations in Seiken Densetsu 2, released in the United States as Secret of Mana on the SNES(Super Nintendo Entertainment System).
-
-h2. Locations
-
-|_. Japanese       |_. Romaji            |_. English           |_. Woolsey      |
+| Japanese         | Romaji              | Síle                | Official       |
+| ---------------- | ------------------- | ------------------- | -------------- |
 | ポトス村         | potosumura          | Potos Village       | Potos Village  |
 | ニキータの店     | nikitanomise        | Nikita's Shop       | Neko's         |
 | 水の神殿         | mizunoshinden       | Water Shrine        | Water Palace   |
-| パンドーラ城下街 | pandōrajoukamachi   | Castle Town Pandora | Pandora        |
+| パンドーラ城下街 | pandōrajōkamachi    | Castle Town Pandora | Pandora        |
 | キッポ村         | kippomura           | Kippo Village       | Kippo Village  |
 | ドワーフの村     | dowāfunomura        | Dwarfish Village    | Dwarf Village  |
 | 妖魔の森         | yōmanomori          | Haunted Forest      | Haunted Forest |
 | 魔女の城         | majonoshiro         | Witch's Castle      | Witch's Castle |
-| モーグリの村     | mōgurinomura        | Mógli Village      | Moogle Village |
+| モーグリの村     | mōgurinomura        | Mógli Village       | Moogle Village |
 | 妖精の村         | yōseinomura         | Faerie Village      | Sprite Village |
 | 風の神殿         | kazenoshinden       | Wind Shrine         | Wind Palace    |
-| マタンゴ王国     | matangooukoku       | Matango Kingdom     | Matango        |
+| マタンゴ王国     | matangoōkoku        | Matango Kingdom     | Matango        |
 | 氷のトド村       | kōrinotodomura      | Walrus Village      | Todo Village   |
 | サンドシップ     | sandoshippu         | Sandship            | Sandship       |
-| カッカラ王国     | kakkaraoukoku       | Kakkara Kingdom     | Kakkara        |
+| カッカラ王国     | kakkaraōkoku        | Kakkara Kingdom     | Kakkara        |
 | 帝国サウスタウン | teikokusausutaun    | Imperial Southtown  | Southtown      |
 | 帝国ノースタウン | teikokunōsutaun     | Imperial Northtown  | Northtown      |
 | 黄金の街         | ōgonnomachi         | Golden Town         | Gold City      |
@@ -41,11 +37,12 @@ h2. Locations
 | 氷の森           | kōrinomori          | Icicle Forest       | Frosty Forest  |
 | ガイアのヘソ     | gaianoheso          | Gaia's Navel        | Gaia's Navel   |
 
-h2. Equipment
+## Equipment
 
-h2. Weapon Categories
+### Weapon Categories
 
-| Japanese   |_. Romaji |_. English   |_. Woolsey |
+| Japanese   | Romaji   | Síle        | Official  |
+| ---------- | -------- | ----------- |---------- |
 | グローブ   | gurōbu   | Glove       | Gloves    |
 | 剣         | tsurugi  | Sword       | Sword     |
 | オノ       | ono      | Axe         | Axe       |
@@ -55,12 +52,13 @@ h2. Weapon Categories
 | ブーメラン | būmeran  | Boomerang   | Boomerang |
 | スピア     | supia    | Spear       | Javelin   |
 
-h3. Weapons
+### Weapons
 
-|_. Japanese       |_. Romaji            |_. English            |_. Woolsey      |
+| Japanese         | Romaji              | Síle                 | Official       |
+| ---------------- | ------------------- | -------------------- | -------------- |
 | カイザーナックル | kaizānakkuru        | Kaiser Knuckle       | Spike Knuckle  |
 | パワーグローブ   | pawāgurōbu          | Power Glove          | Power Glove    |
-| モーグリのツメ   | mōgurinotsume       | Mógli's Claw        | Moogle Claws   |
+| モーグリのツメ   | mōgurinotsume       | Mógli's Claw         | Moogle Claws   |
 | チャクラハンド   | chakurahando        | Chakra Hand          | Chakra Hand    |
 | メタルグローブ   | metarugurōbu        | Metal Glove          | Heavy Glove    |
 | ハイパーフィスト | haipāfisuto         | Hyper Fist           | Hyper Fist     |
@@ -81,13 +79,13 @@ h3. Weapons
 | ブローバ         | burōba              | Bullova              | Stout Axe      |
 | フランシスカ     | furanshisuka        | Francisca            | Battle Axe     |
 | ゴールドアックス | gōrudoakkusu        | Gold Axe             | Golden Axe     |
-| ウェアバスター   | ueabasutā           | Werebuster           | WerēBuster    |
+| ウェアバスター   | ueabasutā           | Werebuster           | Were-Buster    |
 | グレートアックス | gurētoakkusu        | Great Axe            | Great Axe      |
 | 魔人のオノ       | majinnoono          | Demon's Axe          | Gigas Axe      |
 | デビルアックス   | debiruakksu         | Devil Axe            | Doom Axe       |
 | ブロンズランス   | buronzuransu        | Bronze Lance         | Spear          |
 | スチールランス   | suchīruransu        | Steel Lance          | Heavy Spear    |
-| 妖魔のヤリ       | youmanoyari         | Fiend's Lance        | Sprite's Spear |
+| 妖魔のヤリ       | yōmanoyari          | Fiend's Lance        | Sprite's Spear |
 | パルティザン     | parutizan           | Partisan             | Partisan       |
 | ハルバード       | harubādo            | Halberd              | Halberd        |
 | サンゴのヤリ     | sangonoyari         | Coral Lance          | Oceanid Spear  |
@@ -105,11 +103,11 @@ h3. Weapons
 | ギガースフレイル | gigāsufureiru       | Gigas Flail          | Gigas Flail    |
 | ポロンの弓矢     | poronnoyumiya       | Poron's Bow & Arrow  | Chobin's Bow   |
 | 鉄の弓矢         | tetsunoyumiya       | Iron Bow & Arrow     | Short Bow      |
-| ロングボウ       | rongubou            | Longbow              | Long Bow       |
-| グレートボウ     | gurētobou           | Greatbow             | Great Bow      |
+| ロングボウ       | rongubō             | Longbow              | Long Bow       |
+| グレートボウ     | gurētobō            | Greatbow             | Great Bow      |
 | 銀の弓矢         | ginnoyumiya         | Silver Bow & Arrow   | Bow of Hope    |
 | エルフの弓矢     | erufunoyumiya       | Elf's Bow & Arrow    | Elfin Bow      |
-| ウイングボウ     | uingubou            | Wingbow              | Wing Bow       |
+| ウイングボウ     | uingubō             | Wingbow              | Wing Bow       |
 | ひっさつの弓矢   | hissatsunoyumiya    | Lethal Bow & Arrow   | Doom Bow       |
 | ガルーダバスター | garūdābasutā        | Garuda Buster        | Garuda Buster  |
 | ブーメラン       | būmeran             | Boomerang            | Boomerang      |
@@ -131,10 +129,11 @@ h3. Weapons
 | ドラゴンスピア   | doragonsupia        | Dragon Spear         | Dragon Dart    |
 | バルキリースピア | barukirīsupia       | Valkyrie Spear       | Valkyrian      |
 
-h3. Headgear
+### Headgear
 
-|_. Japanese       |_. Romaji         |_. English           |_. Woolsey      |
-| バンダナ         | bandana          | Bandana             | Bandanna	      |
+| Japanese         | Romaji           | Síle                | Official       |
+| ---------------- | ---------------- | ------------------- | -------------- |
+| バンダナ         | bandana          | Bandanna            | Bandanna	     |
 | プリティリボン   | puritiribon      | Pretty Ribbon       | Hair Ribbon    |
 | ラビのぼうし     | rabinobōshi      | Rabite's Cap        | Rabite Cap     |
 | ヘッドギア       | heddogia         | Headgear            | Head Gear      |
@@ -153,11 +152,12 @@ h3. Headgear
 | コカトリスヘルム | kokatorisuherumu | Cockatrice Helm     | Cockatrice Cap |
 | デビルキャップ   | debirukyappu     | Devil Cap           | Amulet Helm    |
 | グリフォンヘルム | gurifonherumu    | Gryphon Helm        | Griffin Helm   |
-| 精霊の王冠       | seireinooukan    | Spirit's Diadem     | Faerie Crown   |
+| 精霊の王冠       | seireinoōkan     | Spirit's Diadem     | Faerie Crown   |
 
-h3. Armor
+### Armor
 
-|_. Japanese       |_. Romaji        |_. English         |_. Woolsey      |
+| Japanese         | Romaji          | Síle              | Official       |
+| ---------------- | --------------- | ----------------- | -------------- |
 | 革のツナギ       | kawanotsunagi   | Leather Bodysuit  | Overalls       |
 | カンフー道着     | kanfūdōgi       | Kung Fu Uniform   | Kung Fu Suit   |
 | チビっ子ローブ   | chibikkorōbu    | Midget Robe       | Midge Robe     |
@@ -166,11 +166,11 @@ h3. Armor
 | チャイナドレス   | chainadoresu    | China Dress       | Kung Fu Dress  |
 | ハデなツナギ     | hadenatsunagi   | Flashy Bodysuit   | Fancy Overalls |
 | 銀のチェスト     | ginnochesuto    | Silver Chestplate | Chest Guard    |
-| 黄金のベスト     | ougonnobesuto   | Golden Vest       | Golden Vest    |
+| 黄金のベスト     | ōgonnobesuto    | Golden Vest       | Golden Vest    |
 | ルビーの胸あて   | rubīnomunēate   | Ruby Breastplate  | Ruby Vest      |
 | トラのぬいぐるみ | toranonuigurumi | Tiger Costume     | Tiger Suit     |
 | タイガービキニ   | taigābikini     | Tiger Bikini      | Tiger Bikini   |
-| 魔法のヨロイ     | mahounoyoroi    | Magic Armor       | Magical Armor  |
+| 魔法のヨロイ     | mahōnoyoroi     | Magic Armor       | Magical Armor  |
 | トータスメイル   | tōtasumeiru     | Tortoise Mail     | Tortoise Mail  |
 | バラのレオタード | baranoreotādo   | Rose Leotard      | Flower Suit    |
 | バトルスーツ     | batorusūtsu     | Battle Suit       | Battle Suit    |
@@ -179,9 +179,10 @@ h3. Armor
 | プラズマスーツ   | purazumasūtsu   | Plasma Suit       | Power Suit     |
 | 精霊のマント     | seireinomanto   | Spirit's Mantle   | Faerie Cloak   |
 
-h3. Armwear
+### Armwear
 
-|_. Japanese       |_. Romaji         |_. English        |_. Woolsey      |
+| Japanese         | Romaji           | Síle             | Official       |
+| ---------------- | ---------------- | ---------------- | -------------- |
 | リストバンド     | risutobando      | Wristband        | Wristband      |
 | エルボーパット   | erubōpatto       | Elbow Pad        | Elbow Pad      |
 | パワーリスト     | pawārisuto       | Power Wrist      | Power Wrist    |
@@ -203,9 +204,10 @@ h3. Armwear
 | デーモンリング   | dēmonringu       | Demon Ring       | Amulet Ring    |
 | 精霊のうでわ     | seireinoudewa    | Spirit's Bangle  | Faerie's Ring  |
 
-h2. Items
+## Items
 
-|_. Japanese       |_. Romaji       |_. English       |_. Woolsey     |
+| Japanese         | Romaji         | Síle            | Official      |
+| ---------------- | -------------- | --------------- | ------------- |
 | まんまるドロップ | manmaridoroppu | Round Drop      | Candy         |
 | ぱっくんチョコ   | pakkunchoko    | Chomp Chocolate | Chocolate     |
 | ロイヤルゼリー   | roiyaruzerī    | Royal Jelly     | Royal Jam     |
@@ -218,9 +220,10 @@ h2. Items
 | ちびっ子ハンマー | chibikkohanmā  | Midget Hammer   | Midge Mallet  |
 | タル             | taru           | Barrel          | Barrel        |
 
-h2. Elementals
+## Elementals
 
-|_. Japanese       |_. Romaji    |_. English    |_. Woolsey |
+| Japanese         | Romaji      | Síle         | Official  |
+| ---------------- | ----------- | ------------ | --------- |
 | ノーム           | nōmu        | Gnome        | Gnome     |
 | ウンディーネ     | undīne      | Undine       | Undine    |
 | サラマンダー     | saramandā   | Salamander   | Salamando |
@@ -228,11 +231,12 @@ h2. Elementals
 | ルナ             | runa        | Luna         | Luna      |
 | ドリアード       | doriādo     | Dryad        | Dryad     |
 | シェイド         | sheido      | Shade        | Shade     |
-| ウィルオウィスプ | uiruouisupu | Will-o'-Wisp | Lumina    |
+| ウィルオウィスプ | wiruowisupu | Will-o'-Wisp | Lumina    |
 
-h2. Spells
+## Spells
 
-|_. Japanese       |_. Romaji      |_. English       |_. Woolsey     |
+| Japanese         | Romaji        | Síle            | Official      |
+| ---------------- | ------------- | --------------- | ------------- |
 | アースクエイク   | āsukueiku     | Earthquake      | Earth Slide   |
 | ダイヤミサイル   | daiyamisairu  | Diamond Missile | Gem Missle    |
 | スピードダウン   | supīdodaun    | Speed Down      | Speed Down    |
@@ -270,14 +274,15 @@ h2. Spells
 | カウンタマジック | kauntamajikku | Counter Magic   | Wall          |
 | イビルゲート     | ibirugēto     | Evil Gate       | Evil Gate     |
 | ダークフォース   | dākufōsu      | Dark Force      | Dark Force    |
-| アンティマジック | antimajikku   | AntīMagic      | Dispel Magic  |
+| アンティマジック | antimajikku   | Anti-Magic      | Dispel Magic  |
 | ホーリーセイバー | hōrīseibā     | Holy Saber      | Light Saber   |
 | セイントビーム   | saintobīmu    | Saint Beam      | Lucent Beam   |
 | ティンクルバリア | tinkurubaria  | Tinkle Barrier  | Lucid Barrier |
 
-h2. Monsters
+## Monsters
 
-|_. Japanese       |_. Romaji       |_. English       |_. Woolsey      |
+| Japanese         | Romaji         | Síle            | Official       |
+| ---------------- | -------------- | --------------- | -------------- |
 | ラビ             | rabi           | Rabite          | Rabite         |
 | ビービー         | bībi           | Bee Bee         | Buzz Bee       |
 | マイコニド       | maikonido      | Myconid         | Mushboom       |
@@ -294,7 +299,7 @@ h2. Monsters
 | マジカルチェア   | majikaruchea   | Magical Chair   | Polter Chair   |
 | ゴブリンガード   | goburingādo    | Goblin Guard    | Ma Goblin      |
 | ダークスモッグ   | dākusumoggu    | Dark Smog       | Dark Funk      |
-| クロウラー       | kurourā        | Crawler         | Crawler        |
+| クロウラー       | kurōrā         | Crawler         | Crawler        |
 | プチポセイドン   | puchiposeidon  | Petit Poseidon  | Ice Thug       |
 | ゾンビ           | zonbi          | Zombie          | Zombie         |
 | ガラシャ         | garasha        | Garasha         | Kimono Bird    |
@@ -310,7 +315,7 @@ h2. Monsters
 | ガスクラウド     | gasukuraudo    | Gas Cloud       | LA Funk        |
 | ダークバット     | dākubatto      | Dark Bat        | Grave Bat      |
 | ウェアウルフ     | ueaurufu       | Werewolf        | Werewolf       |
-| シャドウ　X３    | shadou X3      | Shadow X3       | Shadow X3      |
+| シャドウ　X３    | shadō X3       | Shadow X3       | Shadow X3      |
 | イビルソード     | ibirusōdo      | Evil Sword      | Evil Sword     |
 | ダークプリースト | dākupurīsuto   | Dark Priest     | Tomato Man     |
 | マジックブック   | majikkubukku   | Magic Book      | Mystic Book    |
@@ -324,10 +329,10 @@ h2. Monsters
 | ブラッドパンジー | buraddopanjī   | Blood Pansy     | Trap Flower    |
 | キラーフィッシュ | kirāfisshu     | Killer Fish     | Dinofish       |
 | ミミックン       | mimikkun       | Mr. Mimic       | Mimic Box      |
-| シャドウ　X１    | shadou X1      | Shadow X1       | Shadow X1      |
+| シャドウ　X１    | shadō X1       | Shadow X1       | Shadow X1      |
 | ガラシャラム     | garasharamu    | Garasharam      | Kimono Wizard  |
 | ゴースト         | gōsuto         | Ghost           | Ghost          |
-| メタルクロウラー | metarukurourā  | Metal Crawler   | Metal Crawler  |
+| メタルクロウラー | metarukurōrā   | Metal Crawler   | Metal Crawler  |
 | スパイダーレッグ | supaidāreggu   | Spider Leg      | Spider Legs    |
 | バイルダー       | bairudā        | Beholder        | Weepy Eye      |
 | トータスナイト   | tōtasunaito    | Tortoise Knight | Shellblast     |
@@ -341,7 +346,7 @@ h2. Monsters
 | ニードリオン     | nīdorion       | Needleon        | Needlion       |
 | メタルクラブ     | metarukurabu   | Metal Crab      | Metal Crab     |
 | アーマーナイト   | āmānaito       | Armor Knight    | Armored Man    |
-| シャドウ　X２    | shadou X2      | Shadow X2       | Shadow X2      |
+| シャドウ　X２    | shadō X2       | Shadow X2       | Shadow X2      |
 | カオスソーサラー | kaosusōsarā    | Chaos Sorcerer  | Eggplant Man   |
 | ダックジェネラル | dakkujeneraru  | Duck General    | Captain Duck   |
 | グレネードボム   | gurenēdobomu   | Grenade Bomb    | Nitro Pumpkin  |
@@ -365,9 +370,10 @@ h2. Monsters
 | クリスタルオーブ | kurisutaruōbu  | Crystal Orb     | Crystal Orb    |
 | 宝箱             | takarabako     | Treasure Chest  | Treasure Chest |
 
-h2. Bosses
+## Bosses
 
-|_. Japanese       |_. Romaji       |_. English       |_. Woolsey     |
+| Japanese         | Romaji         | Síle            | Official      |
+| ---------------- | -------------- | --------------- | ------------- |
 | マンティスアント | mantisuanto    | Mantis Ant      | Mantis Ant    |
 | ルームガーダー   | rūmagādā       | Room Guarder    | Wall Face     |
 | バド             | bado           | Bud             | Tropicallo    |
@@ -410,9 +416,10 @@ h2. Bosses
 | サタンズアイ     | satanzuai      | Satan's Eye     | Doom's Eye    |
 | 神獣             | shinjuu        | Godbeast        | Mana Beast    |
 
-h2. Enemy attacks
+## Enemy attacks
 
-| Japanese         |_. Romaji       |_. English             |_. Woolsey       |
+| Japanese         | Romaji         | Síle                  | Official        |
+| ---------------- | -------------- | --------------------- | --------------- |
 | ファイアブレス   | faiaburesu     | Fire Breath           | Fire Breath     |
 | フリーズブレス   | furīzuburesu   | Freeze Breath         | Freeze Breath   |
 | でんげきブレス   | dengekiburesu  | Shock Breath          | Blitz Breath    |
@@ -430,21 +437,22 @@ h2. Enemy attacks
 | フリーズビーム   | furīzubīmu     | Freeze Beam           | Freeze Beam     |
 | せきかビーム     | sekikabīmu     | Stone Beam            | Petrify Beam    |
 | こんらんリング   | konranringu    | Confusion Ring        | Confuse Hoops   |
-| ちょうおんぱ     | chouonpa       | Ultrasound            | Sonic Pulse     |
+| ちょうおんぱ     | chōonpa        | Ultrasound            | Sonic Pulse     |
 | ふうせんリング   | fuusenringu    | Balloon Ring          | Balloon Ring    |
 | 眠りリング       | nemuriringu    | Sleep Ring            | Sleep Ring      |
 | モーグリにらみ   | mōgurinirami   | Mógli Stare           | Moogle Glare    |
 | ちびっこにらみ   | chibikkonirami | Midget Stare          | Pygmus Glare    |
 | おもりにらみ     | omorinirami    | Weight Stare          | Leaden Glare    |
-| はどう砲         | hadouhou       | Wave Cannon           | Wave Cannon     |
+| はどう砲         | hadōhō         | Wave Cannon           | Wave Cannon     |
 | かくさんはどう砲 | kakusanhadōhō  | Diffusion Wave Cannon | Diffuser Cannon |
 | うずしお         | uzushio        | Whirling Tides        | Current         |
 | ブレスウイング   | buresuuingu    | Breath Wing           | Breath Wing     |
 | らくばん         | rakuban        | Cave In               | Cave in         |
 
-h2. Detect Messages
+## Detect Messages
 
-| Japanese         |_. Romaji                 |_. English                         |_. Woolsey         |
+| Japanese         | Romaji                   | Síle                              | Official          |
+| ---------------- | ------------------------ | --------------------------------- | ----------------- |
 | は地震に弱い     | hajishinniyowai          | is weak to earth!                 |  fears Gnome!     |
 | はかみなりに弱い | hakaminariniyowai        | is weak to thunder!               |  fears Sylphid!   |
 | はさむさに弱い   | hasamusaniyowai          | is weak to cold!                  |  fears Undine!    |
@@ -455,9 +463,10 @@ h2. Detect Messages
 | は木の力に弱い   | hakinochikaraniyowai     | is weak to the power of wood!     |  fears Dryad!     |
 | はLｖ            | haLV                     | is Lv.                            |  Lv.              |
 
-h2. Miscellaneous Messages
+## Miscellaneous Messages
 
-| Japanese             |_. Romaji              |_. English            |_. Woolsey            |
+| Japanese             | Romaji                | Síle                 | Official             |
+| -------------------- | --------------------- | -------------------- | -------------------- |
 | になった             | ninatta               | reaches Lv.          |  reaches Lv.         |
 | の技レベルがアップ！ | nowagireberugaappu!   | 's skill levels up!  | 's Weapon Skill up!  |
 | の魔法がレベルアップ | nomahōgareberugappu   | 's magic levels up!  | 's Magic Skill up!   |
@@ -470,7 +479,7 @@ h2. Miscellaneous Messages
 | 回復しきれなかった   | kaifukushikirenakatta | Could not recover    | Recovery failed!     |
 | は魔法が切れた       | hamahōgakireta        | 's magic ended       | 's magic faded.      |
 | 命だけはたすかった   | inochidakewatasukatta | Survived!            | Still alive!         |
-| シャドウゼロがでた！ | shadouzerogadeta      | Shadow zero emerged! | Shadow zero!         |
+| シャドウゼロがでた！ | shadōzerogadeta       | Shadow zero emerged! | Shadow zero!         |
 | ガスがふきだした！   | gasugafukidashita     | Gas was released!    | Riot gas!            |
 | パンチグローブだ！   | panchigurōbuda!       | Punch glove!         | Punch glove!         |
 | 毒針だ！             | dokuharida!           | Poison needle!       | Poison needles!      |
@@ -479,9 +488,10 @@ h2. Miscellaneous Messages
 | 死神のワナだった！   | shinigaminowanadatta! | Death trap!          | Doom trap!           |
 | ミミックだった！     | mimikkudatta!         | It's a mimic!        | Mimic box!           |
 
-h2. Miscellaneous Terms
+## Miscellaneous Terms
 
-| Japanese       |_. Romaji          |_. English     |_. Woolsey       |
+| Japanese       | Romaji            | Síle          | Official        |
+| -------------- | ----------------- | ------------- | --------------- |
 | ちから         | chikara           | Strength      | STRENGTH        |
 | すばやさ       | subayasa          | Agility       | AGILITY         |
 | たいりょく     | tairyoku          | Stamina       | CONTITUTION     |
@@ -499,12 +509,13 @@ h2. Miscellaneous Terms
 | しゅるい       | shurui            | Type          | TYPE            |
 | 武器パワー     | bukipawā          | Weapon Power  | ENERGY ORB      |
 
-h2. Status Effects
+## Status Effects
 
-| Japanese       |_. Romaji    |_. English      |_. Woolsey       |
+| Japanese       | Romaji      | Síle           | Official        |
+| -------------- | ----------- | -------------- | --------------- |
 | せんとうふのう | sentōfunō   | Knocked Out    | UNCONSCIOUS     |
 | ひだるま       | hidaruma    | Burning        | ENGULFED        |
-| もうどく       | moudoku     | Poison         | POISONED        |
+| もうどく       | mōdoku      | Poison         | POISONED        |
 | モーグリ       | mōguri      | Mógli          | MOOGLED!        |
 | へんしん       | henshin     | Transformed    | TRANSFORMED     |
 | たるかぶり     | tarukaburi  | Wearing Barrel | BARRELLED       |
@@ -519,285 +530,112 @@ h2. Status Effects
 | あおむけ       | aomuke      | Supine         | DAMAGED         |
 | まえかがみ     | maekagami   | Slouched       | DAMAGED!        |
 
-h2. Equipment Effects
+## Equipment Effects
 
-p. Because of their sheer length, I'm not going to use the usual table format for this. Instead, see the following helpful guide:
+Because of their sheer length, I'm not going to use the usual table format for this. Instead, see the following helpful guide:
 
 <dl>
     <dt>Japanese (romaji)</dt>
-    <dd>English (Woolsey)</dt>
+    <dd>Síle (Official)</dt>
     <dt>ムシ系・カラダのかたいモンスターに大ダメージをあたえる
-        (mushikei. karazanokataimonsutānidaidamējiwoadauru)</dt>
+        (mushi kei. karaza no katai monsutā ni daidamēji o ataeru)</dt>
     <dd>Insect Family and armored monsters take more damage.
         (INFLICTS DAMAGE ON INSECTS, ETC.)</dd>
     <dt>モンスターをこうげきすると「眠り」にさそいやすい
-        (monsutāwokougekisuruto"nemuri"tachisoiyasui)</dt>
+        (monsutā o kōgeki suru to "nemuri" ni chisoi yasui)</dt>
     <dd>Monsters struck are afflicted with Sleep.
         (PUTS ENEMIES TO SLEEP.)</dd>
     <dt>そうびすると「ちせい・せいしん」が、２アップする
-        (soubisuruto"chisei.seishin"ga,2appusuru)</dt>
+        (sōbi suru to "chisei.seishin" ga, 2 appu suru)</dt>
     <dd>+2 Intelligence/Spirit when equipped.
         (RAISES INTELLIGENCE/WISDOM.)</dd>
     <dt>スライム系・リザード系モンスターに大ダメージをあたえる
-        (suraimukei. rizādokeimonsutātadaizame—jiwoatauru)</dt>
+        (suraimu kei. rizādo kei monsutā ni daidame—ji o ataeru)</dt>
     <dd>Slime and Lizard Family monsters take more damage.
         (EFFECTIVE AGAINST SLIMES/LIZARDS.)</dd>
     <dt>モンスターをこうげきすると「毒」をあたえやすい
-        (monsutāwokougekisuruto"doku"woatauyasui)</dt>
+        (monsutā o kōgeki suru to "doku" o atae yasui)</dt>
     <dd>Monsters struck are afflicted with Poison.
         (POISONS ENEMIES.)</dd>
     <dt>ドラゴン系モンスターに大ダメージをあたえる
-        (doragonkeimonsutānidaizamūjiwoatauru)</dt>
+        (doragon kei monsutā ni daidaméji o ataeru)</dt>
     <dd>Dragon Family monsters take more damage.
         (EFFECTIVE AGAINST DRAGONS.)</dd>
     <dt>きゅうきょくのグローブ
-        (kyuukyokunogurōbu)</dt>
+        (kyūkyoku no gurōbu)</dt>
     <dd>Ultimate glove
         (THE TOP GLOVE!)</dd>
     <dt>そうびすると「すばやさ・かいひりつ」が、２アップする
-        (soubisuruto"subayasa.kaihiritsu"ga,2appusuru</dt>
+        (sōbi suru to "subayasa.kaihiritsu" ga, 2 appu suru</dt>
     <dd>+2 Agility/Evasion% when equipped.
         (RAISES AGILITY/EVADE %.)</dd>
     <dt>アンデッド・アクマ系モンスターに大ダメージをあたえる
-        (andeddo.akumakeimonsutānidaizamūjiwoatauru)</dt>
+        (andeddo.akuma kei monsutā ni daidamēji o ataeru)</dt>
     <dd>Undead and Demon Family monsters take more damage.
         (EFFECTIVE ON EVIL/NON-LIVING ENEMIES.)</dd>
     <dt>モンスターをこうげきするとクリティカルヒットが出やすい
-        (monsutāwokougekisurutokuritikaruhittogadeyasui)</dt>
+        (monsutā o kōgeki suru to kuritikaru hitto ga de yasui)</dt>
     <dd>Monsters are more likely to be knocked down.
         (RAISES % OF CRITICAL HITS.)</dd>
     <dt>そうびすると「ちから」が、２アップする
-        (soubisuruto"chikara"ga,2appusuru)</dt>
+        (sōbi suru to "chikara" ga, 2 appu suru)</dt>
     <dd>+2 Strength when equipped.
         (INCREASES STRENGTH 2 PTS.)</dd>
     <dt>きゅうきょくの聖剣
-        (kyuukyokunoseiken)</dt>
+        (kyūkyoku no seiken)</dt>
     <dd>Ultimate holy sword
         (THE TOP SWORD!)</dd>
     <dt>しょくぶつ・サカナ系モンスターに大ダメージをあたえる
-        (shokubutsu.sakanakeimonsutānidaizamūjiwoatauru)</dt>
+        (shokubutsu.sakana kei monsutā ni daidaméji o ataeru)</dt>
     <dd>Fish Family and plant monsters take more damage.
         (EFFECTIVE AGAINST PLANTS/FISH.)</dd>
     <dt>そうびすると「たいりょく」が、２アップする
-        (soubisuruto"tairyoku"ga,2appusuru)</dt>
+        (sōbi suru to "tairyoku" ga, 2 appu suru)</dt>
     <dd>+2 Stamina when equipped.
         (INCREASES CONSTITUTION BY 2 PTS.)</dd>
     <dt>どうぶつ・トリ・獣人系モンスターに大ダメージをあたえる
-        (doubutsu,tori,juujinkeimonsutānidaizamūjiwoatauru)</dt>
+        (dōbutsu, tori, jūjin kei monsutā ni daidaméji o ataeru)</dt>
     <dd>Animals, birds, and shapeshifters take more damage.
         (USE AGAINST ANIMALS/BIRDS/BEASTS.)</dd>
     <dt>そうびすると「ちから」が、５アップする
-        (soubisuruto"chikara"ga,5appusuru)</dt>
+        (sōbi suru to "chikara" ga, 5 appu suru)</dt>
     <dd>+5 Strength when equipped.
         (INCREASES STRENGTH 5 PTS.)</dd>
     <dt>きゅうきょくのオノ
-        (kyuukyokunoono)</dt>
+        (kyūkyoku no ono)</dt>
     <dd>Ultimate axe
         (THE TOP AXE!)</dd>
     <dt>モンスターをこうげきするとふうせんじょうたいにさせやすい
-        (monsutāwokougekisurutofuusenjoutaisayasui)</dt>
+        (monsutā o kōgeki suru to fūsenjōtai ni sase yasui)</dt>
     <dd>Monsters struck are afflicted with Balloon.
         (BALLOONS ENEMIES.)</dd>
     <dt>モンスターをこうげきするとこんらんさせやすい
-        (monsutāwokougekisurutokonransayasui)</dt>
+        (monsutā o kōgeki suru to konran sase yasui)</dt>
     <dd>Monsters struck are afflicted with Confusion.
         (CONFUSES ENEMIES.)</dd>
     <dt>きゅうきょくのヤリ
-        (kyuukyokunoyari)</dt>
+        (kyūkyoku no yari)</dt>
     <dd>Ultimate lance
         (THE TOP SPEAR!)</dd>
     <dt>モンスターをこうげきすると「おもり」をあたえやすい
-        (monsutāwokougekisuruto"omori"woatauyasui</dt>
+        (monsutā o kōgeki suru to "omori" o atae yasui</dt>
     <dd>Monsters struck are afflicted with Weight.
         (SLOWS ENEMIES DOWN.)</dd>
     <dt>きゅうきょくのフレイル
-        (kyuukyokunofureiru)</dt>
+        (kyūkyoku no fureiru)</dt>
     <dd>Ultimate flail
         (THE TOP WHIP!)</dd>
     <dt>きゅうきょくの弓矢
-        (kyuukyokunoyumiya)</dt>
+        (kyūkyoku no yumiya)</dt>
     <dd>Ultimate bow and arrow
         (THE TOP BOW!)</dd>
     <dt>きゅうきょくの手裏剣
-        (kyuukyokunoshuriken)</dt>
+        (kyūkyoku no shuriken)</dt>
     <dd>Ultimate shuriken
         (THE TOP BOOMERANG!)</dd>
     <dt>きゅうきょくのスピア
-        (kyuukyokunosupia)</dt>
+        (kyūkyoku no supia)</dt>
     <dd>Ultimate spear
         (THE TOP JAVELIN!)</dd>
-</dl>
-
-h2. Spell Effects
-
-p. Because of their sheer length, I'm not going to use the usual format for these.
-
-<dl>
-    <dt>Japanese (romaji)</dt>
-    <dd>English (Woolsey)</dd>
-    <dt>ふりかかる岩が、敵を押しつぶす
-        (furikakaruiwaga,tekiwooshitsubusu)</dt>
-    <dd>Crushes enemies with falling rocks.
-        (COVERS ENEMIES IN ROCK SLIDE.)</dd>
-    <dt>するどいダイヤが、敵を切りきざむ
-        (surudoidaiyaga,tekiwosetsurikizamu)</dt>
-    <dd>Cuts enemies with sharp diamonds.
-        (RAINS JAGGED DIAMONDS ON ENEMIES.)</dd>
-    <dt>敵のかいひりつを下げて、攻撃もおくらせる
-        (tekinokaihiritsuwoshitate,kougekimookurasuru)</dt>
-    <dd>Enemy's evasion% down, delays attacks.
-        (LOWERS EVADE % AND SLOWS ATTACK.)</dd>
-    <dt>仲間の武器に、石化の能力をもたせる
-        (nakamanogekini,sekikanonoryokuwomotaseru)</dt>
-    <dd>Ally's weapon gains the ability to petrify.
-        (WEAPONS GAIN THE POWER TO PETRIFY.)</dd>
-    <dt>仲間のかいひりつを上げて、攻撃もはやめる
-        (nakamanokaihiritsuwouwagete,kougekimohayameru)</dt>
-    <dd>Ally's evasion% up, hastens attacks.
-        (RAISES EVADE % AND SPEEDS ATTACK.)</dd>
-    <dt>仲間の防御力を上げ、ダメージをへらす
-        (nakamanobougyotsukarawouwage,damējiwoherasu)</dt>
-    <dd>Ally's defense up, reducing damage.
-        (RAISES DEFENSE/DECREASES DAMAGE.)</dd>
-    <dt>とびかうアイスが、敵にふりそそぐ
-        (tobikauaisuga,tekinifurisosogu)</dt>
-    <dd>An ice storm rains on enemies.
-        (CAUSES A FREEZING ICE STORM.)</dd>
-    <dt>強酸の雨によって、敵の防御力を下げる
-        (kyousannoameniyotte,tekinobougyotsukarawoshitateru)</dt>
-    <dd>Acid rains on enemies, reducing defense.
-        (ACID RAIN LOWERS ENEMY'S DEFENSE.)</dd>
-    <dt>敵のHPをうばいとる
-        (tekinoHPwoubaitoru)</dt>
-    <dd>Enemy's HP is drained.
-        (TAKES AWAY ENEMY'S HP.)</dd>
-    <dt>仲間の武器に、水の能力をもたせる
-        (nakamanogekini,mizunonoryokuwomotaseru)</dt>
-    <dd>Ally's weapon gains the power of water.
-        (WEAPONS GAIN THE POWER OF WATER!)</dd>
-    <dt>仲間のステータスを回復させる
-        (nakamanosutētasuwokaifukusaseru)</dt>
-    <dd>Ally recovers from status effects.
-        (RECOVERS STATUS.)</dd>
-    <dt>仲間のHPを回復させる
-        (nakamanoHPwokaifukusaseru)</dt>
-    <dd>Ally recovers HP.
-        (RECOVERS HP.)</dd>
-    <dt>火炎弾が、敵をやきつくす
-        (kaentamiga,tekiwoyakitsukusu)</dt>
-    <dd>Enemy is seared by fireballs.
-        (SENDS FIREBALLS AT ENEMIES.)</dd>
-    <dt>爆炎により、敵をやきこがす
-        (kibakuenniyori,tekiwoyakikogasu)</dt>
-    <dd>Enemy is burned by exploding fire.
-        (AN EXPLOSION ROCKS THE ENEMIES.)</dd>
-    <dt>マグマがふきだし、敵をつつみこむ
-        (magumagafukidashi,tekiwotsutsumakomu)</dt>
-    <dd>Enemy is enveloped by a magma burst.
-        (MAGMA ENGULFS THE ENEMIES.)</dd>
-    <dt>仲間の武器に、火の能力をもたせる
-        (nakamanogekini,hinonoryokuwomotaseru)</dt>
-    <dd>Ally's weapon gains the power of fire.
-        (WEAPONS GAIN THE POWER OF FIRE!)</dd>
-    <dt>敵に大ヤケドをおわせ、敵の攻撃力を下げる
-        (tekinidaiyakedowoawasu,tekinokougekiryokuwoshitageru)</dt>
-    <dd>Enemy is scalded, enemy attack power reduced.
-        (SCALDS ENEMY/LOWERS BATTLE POWER.)</dd>
-    <dt>炎のカベが敵をかこみ、敵が火ダルマになる
-        (ennokabegatekiwokakoma,tekigahidarumaninaru)</dt>
-    <dd>A wall of flame encircles enemies, inflicts Burning.
-        (A WALL OF FIRE ENGULFS THE ENEMIES.)</dd>
-    <dt>カマイタチをつくりだし、敵を切りきざむ
-        (kamaitachiwotsukurideshi,tekiwokirikizame)</dt>
-    <dd>A whirlwind is summoned to cut enemies.
-        (WIND-BURN DAMAGES THE ENEMIES.)</dd>
-    <dt>敵の上に、強力なイナズマをたたきつける
-        (tekinoueni,kyouryokunainazumawotatakitsukeru)</dt>
-    <dd>Powerful lightning strikes enemies from above.
-        (STRIKES THE ENEMIES WITH LIGHTNING.)</dd>
-    <dt>敵をこんらんじょうたいにする
-        (tekiwokonranjoutaitasuru)</dt>
-    <dd>Inflicts Confusion on enemies.
-        (CONFUSES THE ENEMIES.)</dd>
-    <dt>仲間の武器に、風の能力をもたせる
-        (nakamanogekini,kazenonoryokuwomotaseru)</dt>
-    <dd>Ally's weapon gains the power of wind.
-        (WEAPONS GAIN THE POWER OF WIND!)</dd>
-    <dt>敵のせいしんをみだし、こんらんさせる
-        (tekinoseishinwomidashi,konransaseru)</dt>
-    <dd>Reduces enemies' spirit, inflicts Confusion.
-        (LOWERS WISDOM/CONFUSES ENEMIES.)</dd>
-    <dt>宝箱のワナをはずす・敵の弱点をしらべる
-        (takarabakonowanawohazusu.tekinojiyakutenwoshiraberu)</dt>
-    <dd>Detects traps in chests and enemies' weaknesses.
-        (DETECTS TRAPS/ENEMY'S WEAK POINT.)</dd>
-    <dt>敵をレベルのひくいモンスターにかえる
-        (tekiworeberunofukuimonsutānikaeru)</dt>
-    <dd>Reduces enemy's monster level.
-        (TRANSFORMS ENEMY TO WEAKER LEVEL.)</dd>
-    <dt>敵のMPをうばいとる
-        (tekinoMPwoubaitoru)</dt>
-    <dd>Enemy's MP is drained.
-        (TAKES ENEMY'S MP.)</dd>
-    <dt>敵・味方全体に、ふしぎなことが起こる
-        (teki.mikatazentaini,fushiginakotogaokoru)</dt>
-    <dd>Strange things happen to friends and foes.
-        (MAKES ENEMY/YOU DO CURIOUS THINGS.)</dd>
-    <dt>仲間の武器にHPすいとりの能力をもたせる
-        (nakamanogekiniHPsuitorinonoryokuwomotaseru)</dt>
-    <dd>Ally's weapon gains the power to absorb HP.
-        (WEAPONS GAIN THE POWER TO TAKE HP!)</dd>
-    <dt>月光パワーで、仲間の攻撃力を上げる
-        (gekkoupawāde,nakamanokougekiryokuwoageru)</dt>
-    <dd>Moon's power raises ally's attack power.
-        (RAISES BATTLE POWER.)</dd>
-    <dt>クリティカルヒットがでやすくなる
-        (kuritikaruhittogadeyasukunaru)</dt>
-    <dd>Increases critical hit rate.
-        (RAISES CRITICAL HIT %.)</dd>
-    <dt>敵の心に安らぎをあたえ、敵を眠りに落とす
-        (tekinokokoroniyasuragiwoatau,tekiwonemuriniotosu)</dt>
-    <dd>Enemies' hearts ease, enemies fall asleep.
-        (LULLS ENEMIES TO SLEEP.)</dd>
-    <dt>うちにひめたエネルギーをぶつける
-        (utsunihimeteenarugīwobutsukeru)</dt>
-    <dd>Fires concealed energy.
-        (HIDDEN ENERGY STRIKES ENEMIES.)</dd>
-    <dt>ヒ・ミ・ツ
-        (hi.mi.tsu)</dt>
-    <dd>Secret
-        (SECRET)</dd>
-    <dt>仲間にとりついた死神をおいはらう
-        (nakamanitoritsuitashinigamiwoouharau)</dt>
-    <dd>Ally is repelled from Death's grasp.
-        (SENDS THE REAPER RUNNING.)</dd>
-    <dt>味方に、敵の魔法をはねかえすバリアをはる
-        (makateni,tekinomahouwohanekausubariawoharu)</dt>
-    <dd>Ally gains a barrier to repel enemy magic.
-        (MAKES A BARRIER TO WARD OFF MAGIC.)</dd>
-    <dt>闇のはどうが、敵のカラダをつつみこむ
-        (yamanohadouga,tekinokaradawotsutsumakomu)</dt>
-    <dd>A wave of darkness forms around enemies.
-        (WAVE OF DARKNESS HITS THE ENEMIES.)</dd>
-    <dt>邪悪な霊体が敵のエネルギーをぼうはつさせる
-        (jaokunareteigatekinoenarugīwobouhatsusaseru)</dt>
-    <dd>Demonic forces discharges enemies' energy.
-        (ENEMY'S ENERGY EXPLODES.)</dd>
-    <dt>敵のゲージを０にして、全防御魔法をけしさる
-        (tekinogējiwo0nishite,zenbougyomahouwoteshisaru</dt>
-    <dd>Removes defensive magic, sets enemy gauge to 0.
-        (SETS ENEMY'S GAUGE TO 0/HALTS MAGIC.)</dd>
-    <dt>仲間の武器に光の能力をもたせる
-        (nakamanogekinihikarinonoryokuwomotaseru)</dt>
-    <dd>Ally's weapon gains the power of light.
-        (WEAPONS GAIN THE POWER OF LIGHT!)</dd>
-    <dt>聖なる光が、闇の敵をかんつうする
-        (seinaruhikariga,yamanotekiwokantsuuseru)</dt>
-    <dd>Evil enemies are pierced with sacred light.
-        (EVIL FOE HIT WITH PURE LIGHT.)</dd>
-    <dt>全ての武器攻撃を、一定かいすうだけ防御する
-        (sebetsunogekikougeki,ikkeikaisuudakebougyosuru)</dt>
-    <dd>Sublime defense protects from physical attacks.
-        (PROTECTION FROM WEAPON ATTACKS.)</dd>
 </dl>
 

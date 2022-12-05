@@ -1,15 +1,13 @@
 ---
-layout: page
-title: Super Mario RPG Changes Guide
-type: Dataset
-about: '{"@type":"VideoGame","headline":"Super Mario RPG","datePublished":"1996-03-09","publisher":{"@type":"Organization","name":"Nintendo"}}'
+title: Super Mario RPG
+translation: true
 ---
 
-p. This game has one of the weirdest translations out of all of the games for which Woolsey was personally responsible during his employment with Squaresoft in the 90s. 
+This game has one of the weirdest translations out of all of the games for which Woolsey was personally responsible during his employment with Squaresoft in the 90s. 
 
-h2. Abilities
+## Abilities
 
-|_. Japanese           |_. Romaji          |_. Aerdan              |_. Woolsey    |
+| Japanese             | Romaji            | Síle                  | Woolsey      |
 | ジャンプ             | janpu             | Jump                  | Jump         |
 | ファイボール         | faibōru           | Fireball              | Fireball     |
 | スーパージャンプ     | sūpājanpu         | Super Jump            | Super Jump   |
@@ -38,9 +36,9 @@ h2. Abilities
 | おくちにチャック     | okuchinichakku    | Stuff It              | Mute         |
 | システリックボム     | shisuterikkubomu  | Sisteric Bomb         | Psych Bomb   |
 
-h2. Weapons
+## Weapons
 
-|_. Japanese           |_. Romaji         |_. Aerdan            |_. Woolsey     |
+| Japanese             | Romaji           | Síle                | Woolsey       |
 | すで                 | sude             | Unarmed             | Unarmed       |
 | ハンマー             | hanmā            | Hammer              | Hammer        |
 | ノコノコこうら       | nokonokokōra     | Troopa Shell        | Nok Nok Shell |
@@ -74,9 +72,9 @@ h2. Weapons
 | ちょービンタグローブ | chōbintagurōbu   | Super Slap Glove    | Super Slap    |
 | フライパン           | furaipan         | Frypan              | Frying Pan    |
 
-h2. Armor
+## Armor
 
-|_. Japanese         |_. Romaji        |_. Aerdan         |_. Woolsey     |
+| Japanese           | Romaji          | Síle             | Woolsey       |
 | ふつうのつなぎ     | futsuunotsutagi | Normal Shirt     | Shirt         |
 | しっかりつなぎ     | shikkaritsutagi | Firm Shirt       | Thick Shirt   |
 | ばっちりつなぎ     | bacchiritsutagi | Fancy Shirt      | Mega Shirt    |
@@ -112,9 +110,9 @@ h2. Armor
 | ひまんパタこうら   | himanpatakoura  | Fat Troopa Shell | Lazy Shell    |
 | スーパージャンパー | sūpājanpā       | Super Jumper     | Super Suit    |
 
-h2. Accessories
+## Accessories
 
-|_. Japanese           |_. Romaji             |_. Aerdan             |_. Woolsey    |
+| Japanese             | Romaji               | Síle                 | Woolsey      |
 | ブッキーのおまもり   | bukkīnoomamori       | Bookie's Amulet      | Amulet       |
 | どくふせぎバッジ     | dokufusegibajji      | Poisonblock Badge    | Antidote Pin |
 | ジャンパースカーフ   | janpāsukāfu          | Jumper Scarf         | Attack Scarf |
@@ -137,9 +135,9 @@ h2. Accessories
 | ぼんやりふせぎバッジ | bonyarifusegibajji   | Indeceivable Badge   | Wake Up Pin  |
 | シュビビンシューズ   | shubibinshūzu        | Sonic Shoes          | Zoom Shoes   |
 
-h2. Items
+## Items
 
-|_. Japanese           |_. Romaji             |_. Aerdan          |_. Woolsey     |
+| Japanese             | Romaji               | Síle              | Woolsey       |
 | リフレッシュジュース | refuresshujūsu       | Refresh Juice     | Able Juice    |
 | どくキノコ           | dokukinoko           | Poison Mushroom   | Bad Mushroom  |
 | カタクナール         | katakunāru           | (?)               | Bracer        |
@@ -192,9 +190,9 @@ h2. Items
 | ヨッシーキャンディー | yosshikyandī         | Yoshi Candy       | Yoshi Candy   |
 | ヨッシーのクッキー   | yosshinokukkī        | Yoshi's Cookie    | Yoshi Cookie  |
 
-h2. Key Items
+## Key Items
 
-|_. Japanese           |_. Romaji           |_. Aerdan             |_. Woolsey      |
+| Japanese             | Romaji             | Síle                 | Woolsey        |
 | アルトカード         | arutokādo          | Alto Card            | Alto Card      |
 | プチボム             | puchibomb          | Petit Bomb           | Bambino Bomb   |
 | むしかご             | mushikago          | Insect Cage          | Beetle Box     |
@@ -213,9 +211,9 @@ h2. Key Items
 | しんでんのカギ       | shindennokagi      | Temple Key           | Temple Key     |
 | テナーカード         | tenākādo           | Tenor Card           | Tenor Card     |
 
-h2. Enemies
+## Enemies
 
-|_. Japanese       |_. Romaji         |_. Aerdan          |_. Woolsey                |
+| Japanese         | Romaji           | Síle              | Woolsey                  |
 | チューベエ       | chūpē            | Squeak?           | Alley Rat                |
 | ポピン           | popin            | Popin             | Amanita                  |
 | プヨメーバ       | puyumēba         | Jellymoeba        | Ameboid                  |
@@ -415,9 +413,9 @@ h2. Enemies
 | ロクデナシ       | rokudenashi      | Bum               | Zeostar                  |
 | ドラゴンゾンビ   | doragonzonbi     | Dragon Zombie     | Zombone                  |
 
-h2. Places
+## Places
 
-|_. Japanese               |_. Romaji                |_. Aerdan                    |_. Woolsey          |
+| Japanese                 | Romaji                  | Síle                        | Woolsey            |
 | マリオの家               | marionoie               | Mario's House               | Mario's Pad        |
 | クッパ城                 | kuppashiro              | Koopa Keep                  | Bowser's Keep      |
 | クッパ城の見える丘       | kuppashironoaimamierōka | Hill Overlooking Koopa Keep | Vista Hill         |

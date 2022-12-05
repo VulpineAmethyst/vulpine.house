@@ -1,6 +1,8 @@
 ---
 title: "Castlevania: Symphony of the Night"
+translation: true
 ---
+Castlevania has been around for decades, but this game, known as *Akumajō Dracula X: Gekka no Yasokyoku* in Japan, is one of the most iconic games in the series, both for the cheesiness of its dialogue, and for how it changed the shape of the franchise for years to come.
 
 ## Items
 

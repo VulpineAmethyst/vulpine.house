@@ -1,15 +1,14 @@
 ---
-layout: page
-title: Final Fantasy III Changes Guide
-type: Dataset
-about: '{"@type":"VideoGame","headline":"Final Fantasy III","datePublished":"1990-04-27","publisher":{"@type":"Organization","name":"Square"}}'
+title: Final Fantasy III
+translation: true
 ---
 
-h2. Gear
+## Gear
 
-h3. Weapons
+### Weapons
 
-|_. Japanese       |_. Romaji         |_. Aerdan              |_. Official      |
+| Japanese         | Romaji           | Síle                  | Official        |
+| ---------------- | ---------------- | --------------------- | --------------- |
 | ナイフ           | naifu            | Knife                 | Knife           |
 | ダガー           | dagā             | Dagger                | Dagger          |
 | ミスリルナイフ   | misurirunaifu    | Mithril Knife         | Mythril Knife   |
@@ -52,25 +51,25 @@ h3. Weapons
 | 光の杖           | hikarinotsue     | Shimmering Staff      | Light Staff     |
 | ゴーレムの杖     | gōremunotsue     | Golem's Staff         | Golem Staff     |
 | ルーンの杖       | rūnnotsue        | Runed Staff           | Rune Staff      |
-| 長老の杖         | chousounotsue    | Elder's Staff         | Elder Staff     |
+| 長老の杖         | chōsōnotsue      | Elder's Staff         | Elder Staff     |
 | ホーリーワンド   | hōrīwando        | Holy Wand             | Holy Wand       |
 | 賢者の杖         | kenjanotsue      | Sage's Staff          | Sage Staff      |
 | ミスリルロッド   | misuriruroddo    | Mithril Rod           | Mithril Rod     |
 | ウィザードロッド | wizādoroddo      | Wizard Rod            | Wizard Rod      |
-| 炎の棒           | honoonobou       | Blazing Pole          | Fire Rod        |
-| 氷の棒           | koorinobou       | Freezing Pole         | Ice Rod         |
-| 光の棒           | hikarinobou      | Shimmering Pole       | Light Rod       |
-| 全ての棒         | subetenobou      | Omnipole              | Omnirod         |
+| 炎の棒           | honoonobō        | Blazing Pole          | Fire Rod        |
+| 氷の棒           | koorinobō        | Freezing Pole         | Ice Rod         |
+| 光の棒           | hikarinobō       | Shimmering Pole       | Light Rod       |
+| 全ての棒         | subetenobō       | Omnipole              | Omnirod         |
 | リリスロッド     | ririsunoroddo    | Lilith Rod            | Lilith Rod      |
 | ミレニアムロッド | mireniamuroddo   | Millenium Rod         | Millenium Rod   |
 | 弓               | yumi             | Bow                   | Bow             |
-| グレートボウ     | gureitobou       | Greatbow              | Great Bow       |
-| キラーボウ       | kirābou          | Killer Bow            | Killer Bow      |
+| グレートボウ     | gureitobō        | Greatbow              | Great Bow       |
+| キラーボウ       | kirābō           | Killer Bow            | Killer Bow      |
 | ルーンの弓       | rūnnoyumi        | Runed Bow             | Rune Bow        |
-| セレーネボウ     | serēnebou        | Selene Bow            | Selene Bow      |
-| 与一の弓         | youichinoyumi    | Yoichi's Bow          | Yoichi Bow      |
-| エウリュトスボウ | euryutosubou     | Eurytus's Bow         | Eurytos Bow     |
-| エルフィンボウ   | erufinbou        | Elfin Bow             | Elven Bow       |
+| セレーネボウ     | serēnebō         | Selene Bow            | Selene Bow      |
+| 与一の弓         | yōichinoyumi     | Yoichi's Bow          | Yoichi Bow      |
+| エウリュトスボウ | euryutosubō      | Eurytus's Bow         | Eurytos Bow     |
+| エルフィンボウ   | erufinbō         | Elfin Bow             | Elven Bow       |
 | アルテミスの弓   | arutemisunoyumi  | Artemis's Bow         | Artemis Bow     |
 | 木の矢           | mokunoya         | Wooden Arrow          | Wooden Arrow    |
 | 聖なる矢         | seinanoya        | Sacred Arrow          | Holy Arrow      |
@@ -82,7 +81,7 @@ h3. Weapons
 | 毒の矢           | dokunoya         | Poisoned Arrow        | Poison Arrow    |
 | メデューサの矢   | medyūsanoya      | Medusan Arrow         | Medusa Arrow    |
 | 魔力の矢         | maryokunoya      | Charming Arrow        | Magic Arrow     |
-| 与一の矢         | youichinoya      | Yoichi's Arrow        | Yoichi Arrow    |
+| 与一の矢         | yōichinoya       | Yoichi's Arrow        | Yoichi Arrow    |
 | 炎の本           | honoonohan       | Blazing Book          | Book of Fire    |
 | 氷の本           | koorinohan       | Freezing Book         | Book of Ice     |
 | 光の本           | hikarinohan      | Shimmering Book       | Book of Light   |
@@ -96,9 +95,9 @@ h3. Weapons
 | インパクトクロー | inpakutokurō     | Impact Claw           | Impact Claws    |
 | ネコの爪         | nekonotsume      | Cat's Claw            | Cat Claws       |
 | カイザーナックル | kaizānakkuru     | Kaiser Knuckle        | Kaiser Knuckles |
-| 飛竜の爪         | hiryuunotsume    | Windrake's Claw       | Wyvern Claws    |
+| 飛竜の爪         | hiryūnotsume     | Wind Drake's Claw     | Wyvern Claws    |
 | 虎の爪           | toranotsume      | Tiger's Claw          | Tiger Claws     |
-| 妖精の爪         | youseinotsume    | Faerie's Claw         | Faerie Claws    |
+| 妖精の爪         | yōseinotsume     | Faerie's Claw         | Faerie Claws    |
 | メタルナックル   | metarunakkuru    | Metal Knuckle         | Metal Knuckles  |
 | ダーククロー     | dākukurō         | Dark Claw             | Dark Claws      |
 | 地獄の爪         | jigokunotsume    | Hell's Claw           | Hellish Claw    |
@@ -139,20 +138,21 @@ h3. Weapons
 | 夢の竪琴         | yumenotategoto   | Dreamer's Harp        | Dream Harp      |
 | アポロンのハープ | aporonnohāpu     | Apollo's Harp         | Apollo Harp     |
 
-h3. Armor
+### Armor
 
-|_. Japanese       |_. Romaji         |_. Aerdan         |_. Official       |
+| Japanese         | Romaji           | Síle             | Official         |
+| ---------------- | ---------------- | ---------------- | ---------------- |
 | 皮の盾           | kawanotate       | Hide Shield      | Leather Shield   |
 | ミスリルの盾     | misurirunotate   | Mithril Shield   | Mythril Shield   |
 | アイスシールド   | aisushīrudo      | Ice Shield       | Ice Shield       |
-| 勇者の盾         | yuushanotate     | Heroic Shield    | Heroic Shield    |
+| 勇者の盾         | yūshanotate      | Heroic Shield    | Heroic Shield    |
 | デモンズシールド | demonzushīrudo   | Demon's Shield   | Demon Shield     |
 | ダイヤシールド   | daiyashīrudo     | Diamond Shield   | Diamond Shield   |
 | イージスの盾     | ījisunotate      | Aegis Shield     | Aegis Shield     |
 | 源氏の盾         | genjinotate      | Genji's Shield   | Genji Shield     |
 | クリスタルの盾   | kurisutarunotate | Crystal Shield   | Crystal Shield   |
 | オニオンシールド | onionshīrudo     | Onion Shield     | Onion Shield     |
-| 皮の帽子         | kawanoboushi     | Hide Cap         | Leather Cap      |
+| 皮の帽子         | kawanobōshi      | Hide Cap         | Leather Cap      |
 | ミスリルの兜     | misurirunokabuto | Mithril Helm     | Mythril Helm     |
 | ツノガイの兜     | tsunogainokabuto | Tusk Helm        | Shell Helm       |
 | はちまき         | hachimaki        | Headband         | Headband         |
@@ -186,7 +186,7 @@ h3. Armor
 | 白のローブ       | shironorōbu      | White Robe       | White Robe       |
 | 黒のローブ       | kuronorōbu       | Black Robe       | Black Robe       |
 | 詩人の服         | shijinnofuku     | Poet's Outfit    | Bard Vest        |
-| 黒帯道着         | kuroobidougi     | Black Belt's Gi  | Black Belt Gi    |
+| 黒帯道着         | kuroobidōgi      | Black Belt's Gi  | Black Belt Gi    |
 | ドラゴンメイル   | doragonmeiru     | Dragon Mail      | Dragon Mail      |
 | 大地の衣         | daichinokoromo   | Earthen Suit     | Gaia Vest        |
 | バイキングメイル | bakingumeiru     | Viking Mail      | Viking Mail      |
@@ -216,9 +216,10 @@ h3. Armor
 | 修羅の小手       | shuranokote      | Battle Bracer    | Shura Gloves     |
 | 精霊の腕輪       | seireinoudewa    | Spirit Bangle    | Astral Bracers   |
 
-h3. Items
+### Items
 
-|_. Japanese       |_. Romaji        |_. Aerdan            |_. Official |
+| Japanese         | Romaji          | Síle                | Official        |
+| ---------------- | --------------- | ------------------- | --------------- |
 | ポーション       | pōshon          | Potion              | Potion          |
 | ハイポーション   | haipōshon       | High Potion         | Hi-Potion       |
 | 毒消し           | dokukeshi       | Antidote            | Antidote        |
@@ -227,11 +228,11 @@ h3. Items
 | 金の針           | kinnohari       | Golden Needle       | Gold Needle     |
 | 乙女のキッス     | otomenokissu    | Maiden's Kiss       | Maiden's Kiss   |
 | 打ち出の小槌     | uchidanokozuchi | Miraculous Mallet   | Mallet          |
-| ラッコの頭       | rakkonotou      | Lucky Counter       | Ottershroom(?)  |
+| ラッコの頭       | rakkonotō       | Lucky Counter       | Ottershroom(?)  |
 | フェニックスの尾 | fenikkusunoo    | Phoenix Tail        | Phoenix Down    |
 | エリクサー       | erikusā         | Elixir              | Elixir          |
 | 小人のパン       | kobitonopan     | Dwarf's Bread       | Gnomish Bread   |
-| 魔法のカギ       | mahounokagi     | Magic Key           | Magic Key       |
+| 魔法のカギ       | mahōnokagi      | Magic Key           | Magic Key       |
 | ギサールの野菜   | gisārunoyasai   | Gysahl's Veggie     | Gysahl Greens   |
 | 南極の風         | nankyokunokaze  | Southern Wind       | Antarctic Wind  |
 | ゼウスの怒り     | zeusunoikari    | Zeus's Wrath        | Zeus's Wrath    |
@@ -256,11 +257,12 @@ h3. Items
 | チョコボの怒り   | chokobonoikari  | Chocobo's Wrath     | Chocobo's Wrath |
 | 白の香り         | shironokaori    | White Fragrance     | White Musk      |
 
-h2. Jobs
+## Jobs
 
-h3. Job Titles
+### Job Titles
 
-|_. Japanese   |_. Romaji      |_. Aerdan        |_. Official   |
+| Japanese     | Romaji        | Síle            | Official     |
+| ------------ | ------------- | --------------- | ------------ |
 | すっぴん     | suppin        | Freelancer      | Freelancer   |
 | 戦士         | senshi        | Warrior         | Warrior      |
 | モンク       | monku         | Monk            | Monk         |
@@ -276,7 +278,7 @@ h3. Job Titles
 | バイキング   | baikingu      | Marauder[1]     | Viking       |
 | 魔剣士       | makenshi      | Spellsword      | Dark Knight  |
 | 幻術師       | genjutsushi   | Witch           | Evoker       |
-| 吟遊詩人     | ginyūshijin   | Minstrel        | Bard         |
+| 吟遊詩人     | ginyūshijin   | Bard            | Bard         |
 | 空手家       | karateka      | Karate Artist   | Black Belt   |
 | 導師         | dōshi         | Master Monk     | Devout       |
 | 魔人         | akumajin      | Devilkin        | Magus        |
@@ -285,5 +287,5 @@ h3. Job Titles
 | 忍者         | ninja         | Ninja           | Ninja        |
 | たまねぎ剣士 | tamanegikishi | Onion Knight    | Onion Knight |
 
-fn1. 'Viking' is about analogous to 'marauding', and likely comes either from the Old Norse word 'viking' (marauding, piracy) or the Old English or Anglo-Frisian word 'vik' (camp).
+1. 'Viking' is about analogous to 'marauding', and likely comes either from the Old Norse word 'viking' (marauding, piracy) or the Old English or Anglo-Frisian word 'vik' (camp).
 

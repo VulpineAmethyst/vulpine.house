@@ -1,17 +1,11 @@
 ---
-layout: page
-title: Mystic Quest Changes Guide
-type: Dataset
-about: '{"@type":"VideoGame","headline":"Final Fantasy: Mystic Quest","datePublished":"1992-10-05","publisher":{"@type":"Organization","name":"Square"}}'
+title: Final Fantasy Mystic Quest 
+translation: true
 ---
+## Places
 
-This page is a list of changes between the Japanese version and US version of Final Fantasy Mystic Quest (aka Final Fantasy USA: Mystic Quest and Mystic Quest Legend), as well as my own translation (with assistance from "Sky Render":http://www.skyrender.net in some places).
-
-_*Note*: I don't go in for literal translations, so the English column may contain puns or alliteration where appropriate._
-
-h2. Places
-
-|_. Japanese         |_. Romaji        |_. English             |_. Woolsey       |
+| Japanese           | Romaji          | Síle                  | Official        |
+| ------------------ | --------------- | --------------------- | --------------- |
 | うんめいのおか     | unmeinooka      | Hill of Fate          | Hill of Destiny |
 | ふもとのもり       | fumotonomori    | Foothill Forest       | Level Forest    |
 | フォレスタ         | foresta         | Foresta               | Foresta         |
@@ -28,7 +22,7 @@ h2. Places
 | はいこう           | haikō           | Abandoned Mine        | Mine            |
 | ふういんのほこら   | fūinnohokora    | Closed Cloister       | Sealed Temple   |
 | かざん             | kazan           | Volcano               | Volcano         |
-| ようがんドーム     | yougandōmu      | Lava Dome             | Lava Dome       |
+| ようがんドーム     | yōgandōmu       | Lava Dome             | Lava Dome       |
 | つりばし           | tsuribashi      | Suspension Bridge     | Rope Bridge     |
 | いきているじゅかい | ikiteirujukai   | Living Woodlands      | Alive Forest    |
 | きょだいろうぼく   | kyodairōboku    | Huge Old Tree         | Giant Tree      |
@@ -36,23 +30,25 @@ h2. Places
 | かざあなのほこら   | kazānanohokora  | Breezy Bethel         | Windhole Temple |
 | ウインディア       | windia          | Windia                | Windia          |
 | かぜのさんみゃく   | kazenosanmyaku  | Windy Mountains       | Mt Gale         |
-| パズズのとう       | pazuzunotou     | Pazuzu's Tower        | Pazuzu's Tower  |
+| パズズのとう       | pazuzunotō      | Pazuzu's Tower        | Pazuzu's Tower  |
 | ふねつきば         | funetsukiba     | Shipyard              | Ship Dock       |
 | かんぱん           | kanpan          | Deck                  | Deck            |
 | マックのふね       | makkunofune     | Mac's Ship            | Mac's Ship      |
 
-h2. Characters
+## Characters
 
-|_. Japanese |_. Romaji |_. English |_. Woolsey |
-| カレン     | karen    | Karen     | Kaeli     |
-| ロック     | rokku    | Lock      | Tristam   |
-| フェイ     | fei      | Faye      | Phoebe    |
-| ジャック   | jakku    | Jack      | Spencer   |
-| レッド     | reddo    | Red       | Reuben    |
+| Japanese | Romaji | Síle  | Official |
+| -------- | ------ | ----- | -------- |
+| カレン   | karen  | Karen | Kaeli    |
+| ロック   | rokku  | Lock  | Tristam  |
+| フェイ   | fei    | Faye  | Phoebe   |
+| ジャック | jakku  | Jack  | Spencer  |
+| レッド   | reddo  | Red   | Reuben   |
 
-h2. Statuses
+## Statuses
 
-|_. Japanese |_. Romaji |_. English |_. Woolsey |
+| Japanese   | Romaji   | Síle      | Official  |
+| ---------- | -------- | --------- | --------- |
 | ちんもく   | chinmoku | Silence   | Silence   |
 | くらやみ   | kurayami | Darkness  | Blind     |
 | どく       | doku     | Poison    | Poison    |
@@ -62,15 +58,16 @@ h2. Statuses
 | せきか     | sekika   | Stone     | Petrify   |
 | きぜつ     | kizetsu  | Faint     | Fatal     |
 
-h2. Monsters
+## Monsters
 
-|_. Japanese       |_. Romaji       |_. English       |_. Woolsey       |
+| Japanese         | Romaji         | Síle            | Official        |
+| ---------------- | -------------- | --------------- | --------------- |
 | グリーンスライム | gurīnsuraimu   | Green Slime     | Slime           |
 | ゴブリン         | goburin        | Goblin          | Brownie         |
 | ポイズントード   | poizuntōdo     | Poison Toad     | Poison Toad     |
 | ローパー         | rōpā           | Roper           | Mad Plant       |
 | シムルグ         | shimurugu      | Simurgh         | Roc             |
-| サンドウオーム   | sandouōmu      | Sandworm        | Sand Worm       |
+| サンドウオーム   | sandowōmu      | Sandworm        | Sand Worm       |
 | ゴーゴン         | gōgon          | Gorgon          | Gorgon          |
 | スケルトン       | sukeruton      | Skeleton        | Skeleton        |
 | バジリスク       | bazirisuku     | Basilisk        | Basilisk        |
@@ -79,7 +76,7 @@ h2. Monsters
 | スカーレット     | sukāretto      | Scarlet         | Scorpion        |
 | ギガントード     | gigantōdo      | Gigantoad       | Giant Toad      |
 | ソードラット     | sōdoratto      | Swordrat        | Edgehog         |
-| ランドウオーム   | randouōmu      | Landworm        | Land Worm       |
+| ランドウオーム   | randowōmu      | Landworm        | Land Worm       |
 | ケンタウロス     | kentaurosu     | Centaur         | Centaur         |
 | ランドタートル   | randotātoru    | Land Turtle     | Land Turtle     |
 | スパルナ         | suparuna       | Suparna         | Sparna          |
@@ -99,7 +96,7 @@ h2. Monsters
 | ブラッディボーン | buraddibōn     | Bloody Bone     | Red Bone        |
 | ゾンビ           | zonbi          | Zombie          | Zombie          |
 | ゴースト         | gōsuto         | Ghost           | Ghost           |
-| ウェアウルフ     | ueaurufu       | Werewolf        | Werewolf        |
+| ウェアウルフ     | weaurufu       | Werewolf        | Werewolf        |
 | ナイトメア       | naitomea       | Nightmare       | Nightmare       |
 | フェニックス     | fenikkusu      | Phoenix         | Hot Wings       |
 | しのび           | shinobi        | Shinobi         | Ninja           |
@@ -113,10 +110,10 @@ h2. Monsters
 | トリニティ       | toriniti       | Trinity         | Chimera         |
 | マミー           | mamī           | Mummy           | Mummy           |
 | スペクター       | supekutā       | Specter         | Specter         |
-| クロウラー       | kurourā        | Crawler         | Live Oak        |
+| クロウラー       | kurōrā         | Crawler         | Live Oak        |
 | スナイパー       | sunaipā        | Sniper          | Snipion         |
 | オーガニトード   | ōganitōdo      | Organitoad      | Mad Toad        |
-| アビスウォーム   | abisuuōmu      | Abyss Worm      | Leech           |
+| アビスウォーム   | abisuwōmu      | Abyss Worm      | Leech           |
 | ブラックスライム | burakkusuraimu | Black Slime     | Ooze            |
 | スカルジャー     | sukarujā       | Skulldier       | Skuldier        |
 | オアンネス       | oannesu        | Oannes          | Water Hag       |
@@ -130,14 +127,15 @@ h2. Monsters
 | アバイ           | abai           | Abai            | Gargoyle        |
 | ケルベロス       | keruberosu     | Cerberus        | Cerberus        |
 
-h3. Bosses
+### Bosses
 
-|_. Japanese       |_. Romaji      |_. English   |_. Woolsey       |
+| Japanese         | Romaji        | Síle        | Official        |
+| ---------------- | ------------- | ----------- | --------------- |
 | ベヘモス         | behemosu      | Behemoth    | Behemoth        |
 | ミノタウロス     | minotaurosu   | Minotaur    | Minotaur        |
 | フレームサウルス | furēmusaurusu | Flamesaurus | Flamerus Rex    |
 | ベレムナイト     | beremunaito   | Belemnite   | Squidite        |
-| スノウクラブ     | sunoukurabu   | Snow Crab   | Snow Crab       |
+| スノウクラブ     | sunōkurabu    | Snow Crab   | Snow Crab       |
 | アイスゴーレム   | aisugōremu    | Ice Golem   | Ice Golem       |
 | ジン             | jin           | Djinn       | Jinn            |
 | メデェーサ       | medeēsa       | Medusa      | Medusa          |
@@ -147,15 +145,16 @@ h3. Bosses
 | パズズ           | pazuzu        | Pazuzu      | Pazuzu          |
 | スカルレックス   | sukarurekkusu | Skullrex    | Skullrus Rex    |
 | ストーンゴーレム | sutōngōremu   | Stone Golem | Stone Golem     |
-| ウイバーン       | uibān         | Wyvern      | Twinhead Wyvern |
+| ウイバーン       | wibān         | Wyvern      | Twinhead Wyvern |
 | ズー             | zū            | Zuu         | Zuh             |
 | ダークキング     | dākukingu     | Dark King   | Dark King       |
 
-h2. Equipment
+## Equipment
 
-h3. Armor
+### Armor
 
-|_. Japanese       |_. Romaji       |_. English      |_. Woolsey    |
+| Japanese         | Romaji         | Síle           | Official     |
+| ---------------- | -------------- | -------------- |--- --------- |
 | ミスリルメイル   | misurirumeiru  | Mithril Mail   | Steel Armor  |
 | パラディンメイル | paradinmeiru   | Paladin Mail   | Noble Armor  |
 | ガイアのよろい   | gaianoyoroi    | Gaia Gear      | Gaia's Armor |
@@ -166,17 +165,18 @@ h3. Armor
 | ヴィーナスのたて | vīnasunotate   | Venus Shield   | Venus Shield |
 | イージスのたて   | ījisunotate    | Aegis Shield   | Aegis Shield |
 | おまもり         | omamori        | Amulet         | Charm        |
-| まほうのゆびわ   | mahounoyubiwa  | Magic Ring     | Magic Ring   |
+| まほうのゆびわ   | mahōnoyubiwa   | Magic Ring     | Magic Ring   |
 | あいのロケット   | ainoroketto    | Lover's Locket | Cupid Locket |
 | いにしえのよろい | inishienoyoroi | Ancient Armor  | Relica Armor |
-| くろしょうぞく   | kuroshouzoku   | Black Clothes  | Black Robe   |
+| くろしょうぞく   | kuroshōzoku    | Black Clothes  | Black Robe   |
 | めがみのローブ   | megaminorōbu   | Goddess Robe   | Mystic Robe  |
 | かえんのよろい   | kaennoyoroi    | Flame Armor    | Flame Armor  |
 | せいれいのたて   | seireinotate   | Spirit Shield  | Ether Shield |
 
-h3. Weapons
+### Weapons
 
-|_. Japanese         |_. Romaji         |_. English        |_. Woolsey    |
+| Japanese           | Romaji           | Síle             | Official     |
+| ------------------ | ---------------- | ---------------- | ------------ |
 | ミスリルソード     | misurirusōdo     | Mithril Sword    | Steel Sword  |
 | ゆうしゃのつるぎ   | yūshanotsurugi   | Hero's Sword     | Knight Sword |
 | エクスカリバー     | ekusukaribā      | Excalibur        | Excalibur    |
@@ -184,18 +184,19 @@ h3. Weapons
 | バトルアクス       | batoruakusu      | Battle Axe       | Battle Axe   |
 | まじんのおの       | majinnoono       | Devil's Axe      | Giant's Axe  |
 | ねこのつめ         | nekonotsume      | Cat's Claw       | Cat Claw     |
-| ようせいのつめ     | yōseinotsume     | Fairy Claw       | Charm Claw   |
-| せいりゅうのつめ   | seiryūnotsume    | Seiryuu Claw     | Dragon Claw  |
+| ようせいのつめ     | yōseinotsume     | Faerie Claw      | Charm Claw   |
+| せいりゅうのつめ   | seiryūnotsume    | Seiryu Claw      | Dragon Claw  |
 | ばくだん           | bakudan          | Bomb             | Bomb         |
 | かえんばくだん     | kaenbakudan      | Fire Bomb        | Jumbo Bomb   |
 | てなげばくだん     | tenagebakudan    | Hand Grenade     | Mega Grenade |
-| ふうましゅりけん   | fūmashuriken     | Fuuma Shuriken   | Ninja Star   |
+| ふうましゅりけん   | fūmashuriken     | Fuma Shuriken    | Ninja Star   |
 | ロビンフッドのゆみ | robinfuddonoyumi | Robin Hood's Bow | Bow of Hope  |
 | モーニングスター   | mōningustā       | Morningstar      | Morning Star |
 
-h3. Items
+### Items
 
-|_. Japanese           |_. Romaji         |_. English         |_. Woolsey    |
+| Japanese             | Romaji           | Síle              | Official     |
+| -------------------- | ---------------- | ----------------- | ------------ |
 | ポーション           | pōshon           | Potion            | Cure Potion  |
 | ヒールポーション     | hīrupōshon       | Heal Potion       | Heal Potion  |
 | リフレッシャー       | refuresshā       | Refresher         | Refresher    |
@@ -215,11 +216,12 @@ h3. Items
 | オーロラのさかずき   | ōroranosakazuki  | Aurora's Goblet   | Sky Coin     |
 | カミナリいし         | kaminariishi     | Thunder Rock      | Thunder Rock |
 | メビウスのもんしょう | mebiusunomonshō  | Moebius Crest     | Mobius Crest |
-| せんちょうのぼうし   | senchounobōshi   | Captain's Cap     | Captain Cap  |
+| せんちょうのぼうし   | senchōnobōshi    | Captain's Cap     | Captain Cap  |
 
-h2. Spells
+## Spells
 
-|_. Japanese |_. Romaji |_. English   |_. Woolsey |
+| Japanese   | Romaji   | Síle        | Official  |
+| ---------- | -------- | ----------- | --------- |
 | しろ       | shiro    | White       | White     |
 | ケアル     | kearu    | Cure        | Cure      |
 | テレポ     | terepo   | Teleport    | Exit      |
