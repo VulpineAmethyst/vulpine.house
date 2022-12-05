@@ -3,19 +3,18 @@ title: Links
 description: Links to our various resources.
 ---
 # Social Media
-* **Cohost**: <a rel="me" href="https://cohost.org/Sheila">/Sheila</a></li> or <a rel="me" href="https://cohost.org/VulpineAmethyst">/VulpineAmethyst</a></li>
-* **Discord**:<a rel="me" href="https://discordapp.com/users/165317317138317313">VulpineAmethyst#3244</a></li>
-* **Fediverse**: <a rel="me" href="https://social.treehouse.systems/@VulpineAmethyst">@VulpineAmethyst@treehouse.systems</a></li>
-* **Twitter**: <a rel="me" href="https://twitter.com">@VulpineAmethyst</a></li>
-* **Tumblr**: <a rel="me" href="https://tumblr.com/VulpineAmethyst">VulpineAmethyst</a></li>
+* **Discord**: {{< me href="https://discordapp.com/users/165317317138317313" text="VulpineAmethyst#3244" >}}
+* **Fediverse**: {{< me href="https://social.treehouse.systems/@VulpineAmethyst" text="@VulpineAmethyst@treehouse.systems" >}}
+* **Ko-Fi**: {{< me href="https://ko-fi.com/VulpineAmethyst" text="VulpineAmethyst" >}}
+* **Twitter**: {{< me href="https://twitter.com" text="@VulpineAmethyst" >}}
+* **Tumblr**: {{< me href="https://tumblr.com/VulpineAmethyst" text="VulpineAmethyst" >}}
 
 ## Miscellaneous
 
-* **Blog**: <a rel="me" href="https://acefox.life">acefox.life</a></li>
-* **Final Fantasy XIV**: <a rel="me" href="https://na.finalfantasyxiv.com/lodestone/character/31486046/">Ekaterin Belasch</a></li>
-* **GitHub**:<a rel="me" href="https://github.com/VulpineAmethyst">VulpineAmethyst</a></li>
-* **Ko-Fi**: <a rel="me" href="https://ko-fi.com/VulpineAmethyst">VulpineAmethyst</a></li>
-* **Steam**: <a rel="me" href="https://steamcommunity.com/id/vulpineamethyst">VulpineAmethyst</a></li>
+* **Blog**: {{< me href="https://acefox.life" text="acefox.life" >}}
+* **Final Fantasy XIV**: {{< me href="https://na.finalfantasyxiv.com/lodestone/character/31486046/" text="Ekaterin Belasch" >}}
+* **GitHub**: {{< me href="https://github.com/VulpineAmethyst" text="VulpineAmethyst" >}}
+* **Steam**: {{< me href="https://steamcommunity.com/id/vulpineamethyst" text="VulpineAmethyst" >}}
 
 ## Wishlists
 
