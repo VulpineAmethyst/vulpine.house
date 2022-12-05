@@ -3,4 +3,5 @@ html {
 }
 article, hr, footer {
     max-width: 40em;
+    margin: 0 auto;
 }
