@@ -899,7 +899,7 @@ Ability listings will diverge here because the remake of Trials of Mana works di
 | エレメントコンボⅡ     | erementokonboII     | Elemental Combo II    | Elemental Combo II     |
 | レインボーダスト      | reinbōdasuto        | Rainbow Dust          | Glitter Dust           |
 | セイントビーム+       | seintobīmu+         | Boost Saint Beam      | Lucent Beam+           |
-| 特技MPセーブⅡ         | tokugiMPsēbuII      | Technique MP Save II  | Move MP Saver II       |
+| 特技MPセーブⅡ         | tokugiMPsēbuII      | Technique MP Saver II | Move MP Saver II       |
 | サンダーストーム+     | sandāsutōmu+        | Boost Thunderstorm    | Thunderstorm+          |
 | クリティカルアップⅡ   | kuritikaruappuII    | Critical Up II        | Pinpoint II            |
 | ダンシングロッド      | danshinguroddo      | Dancing Rod           |
@@ -1115,7 +1115,7 @@ Ability listings will diverge here because the remake of Trials of Mana works di
 | ファーストショットⅡ   | fāsutoshottoII     | First Shot II                | Quick Shot II        |
 | 攻撃ダウンオール      | kōgekidaunōru      | Attack Down All              | ATK Down All         |
 | 弱点特効オール        | jakutentokkōōru    | Exploit Weakness All         | Weak Point All       |
-| 魔防ダウンオール      | mahōdaunōru        | Magic Down All               | MGC DEF Down All     |
+| 魔防ダウンオール      | mabōdaunōru        | Magic Defense Down All       | MGC DEF Down All     |
 | アンティマジック      | antimajikku        | Anti-Magic                   | Dispel Magic         |
 | グレムリン            | gureimurin         | Gremlin                      | Gremlin              |
 | グレートデーモン      | gurētodēmon        | Great Demon                  | Demon                |
@@ -1136,11 +1136,216 @@ Ability listings will diverge here because the remake of Trials of Mana works di
 | 防御ダウンオールⅡ     | bōgyodaunōruII     | Defense Down All II          | DEF Down All II      |
 | 攻撃ダウンオールⅡ     | kōgekidaunōruII    | Attack Down All II           | ATK Down All II      |
 | 弱点特効オールⅡ       | jakutentokkōōruII  | Exploit Weakness All II      | Weak Point All II    |
-| 魔防ダウンオールⅡ     | mahōdaunōruII      | Magic Down All II            | MGC DEF Down All II  |
+| 魔防ダウンオールⅡ     | mabōdaunōruII      | Magic Defense Down All II    | MGC DEF Down All II  |
 | 召喚SP+Ⅱ              | shōkanSP+II        | Boost Summon SP II           | Summon CS Boost II   |
 | バッドカウンターⅢ     | baddokauntāIII     | Bad Counter III              | Hard Ricochet III    |
 | ランダムダウンⅢ       | randamudaunIII     | Random Debuff III            | Random Debuff III    |
 | どろどろ              | dorodoro           | Sticky                       |
+
+### Hawkeye
+
+| Japanese               | Romaji             | Síle                    | Official             |
+| ---------------------- | ------------------ | ----------------------- | -------------------- |
+| 強気                   | tsuyoki            | Confidence              | Sturdy               |
+| 受け流し               | ukenagashi         | Parry                   | Ward Off             |
+| 迎撃態勢               | geigekitaisei      | Interception Stance     | Interception         |
+| リテイン               | ritein             | Retain                  | Retain               |
+| ポイズン               | poizun             | Poison                  | Toxic                |
+| 撃破SP+                | gekihaSP+          | Boost Victory Heal      | Victory CS Boost     |
+| 隠密                   | onmitsu            | Conceal                 | Enigma               |
+| ドロップアップ         | doroppuappu        | Drop Up                 | Lucky Find           |
+| 背面斬り               | haimengiri         | Reverse Strike          |
+| 強気Ⅱ                  | tsuyokiII          | Confidence II           | Sturdy               |
+| チャージレジスト       | chājirejisuto      | Charge Resist           | Stand Ground         |
+| 迎撃態勢Ⅱ              | geigekitaiseiII    | Interception Stance II  | Interception II      |
+| 状態異常特効           | jōtaiijōtokkō      | Debuffed Damage Up      | Special Effect       |
+| スリープフラワー       | surīpufurawā       | Sleepflower             | Sleep Flower         |
+| ボディチェンジ         | bodichenji         | Shapeshift              | Change Form          |
+| 特技MPセーブ           | tokugiMPsēbu       | Technique MP Saver      | Move MP Saver        |
+| 弓矢                   | yumiya             | Bow & Arrow             | Arrow Rain           |
+| スパイク               | supaiku            | Spike                   | Spikes               |
+| 不意打ちⅡ              | fuiuchiII          | Ambush II               | Ambush II            |
+| 飛燕投                 | hientō             | Scattering Bird Throw   |
+| 強気Ⅱ                  | tsuyokiII          | Confidence II           | Sturdy II            |
+| チャージレジスト       | chājirejisuto      | Charge Resist           | Stand Ground         |
+| 迎撃態勢Ⅱ              | geigekitaiseiII    | Interception Stance II  | Interception II      |
+| 弱点特効               | jakutentokkō       | Exploit Weakness        | Weak Point           |
+| 忍連撃                 | ninrengeki         | Enduring Attack         | Chain Ninja          |
+| 忍術SP+                | ninjutsuSP+        | Boost Ninjutsu SP       | Ninja SP Boost       |
+| 手裏剣                 | shuriken           | Shuriken                | Shuriken             |
+| 水遁の術               | suitonnojutsu      | Suiton Jutsu            | Water Diversion      |
+| 火遁の術               | katonnojutsu       | Katon Jutsu             | Fire Diversion       |
+| 土遁の術               | dotonnojutsu       | Doton Jutsu             | Dirt Diversion       |
+| 雷神の術               | raijinnojutsu      | Raijin Jutsu            | Thunder Technique    |
+| 残影斬                 | zaneiki            | Remnant Strike          |
+| 攻撃アップオールⅡ      | kōgekiappuōruII    | Attack Up All II        | Attack Boost All II  |
+| 受け流しⅡ              | ukenagashiII       | Parry II                | Ward Off II          |
+| 防御アップオール       | bōgyoappuōru       | Defense Up All          | Defense Boost All    |
+| スリープフラワー+      | surīpufurawā+      | Boost Sleepflower       | Sleep Flower+        |
+| ボディチェンジ+        | bodichenji+        | Boost Shapeshift        | Change Form+         |
+| ポイズンバブル         | poizunbaburu       | Poison Bubble           | Poison Bubble        |
+| ルナティック           | runatikku          | Lunatic                 | Lunatique            |
+| トランスシェイプ       | toransusheipu      | Transshape              | Crystalline          |
+| ライフブースター       | raifubūstā         | Life Booster            | Lunar Radiance       |
+| オーラウェイブ         | ōraweibu           | Aura Wave               | Nature Aura          |
+| ハーフバニッシュ       | hāfubanisshu       | Half-Vanish             | Half Eclipse         |
+| カウンタマジック       | kauntamajikku      | Counterspell            | Wall                 |
+| エナジーボール         | enajībōru          | Energy Ball             | Moon Energy          |
+| クリティカルダメージ   | kuritikarudamēji   | Critical Damage         | Critical Damage      |
+| クリティカルアップ     | kuritikaruappu     | Critical Up             | Pinpoint II          |
+| バラの舞               | baranomai          | Rose Dance              |
+| 強化トラップ           | kyōkatorappu       | Enhanced Trap           | Super Trap           |
+| 受け流しⅡ              | ukenagashiII       | Parry II                | Ward Off II          |
+| ピンチディフェンスⅡ    | pinchidifensuII    | Pinch Defense II        | Defense Help II      |
+| スリープフラワー+      | surīpufurawā+      | Boost Sleepflower       | Sleep Flower+        |
+| ボディチェンジ+        | bodichenji+        | Boost Shapeshift        | Change Form+         |
+| 猛毒トラップ           | dokutorappu        | Poison Trap             | Toxic Trap           |
+| トラップSP+            | torappuSP+         | Boost Trap SP           | Trap CS Boost        |
+| 岩石落下               | gansekirakka       | Rockfall                | Rockfall             |
+| 地雷                   | jirai              | Landmine                | Mines                |
+| カッターミサイル       | katāmisairu        | Cutter Missile          | Hatchet Throw        |
+| アックスボンバー       | akkusubonbā        | Axebomber               | Axe Bomber           |
+| シルバーダーツ         | shirubādātsu       | Silver Darts            | Silver Dart          |
+| 円月輪                 | engetsurin         | Fullmoon Ring           | Hurlbat              |
+| ロケットランチャー     | rokettoranchā      | Rocket Launcher         | Rocket Launcher      |
+| グレネードボム         | gurenēdobomu       | Grenade                 | Grumpkin             |
+| 千枚斬り               | senmaikiri         | Thousand Cuts Strike    |
+| 強化忍術               | kyōkaninjutsu      | Enhanced Ninjutsu       | Super Ninja Trick    |
+| 受け流しⅡ              | ukenagashiII       | Parry II                | Ward Off II          |
+| 撃破ヒールⅡ            | gekihahīruII       | Victory Heal II         | Victory Heal II      |
+| 弱点特効Ⅱ              | jakutentokkōII     | Exploit Weakness II     | Weak Point II        |
+| 忍び連撃Ⅱ              | shinobirengekiII   | Stealth Attack II       | Chain Ninja II       |
+| 忍術SP+Ⅱ               | ninjutsuSP+II      | Boost Ninjutsu SP II    | Ninja SP Boost II    |
+| 手裏剣+                | shuriken+          | Boost Shuriken          | Shuriken+            |
+| 水遁の術+              | suitonnojutsu+     | Boost Suiton Jutsu      | Water Diversion+     |
+| 火遁の術+              | katonnojutsu+      | Boost Katon Jutsu       | Fire Diversion+      |
+| 土遁の術+              | dotonnojutsu+      | Boost Doton Jutsu       | Dirt Diversion+      |
+| 雷神の術+              | raijinnojutsu+     | Boost Raijin Jutsu      | Thunder Technique+   |
+| 影潜り                 | dagekuguri         | Shadow Diver            | 
+| 逆襲                   | gyakushū           | Counterattack           | Reactionary          |
+| 受け流しⅡ              | ukenagashiII       | Parry II                | Ward Off II          |
+| 撃破ヒールⅡ            | gekihahīruII       | Victory Heal II         | Victory Heal II      |
+| 状態異常特効Ⅱ          | jōtaiijōtokkōII    | Debuffed Damage Up II   | Special Effect II    |
+| 魔防ダウンオール       | mabōdaunōru        | Magic Defense Down All  | MGC DEF Down All     |
+| 一撃撃破SP+            | ichigekigekihaSP+  | Boost Final Attack SP   | 1-Hit CS Boost       |
+| 毒霧ブレス             | dokubōburesu       | Poison Breath           | Poison Cloud         |
+| 火炎ブレス             | kaenburesu         | Fire Breath             | Fire Cloud           |
+| 含み針                 | fukimihari         | Paralysis Needle        | Needle Shower        |
+| 凶器攻撃               | kyōkikōgeki        | Lethal Strike           | Weapon Smack         |
+| ブラックレイン         | burakkurein        | Black Rain              | Dark Rain            |
+| 分身斬                 | bunshinki          | Self Strike             |
+| 攻撃アップオールⅢ      | kōgekiappuōruII    | Attack Up All II        | Attack Boost All II  |
+| ピンチディフェンスⅢ    | pinchidifensuIII   | Pinch Defense III       | Defense Help III     |
+| 防御アップオールⅡ      | bōgyoappuōruII     | Defense Up All II       | Defense Boost All II |
+| 状態異常特効Ⅲ          | jōtaiijōtokkōIII   | Debuffed Damage Up III  | Special Effect III   |
+| ポイズンⅡ              | poizunII           | Poison II               | Toxic II             |
+| ダメージSP+Ⅱ           | damējiSP+II        | Boost Damage SP II      | Damage CS Boost II   |
+| クリティカルダメージⅡ  | kuritikarudamējiII | Critical Damage II      | Critical Damage II   |
+| 隠密Ⅱ                  | onmitsuII          | Conceal II              | Enigma II            |
+| 千刀華                 | sentōka            | Thousand-Blade Splendor |
+| 逆襲Ⅱ                  | gyakushūII         | Counterattack II        | Reactionary II       |
+| 受け流しⅢ              | ukenagashiIII      | Parry III               | Ward Off III         |
+| 撃破ヒールⅢ            | gekihahīruIII      | Victory Heal III        | Victory Heal III     |
+| 状態異常特効Ⅲ          | jōtaiijōtokkōIII   | Debuffed Damage Up III  | Special Effect III   |
+| 弱点特効Ⅲ              | jakutentokkō       | Exploit Weakness III    | Weak Point III       |
+| ダメージMP+Ⅱ           | damējiMP+II        | Boost Damage MP II      | Damage MP Boost II   |
+| 天誅                   | tenchū             | Divine Punishment       | Retribution          |
+| 隠密Ⅱ                  | onmitsuII          | Conceal II              | Enigma II            |
+| 分身斬                 | bunshinki          | Self Strike             |
+
+### Riesz
+
+| Japanese            | Romaji            | Síle                    | Official
+| ------------------- | ----------------- | ----------------------- |
+| 反撃                | hangeki           | Counter                 | Counter               |
+| 迎撃態勢            | geigekitaisei     | Interception Stance     | Interception          |
+| 不屈                | fukutsu           | Fortitude               | Fortitude             |
+| 急速回復            | kyūsokukaifuku    | Rapid Recovery          | Quick Heal            |
+| 撃破SP+             | gekihaSP+         | Victory Booost SP       | Victory CS Boost      |
+| ペイバック          | peibakku          | Payback                 | Payback               |
+| 見切り              | mikiri            | Abandon                 | Forsake               |
+| クリティカルアップ  | kuritikaruappu    | Critical Up             | Pinpoint              |
+| 旋風槍              | senbūyari         | Whirlwind Spear         |
+| 攻撃アップオール    | kōgekiappuōru     | Attack Up All           | Attack Boost All      |
+| エンドヒール        | endohīru          | End Heal                | Winning Heal          |
+| アップ強化          | appukyōka         | Enhanced Up             | Stat Boost            |
+| 自然治癒力          | shizenchiyuryoku  | Self-Healing            | Self-Heal             |
+| プロテクトアップ    | purotekutoappu    | Protect Up              | Protection            |
+| マインドアップ      | maindoappu        | Mind Up                 | Mental Boost          |
+| パワーアップ        | pawāappu          | Power Up                | Strengthen            |
+| アップMPセーブ      | appuMPsēbu        | Buff MP Saver           | Stat Boost MP Saver   |
+| マジックブレイク    | majikkubureiku    | Magic Break             | Magic Smash           |
+| アイテムアップ      | aitemuappu        | Item Up                 | Bountiful             |
+| 真空波動槍          | shinkūhadōyari    | Vacuum Wave Spear       |
+| チャージアップ      | chājiappu         | Charge Up               | Charger               |
+| ピンチディフェンス  | pinchidifensu     | Pinch Defense           | Defense Help          |
+| ダウン強化          | daunkyōka         | Enhanced Down           | Super Stat Down       |
+| ダウンカウント      | daunkaunto        | Down Count              | Down Time             |
+| プロテクトダウン    | purotekutodaun    | Protect Down            | Defenseless           |
+| マインドダウン      | maindodaun        | Mind Down               | Enfeeble              |
+| パワーダウン        | pawādaun          | Power Down              | Weaken                |
+| ダウンMPセーブ      | daunMPsēbu        | Down MP Saver           | Stat Down MP Saver    |
+| マジックブレイク    | majikkubureiku    | Magic Break             | Magic Smash           |
+| パワーブレイク      | pawābureiku       | Power Break             | Critical Smash        |
+| 飛天槍              | hitenyari         | Celestial Spear         |
+| 導きの光            | michibikinohikari | Guiding Light           | Light of Guidance     |
+| 守りの光            | mamorinohikari    | Shielding Light         | Light of Refuge       |
+| フレイア            | fureia            | Freya                   | Freya                 |
+| HP回復オール        | HPkaifukuōru      | HP Recovery All         | Auto-HP Heal All      |
+| ダメージSP+Ⅲ        | damējiSP+III      | Boost Damage SP III     | Damage CS Boost III   |
+| 天啓                | tensei            | Revelation              | Oracle                |
+| ダブルアップ        | daburuappu        | Double Up               | Extra Potent          |
+| ランダムアップ      | randamuappu       | Random Up               | Random Buff           |
+| 光弾槍              | hikaridanyari     | Shining Spear           |
+| 攻撃アップオールⅡ   | kōgekiappuōruII   | Attack Up All II        | Attack Boost All II   |
+| 防御アップオール    | bōgyoappuōruII    | Defense Up All II       | Defense Boost All II  |
+| マルドゥーク        | marudūku          | Marduk                  | Seraph                |
+| 魔攻アップオール    | makōappuōru       | Magic Attack Up All     | MGC Boost All         |
+| プロテクトアップ+   | purotekutoappu+   | Boost Protect Up        | Protection+           |
+| マインドアップ+     | maindoappu+       | Boost Mind Up           | Mental Boost+         |
+| パワーアップ+       | pawāappu+         | Boost Power Up          | Strengthen+           |
+| 魔防アップオール    | mabōappuōru       | Magic Defense Up All    | MGC DEF Boost All     |
+| ラッキーアップ      | rakkīappu         | Lucky Up                | Good Luck             |
+| ダウンコンバート    | daunknbāto        | Down Combat             | Down Size             |
+| 流星衝              | ryūsekishō        | Meteoric Pierce         |
+| チャージアップⅡ     | chājiappuII       | Charge Up II            | Charger II            |
+| スペルレジスト      | superurejisuto    | Resist Spells           | Spell Resistance      |
+| ヨルムンガンド      | yorumangando      | Jörmungandr             | Jormungandr           |
+| ダウン強化Ⅱ         | daunkyōkaII       | Enhanced Down II        | Super Stat Down II    |
+| ダウンSP+           | daunSP+           | Boost Down SP           | Stat Down CS Boost    |
+| 召喚SP+             | shōkanSP+         | Boost Summon SP         | Summon CS Boost       |
+| ランダムダウンⅡ     | randamudaunII     | Random Down II          | Random Debuff II      |
+| リバースアップ      | ribāsuappu        | Reverse Up              | Opposite Effect       |
+| 竜牙槍              | ryūgeyari         | Dragonfang Spear        |
+| アタッカー          | atakkā            | Attacker                | Attacker              |
+| 迎撃態勢Ⅲ           | geigekitaiseiIII  | Interception Stance III | Interception III      |
+| ラミアンナーガ      | ramiannāga        | Lamian Naga             | Hexas                 |
+| ダウン強化Ⅱ         | daunkyōkaII       | Enhanced Down II        | Super Stat Down II    |
+| プロテクトダウン+   | purotekutodaun+   | Boost Protect Down      | Defenseless+          |
+| マインドダウン+     | maindodaun+       | Boost Mind Down         | Enfeeble+             |
+| パワーダウン+       | pawādaun+         | Boost Power Down        | Weaken+               |
+| ダウンSP+           | daunSP+           | Boost Down SP           | Stat Down CS Boost    |
+| マジックブレイクⅡ   | majikkubureikuII  | Magic Break II          | Magic Smash II        |
+| ラッキーダウン      | rakkīdaun         | Lucky Down              | Bad Luck              |
+| 百花乱舞            | hyakkaranbu       | Petal Dance             |
+| 攻撃アップオールⅢ   | kōgekiappuōruIII  | Attack Up All III       | Attack Boost All III  |
+| 防御アップオールⅡ   | bōgyoappuōruII    | Defense Up All II       | Defense Boost All II  |
+| アンリミテッド      | anrimiteddo       | Unlimited               | Unlimited             |
+| 魔攻アップオールⅡ   | makōappuōruII     | Magic Attack Up All II  | MGC Boost All II      |
+| ダメージSP+Ⅳ        | damējiSP+IV       | Boost Damage SP IV      | Damage CS Boost IV    |
+| 魔防アップオールⅡ   | mabōappuōruII     | Magic Defense Up All II | MGC DEF Boost All II  |
+| ラッキーアップⅡ     | rakkīappuII       | Lucky Up II             | Good Luck II          |
+| ダウンコンバートⅡ   | daunkonbātoII     | Down Combat II          | Down Size II          |
+| 天星槍              | amoseyari         | Celestial Spear         |
+| アタッカーⅡ         | atakkāII          | Attacker II             | Attacker II           |
+| ピンチディフェンスⅢ | pinchidifensuIII  | Pinch Defense III       | Defense Help          |
+| 召喚魔法MPセーブ    | shōkanmahōMPsebu  | Summon Magic MP Saver   | Summon MP Saver       |
+| アンリミテッド      | anrimiteddo       | Unlimited               | Unlimited             |
+| ダウンMPセーブⅡ     | daunMPsēbaII      | Down MP Saver II        | Stat Down MP Saver II |
+| 召喚SP+             | shōkanSP+         | Boost Summon SP         | Summon CS Boost II    |
+| マジックブレイクⅢ   | majikkubureikuIII | Magic Break III         | Magic Smash III       |
+| ラッキーダウンⅡ     | rakkīdaunII       | Lucky Down II           | Bad Luck II           |
+| 煌鷲槍              | kōjuyari          | Twinkling Eagle Spear   |
 
 ### Original Skills
 
@@ -1230,7 +1435,8 @@ Ability listings will diverge here because the remake of Trials of Mana works di
 
 ## Bestiary
 
-| Japanese         | Romaji          | Síle              | Fan   Trans.   |
+| Japanese         | Romaji          | Síle              | Fan Translation |
+| ---------------- | --------------- | ----------------- | --------------- |
 | かいがらハンター | kaigarahantā    | Shell Hunter      | Shell Hunter   |
 | ぱっくりオタマ   | pakkuriotama    | Snapping Tadpole  | Pakkuri Baby   |
 | ぱっくんオタマ   | pakkunotama     | Chomp Tadpole     | Pakkun Baby    |
