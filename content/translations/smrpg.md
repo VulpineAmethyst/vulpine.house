@@ -3,17 +3,20 @@ title: Super Mario RPG
 translation: true
 ---
 
-This game has one of the weirdest translations out of all of the games for which Woolsey was personally responsible during his employment with Squaresoft in the 90s. 
+This game has one of the weirdest translations out of all of the games for which Woolsey was personally responsible during his employment with Squaresoft in the 90s. In fairness to him, it's a pretty weird (and quite delightful) game.
+
+Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few things that had me stumped for *years*.
 
 ## Abilities
 
 | Japanese             | Romaji            | Síle                  | Woolsey      |
+| -------------------- | ----------------- | --------------------- | ------------ |
 | ジャンプ             | janpu             | Jump                  | Jump         |
 | ファイボール         | faibōru           | Fireball              | Fireball     |
 | スーパージャンプ     | sūpājanpu         | Super Jump            | Super Jump   |
-| スーパーファイア     | sūpāfaia          | Super Fire            | Super Flame  |
+| スーパーファイア     | sūpāfaia          | Super Fireball        | Super Flame  |
 | ウルトラジャンプ     | urutorajanpu      | Ultra Jump            | Ultra Jump   |
-| ウルトラファイア     | urutorafaia       | Ultra Fire            | Ultra Flame  |
+| ウルトラファイア     | urutorafaia       | Ultra Fireball        | Ultra Flame  |
 | でんげきビリリ       | dengekibiriri     | Blitz                 | Thunderbolt  |
 | かいふくシャワー     | kaifukushawā      | Recover Shower        | HP Rain      |
 | なにかんがえてるの   | nanikangaeteruno  | What're You Thinking? | Psychopath   |
@@ -39,6 +42,7 @@ This game has one of the weirdest translations out of all of the games for which
 ## Weapons
 
 | Japanese             | Romaji           | Síle                | Woolsey       |
+| -------------------- | ---------------- | ------------------- | ------------- |
 | すで                 | sude             | Unarmed             | Unarmed       |
 | ハンマー             | hanmā            | Hammer              | Hammer        |
 | ノコノコこうら       | nokonokokōra     | Troopa Shell        | Nok Nok Shell |
@@ -75,6 +79,7 @@ This game has one of the weirdest translations out of all of the games for which
 ## Armor
 
 | Japanese           | Romaji          | Síle             | Woolsey       |
+| ------------------ | --------------- | ---------------- | ------------- |
 | ふつうのつなぎ     | futsuunotsutagi | Normal Shirt     | Shirt         |
 | しっかりつなぎ     | shikkaritsutagi | Firm Shirt       | Thick Shirt   |
 | ばっちりつなぎ     | bacchiritsutagi | Fancy Shirt      | Mega Shirt    |
@@ -113,10 +118,11 @@ This game has one of the weirdest translations out of all of the games for which
 ## Accessories
 
 | Japanese             | Romaji               | Síle                 | Woolsey      |
+| -------------------- | -------------------- | -------------------- | ------------ |
 | ブッキーのおまもり   | bukkīnoomamori       | Bookie's Amulet      | Amulet       |
 | どくふせぎバッジ     | dokufusegibajji      | Poisonblock Badge    | Antidote Pin |
 | ジャンパースカーフ   | janpāsukāfu          | Jumper Scarf         | Attack Scarf |
-| ラブラブリング       | raburaburingu        | Lovely Ring          | B'Tub Ring   |
+| ラブラブリング       | raburaburingu        | Lovey-Dovey Ring     | B'Tub Ring   |
 | かがやけるひのために | kagayakeruhinotameni | Twinkling Favour     | Coin Trick   |
 | あなたをこえたくて   | anatawokoetakute     | Your Excellence      | Exp. Booster |
 | きょうふふせぎバッジ | kyōfufusegibajji     | Fearless Badge       | Fearless Pin |
@@ -137,58 +143,59 @@ This game has one of the weirdest translations out of all of the games for which
 
 ## Items
 
-| Japanese             | Romaji               | Síle              | Woolsey       |
-| リフレッシュジュース | refuresshujūsu       | Refresh Juice     | Able Juice    |
-| どくキノコ           | dokukinoko           | Poison Mushroom   | Bad Mushroom  |
-| カタクナール         | katakunāru           | (?)               | Bracer        |
-| ブリリアントカード   | buririantokādo       | Brilliant Card    | Bright Card   |
-| カルボクッキー       | karubokukkī          | Carbo Cookie      | Carbo Cookie  |
-| ミンナカタクナール   | minnakatakunāru      | (?)               | Crystalline   |
-| あのころにもどりたい | anokoronimodoritai   | (?)               | Earlier Times |
-| あしはえドリンク     | ashihaedorinku       | Pure Drink        | Elixir        |
-| ツヨクナール         | tsuyokunāru          | (?)               | Energizer     |
-| ひりょう             | hiryou               | Fertilizer        | Fertilizer    |
-| かえんだま           | kaendama             | Flame Bomb        | Firebomb      |
-| はなび               | hanabi               | Fireworks         | Fireworks     |
-| フラワーギフト       | furawāgifuto         | Flower Gift       | Flower Box    |
-| フラワーセット       | furawāsetto          | Flower Set        | Flower Jar    |
-| フラワーカプセル     | furawākapuseru       | Flower Capsule    | Flower Tab    |
-| リフレッシュオール   | refureshuōru         | Refresh Oil       | Freshen Up    |
-| びびりだま           | bibiridama           | Boo Bomb          | Fright Bomb   |
-| オタマドリンク       | otamudorinku         | Tadpole Drink     | Froggie Drink |
-| ふくぶくろ           | fukufukuro           | Mystery Bag       | Goodie Bag    |
-| ハニーシロップ       | honīshiroppu         | Honey Syrup       | Honey Syrup   |
-| こおりだま           | kooridama            | Ice Bomb          | Ice Bomb      |
-| ケロケロドリンク     | kerokerodorinku      | Frog Drink        | KerokeroCola  |
-| ひつじのゆうわく     | hitsujinoyuuwaku     | Lamb's Lure       | Lamb's Lure   |
-| ラッキージュエル     | rakkījueru           | Lucky Jewel       | Lucky Jewel   |
-| メイプルシロップ     | meipurushiroppu      | Maple Syrup       | Maple Syrup   |
-| ウルトラキノコ       | urutorakinoko        | Ultra Mushroom    | Max Mushroom  |
-| おヒレちぢみドリンク | ohirechijimidorinku  | (?) Drink         | Megalixir     |
-| スーパーキノコ       | sūpākinoko           | Super Mushroom    | Mid Mushroom  |
-| カビはえキノコ       | kabihaekinoko        | Mold Mushroom     | Moldy Mush    |
-| ムクムクのクッキー   | mukumukunokukkī      | Plump Cookie      | Muku Cookie   |
-| キノコ               | kinoko               | Mushroom          | Mushroom      |
-| キノコ               | kinoko               | Mushroom          | Mushroom 2    |
-| ふしぎなたまご       | fushiginatamago      | Mysterious Egg    | Mystery Egg   |
-| ふっかつドリンク     | fukkatsudorinku      | Rebirth Drink     | Pick Me Up    |
-| ミンナツヨクナール   | minnatsuyokunāru     | (?)               | Power Blast   |
-| せいすい             | seisui               | Holy Water        | Pure Water    |
-| レッドヨッシーエキス | reddoyosshīekisu     | Red Yoshi Extract | Red Essence   |
-| こんぺいとう         | konpeidou            | Rock Candy        | Rock Candy    |
-| くさったキノコ       | kusattakinoko        | Decaying Mushroom | Rotten Mush   |
-| ロイヤルシロップ     | roiyarushiroppu      | Royal Syrup       | Royal Syrup   |
-| たね                 | tane                 | Seed              | Seed          |
-| さよならはとつぜんに | sayonarahatotsuzenni | Good Bye (?)      | See Ya        |
-| ひつじのしょうどう   | hitsujinoshoudou     | Sheep's Impulse   | Sheep Attack  |
-| ぴかぴかいし         | pikapikaishi         | Sparkling Stone   | Shiny Stone   |
-| ねむりだま           | nemuridama           | Sleep Bomb        | Sleepy Bomb   |
-| スターのたまご       | sutānotamago         | Star Egg          | Star Egg      |
-| サイフ               | seifu                | Wallet            | Wallet        |
-| しなびたキノコ       | shinabitakino        | Wilted Mushroom   | Wilted Shroom |
-| ヨシクナール         | yosshināru           | Yoshi (?)         | Yoshi Aid     |
-| ヨッシーキャンディー | yosshikyandī         | Yoshi Candy       | Yoshi Candy   |
-| ヨッシーのクッキー   | yosshinokukkī        | Yoshi's Cookie    | Yoshi Cookie  |
+| Japanese             | Romaji               | Síle               | Woolsey       |
+| -------------------- | -------------------- | ------------------ | ------------- |
+| リフレッシュジュース | refuresshujūsu       | Refresh Juice      | Able Juice    |
+| どくキノコ           | dokukinoko           | Poison Mushroom    | Bad Mushroom  |
+| カタクナール         | katakunāru           | Stiffener          | Bracer        |
+| ブリリアントカード   | buririantokādo       | Brilliant Card     | Bright Card   |
+| カルボクッキー       | karubokukkī          | Carbo Cookie       | Carbo Cookie  |
+| ミンナカタクナール   | minnakatakunāru      | Group Stiffener    | Crystalline   |
+| あのころにもどりたい | anokoronimodoritai   | Rewinder           | Earlier Times |
+| あしはえドリンク     | ashihaedorinku       | Pure Drink         | Elixir        |
+| ツヨクナール         | tsuyokunāru          | Strengthener       | Energizer     |
+| ひりょう             | hiryou               | Fertilizer         | Fertilizer    |
+| かえんだま           | kaendama             | Flame Bomb         | Firebomb      |
+| はなび               | hanabi               | Fireworks          | Fireworks     |
+| フラワーギフト       | furawāgifuto         | Flower Gift        | Flower Box    |
+| フラワーセット       | furawāsetto          | Flower Set         | Flower Jar    |
+| フラワーカプセル     | furawākapuseru       | Flower Capsule     | Flower Tab    |
+| リフレッシュオール   | refureshuōru         | Refresh Oil        | Freshen Up    |
+| びびりだま           | bibiridama           | Boo Bomb           | Fright Bomb   |
+| オタマドリンク       | otamudorinku         | Tadpole Drink      | Froggie Drink |
+| ふくぶくろ           | fukufukuro           | Mystery Bag        | Goodie Bag    |
+| ハニーシロップ       | honīshiroppu         | Honey Syrup        | Honey Syrup   |
+| こおりだま           | kooridama            | Ice Bomb           | Ice Bomb      |
+| ケロケロドリンク     | kerokerodorinku      | Frog Drink         | KerokeroCola  |
+| ひつじのゆうわく     | hitsujinoyuuwaku     | Lamb's Lure        | Lamb's Lure   |
+| ラッキージュエル     | rakkījueru           | Lucky Jewel        | Lucky Jewel   |
+| メイプルシロップ     | meipurushiroppu      | Maple Syrup        | Maple Syrup   |
+| ウルトラキノコ       | urutorakinoko        | Ultra Mushroom     | Max Mushroom  |
+| おヒレちぢみドリンク | ohirechijimidorinku  | Tail-Shrink Drink  | Megalixir     |
+| スーパーキノコ       | sūpākinoko           | Super Mushroom     | Mid Mushroom  |
+| カビはえキノコ       | kabihaekinoko        | Mold Mushroom      | Moldy Mush    |
+| ムクムクのクッキー   | mukumukunokukkī      | Plump Cookie       | Muku Cookie   |
+| キノコ               | kinoko               | Mushroom           | Mushroom      |
+| キノコ               | kinoko               | Mushroom           | Mushroom 2    |
+| ふしぎなたまご       | fushiginatamago      | Mysterious Egg     | Mystery Egg   |
+| ふっかつドリンク     | fukkatsudorinku      | Rebirth Drink      | Pick Me Up    |
+| ミンナツヨクナール   | minnatsuyokunāru     | Group Strengthener | Power Blast   |
+| せいすい             | seisui               | Holy Water         | Pure Water    |
+| レッドヨッシーエキス | reddoyosshīekisu     | Red Yoshi Extract  | Red Essence   |
+| こんぺいとう         | konpeidou            | Rock Candy         | Rock Candy    |
+| くさったキノコ       | kusattakinoko        | Decaying Mushroom  | Rotten Mush   |
+| ロイヤルシロップ     | roiyarushiroppu      | Royal Syrup        | Royal Syrup   |
+| たね                 | tane                 | Seed               | Seed          |
+| さよならはとつぜんに | sayonarahatotsuzenni | Abrupt Departure   | See Ya        |
+| ひつじのしょうどう   | hitsujinoshoudou     | Sheep's Impulse    | Sheep Attack  |
+| ぴかぴかいし         | pikapikaishi         | Sparkling Stone    | Shiny Stone   |
+| ねむりだま           | nemuridama           | Sleep Bomb         | Sleepy Bomb   |
+| スターのたまご       | sutānotamago         | Star Egg           | Star Egg      |
+| サイフ               | seifu                | Wallet             | Wallet        |
+| しなびたキノコ       | shinabitakino        | Wilted Mushroom    | Wilted Shroom |
+| ヨシクナール         | yosshināru           | Yoshi-er           | Yoshi-Ade     |
+| ヨッシーキャンディー | yosshikyandī         | Yoshi Candy        | Yoshi Candy   |
+| ヨッシーのクッキー   | yosshinokukkī        | Yoshi's Cookie     | Yoshi Cookie  |
 
 ## Key Items
 
@@ -214,6 +221,7 @@ This game has one of the weirdest translations out of all of the games for which
 ## Enemies
 
 | Japanese         | Romaji           | Síle              | Woolsey                  |
+| ---------------- | ---------------- | ----------------- | ------------------------ |
 | チューベエ       | chūpē            | Squeak?           | Alley Rat                |
 | ポピン           | popin            | Popin             | Amanita                  |
 | プヨメーバ       | puyumēba         | Jellymoeba        | Ameboid                  |
