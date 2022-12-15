@@ -433,7 +433,7 @@ Like a lot of early fan translation efforts, Seiken Densetsu 3 (sometimes called
 | 暗黒のローブ     | ankokunorōbu         | Obsidian Robe           | Darkness Robe    | Raven Robe      |
 | 夢魔のコート     | mumanokōto           | Nightmare Coat          | Dreamdevil Coat  | Vision Coat     |
 | ミエインのドレス | mieinnodoresu        | Miein Dress             | Myein Dress      | Milane Dress    |
-| エレモスのコート | eremosunokōto        | Elemos Coat             | Eremos Coat      | Radical Coat    |
+| エレモスのコート | eremosunokōto        | Desolate Coat           | Eremos Coat      | Radical Coat    |
 | ルーンのコート   | rūnnokōto            | Runed Coat              | Rune Coat        | Rune Coat       |
 | 古の祭衣         | inishienomatsukoromo | Antique Kimono          | Ancient Robe     | Ancient Robe    |
 | クィーンドレス   | kuīndoresu           | Queen's Dress           | N/A              | Queen Garb      |
@@ -528,7 +528,7 @@ Like a lot of early fan translation efforts, Seiken Densetsu 3 (sometimes called
 | 神鷲の鎧         | kamiwashinoyoroi     | God Eagle's Armor       | N/A              | Doyenne Armor   |
 
 2. While literally 'cuir bouilli', it really is (and more commonly _known_ as) just boiled leather.
-3. I'm not convinced that this is a correct translation, but unfortunately the original fan translation has been around long enough that it's impossible to discover what it actually is. I don't think even the person who put it on Reese's armor list in the first place knows what it is now.
+3. I'm not convinced that this is a correct translation, but unfortunately the original fan translation has been around long enough that it's impossible to discover what it actually is. I don't think even the person who put it on Riesz's armor list in the first place knows what it is now.
 
 ### Headwear
 
@@ -557,7 +557,7 @@ Like a lot of early fan translation efforts, Seiken Densetsu 3 (sometimes called
 | かすみのヴェール   | kasuminovēru       | Misty Veil          | Mist Veil        | Misty Veil      |
 | 月石のティアラ     | tsukiishinotiara   | Moonstone Tiara     | Moonstone Tiara  | Moon Circlet    |
 | ミエインクラウン   | mieinkuraun        | Miein Crown         | Myein Crown      | Milane Crown    |
-| エレモスクラウン   | eremoskuraun       | Elemos Crown        | Eremos Crown     | Radical Crown   |
+| エレモスクラウン   | eremoskuraun       | Desolate Crown      | Eremos Crown     | Radical Crown   |
 | ルーンヴェール     | rūnvēru            | Runed Veil          | Rune Veil        | Rune Veil       |
 | 古のティアラ       | inishienotiara     | Antique Tiara       | Ancient Tiara    | Ancient Tiara   |
 | クィーンクラウン   | kuīnkuraun         | Queen's Crown       | N/A              | Queen Coronet   |
@@ -678,7 +678,7 @@ Like a lot of early fan translation efforts, Seiken Densetsu 3 (sometimes called
 | 鋼の腕輪           | haganenoudewa       | Steel Bangle         | Steel Bracelet   | Steel Armlet      |
 | 風神の腕輪         | fūjinnoudewa        | Wind God Bangle      | WindGod Bracelet | Aeolian Armlet    |
 | 大地の腕輪         | daichinoudewa       | Earth Bangle         | Earth Bracelet   | Earthen Brace     |
-| ギャラルホルン     | gyaruhorun          | Gjallarhorn          | Gyralhorne       | Gjallarhorn       |
+| ギャラルホルン     | gyararuhorun        | Gjallarhorn          | Gyralhorne       | Gjallarhorn       |
 | ルーンピアス       | rūnpiasu            | Runed Earring        | Rune Earrings    | Rune Earrings     |
 | 宿り木の腕輪       | yadoginoudewa       | Mistletoe Bangle     | Yadorigi Armlet  | Mistle Armlet     |
 | ドラウプニル       | doraupuniru         | Draupnir             | Draupnir         | Draupnir          |
@@ -706,7 +706,7 @@ Like a lot of early fan translation efforts, Seiken Densetsu 3 (sometimes called
 | マナ・ブレス       | mana·buresu         | Mana Bracelet        | N/A              | Mana Ring         |
 | ラビのアクセサリ   | rabinoakusesari     | Rabite Accessory     | N/A              | Rabite Adornment  |
 
-4. Literally, "Giant's Ring", but Reese carries a lot of Nordic references so I figured an ice giant would be appropriate.
+4. Literally, "Giant's Ring", but Riesz carries a lot of Nordic references so I figured an ice giant would be appropriate.
 
 ## Shields
 
@@ -1063,7 +1063,7 @@ Ability listings will diverge here because the remake of Trials of Mana works di
 | ファーストショット    | fāsutoshotto       | First Shot                   | Quick Shot           |
 | ディフェンダーⅡ       | difendāII          | Defender II                  | Defender II          |
 | スリープ              | surīpu             | Sleep                        | Doze                 |
-| 強化召喚              | kyōkashōkan        | Strong Summon                | Super Summon         |
+| 強化召喚              | kyōkashōkan        | Enhanced Summon              | Super Summon         |
 | ヒールライト+         | hīruraito+         | Boost Healing Light          | Healing Light+       |
 | ユニコーンヘッド      | yunikōnheddo       | Unicorn Head                 | Chess Knight         |
 | マシンゴーレム        | mashingōremu       | Machine Golem                | Machine Golem        |
@@ -1255,8 +1255,8 @@ Ability listings will diverge here because the remake of Trials of Mana works di
 
 ### Riesz
 
-| Japanese            | Romaji            | Síle                    | Official
-| ------------------- | ----------------- | ----------------------- |
+| Japanese            | Romaji            | Síle                    | Official              |
+| ------------------- | ----------------- | ----------------------- | --------------------- |
 | 反撃                | hangeki           | Counter                 | Counter               |
 | 迎撃態勢            | geigekitaisei     | Interception Stance     | Interception          |
 | 不屈                | fukutsu           | Fortitude               | Fortitude             |
