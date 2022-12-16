@@ -11,9 +11,8 @@
         <link href='{{"/css/tables.css" | relURL}}' rel="stylesheet" media="all"/>
         {{- else -}}
         <link href='{{"/css/clean.css" | relURL }}' rel="stylesheet" media="all"/>
-        {{- end }}
-        <link rel="me" href="https://social.treehouse.systems/@VulpineAmethyst"/>
-        <link rel="me" href="https://503junk.house/@VulpineAmethyst"/>
+        {{- end }}{{ range .Site.Params.Fediverse }}
+        <link rel="me" href="{{ . }}"/>{{ end }}
     </head>
     <body>
         <header>

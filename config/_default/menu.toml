@@ -1,49 +1,40 @@
-baseURL = 'https://vulpine.house'
-languageCode = 'en-us'
-title = 'The Fridge'
-author = 'Síle Ekaterin Liszka'
-theme = 'clean'
-disableKinds = ['RSS', 'sitemap']
-[taxonomies]
-tag = 'tags'
-
-[[menu.main]]
+[[main]]
 identifier = 'home'
 name       = 'Home'
 url        = '/'
 weight     = 1
 
-[[menu.main]]
+[[main]]
 identifier = 'about'
 name       = 'About'
 url        = '/about'
 weight     = 2
 
-[[menu.main]]
+[[main]]
 identifier = 'translations'
 name       = 'Translations'
 url        = '/translations'
 weight     = 3
 
-[[menu.main]]
+[[main]]
 identifier = 'recipes'
 name       = 'Recipes'
 url        = '/recipe'
 weight     = 4
 
-[[menu.main]]
+[[main]]
 identifier = 'commissions'
 name       = 'Commissions'
 url        = 'commissions'
 weight     = 5
 
-[[menu.main]]
+[[main]]
 identifier = 'system'
 name       = 'System Reference'
 url        = 'system'
 weight     = 6
 
-[[menu.main]]
+[[main]]
 identifier = 'links'
 name       = 'Links'
 url        = 'links'

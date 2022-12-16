@@ -1,0 +1,6 @@
+baseURL = 'https://vulpine.house'
+languageCode = 'en-us'
+title = 'The Fridge'
+author = 'Síle Ekaterin Liszka'
+theme = 'clean'
+disableKinds = ['RSS', 'sitemap']
