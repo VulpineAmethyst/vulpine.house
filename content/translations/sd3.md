@@ -105,40 +105,60 @@ Like a lot of early fan translation efforts, Seiken Densetsu 3 (sometimes called
 | アイテムの種     | aitemunokuchi     | Item Seed           | Item Seed          | Item Seed         |
 | 不思議な種       | fushiginakuchi    | Curious Seed        | ??? Seed           | Seed              |
 | ニトロの火薬     | nitoronokayaku    | Nitro Powder        | Gunpowder          | Gunpowder         |
-| ちびっこハンマー | chibikkohanmā     | Midget Hammer       | Chibikko Hammer    | Chibikko Hammer   |
+| ちびっこハンマー | chibikkohanmā     | Chibikko Hammer     | Chibikko Hammer    | Chibikko Hammer   |
 | ぴーひゃら笛     | pīhyarafue        | Pihyara Flute       | Pihyara Flute      | Pihyara Flute     |
 | 風の太鼓         | kazenotaiko       | Wind Drum           | Wind Drum          | Wind Drum         |
 | 幻想の鏡         | gensōnokagami     | Mirror of Illusions | Mirror of Illusion | Illusion Mirror   |
 | モーグリバッヂ   | mōguribajji       | Mógli Badge         | Moogle Badge       | Moogle Badge      |
+| 不思議のクッキー | fushiginokukkī    | Mysterious Cookie   | N/A                |
+| 奇跡のクッキー   | kisekinokukkī     | Wonder Cookie       | N/A                |
+| 神秘のクッキー   | shinbinokukkī     | Secret Cookie       | N/A                |
+| 金運のアロマ     | kinunnoaroma      | Money's Aroma       | N/A                |
+| 富豪のアロマ     | fugōnoaroma       | Banker's Aroma      | N/A                |
+| 大富豪のアロマ   | daifugōnoaroma    | Oligarch's Aroma    | N/A                |
+| 力の水           | chikaranomizu     | Powerful Water      | N/A                |
+| 守の水           | mamorinomizu      | Protective Water    | N/A                |
+| 知性の水         | chiseinomizu      | Smart Water         | N/A                |
+| 精神の水         | seishinnomizu     | Spiritual Water     | N/A                |
+| 運の水           | unnomizu          | Lucky Water         | N/A                |
+| 命の秘薬         | inochinohiyaku    | Life Medicine       | N/A                |
+| 魔法の秘薬       | mahōnohiyaku      | Magic Medicine      | N/A                |
 
 ### Class-Changing Gear
 
-| Japanese         | Romaji              | Síle                  | Fan Translation     | Official          |
-| ---------------- | ------------------- | --------------------- | ------------------- | ----------------- |
-| 聖騎士の証       | seishōkishinoakashi | Knight Saint's Proof  | Paladin's Proof     | Knight Tag        |
-| 君主の証         | kunshunoakashi      | Sovereign's Proof     | Lord's Proof        | Prince Tag        |
-| 剣匠の証         | kenshōnoakashi      | Swordsman's Proof     | Master's Proof      | Battler Tag       |
-| 闘士の証         | toushinoakashi      | Fighter's Proof       | Duelist's Proof     | Duelist's Tag     |
+| Japanese         | Romaji              | Síle                  | Fan Translation     | Official      |
+| ---------------- | ------------------- | --------------------- | ------------------- | ------------- |
+| 女神の天秤       | megaminotenbin      | Goddess' Scales       | N/A                 |
+| 聖騎士の証       | seishōkishinoakashi | Knight Saint's Proof  | Paladin's Proof     | Knight Tag    |
+| 君主の証         | kunshunoakashi      | Sovereign's Proof     | Lord's Proof        | Prince Tag    |
+| 剣匠の証         | kenshōnoakashi      | Swordsman's Proof     | Master's Proof      | Battler Tag   |
+| 闘士の証         | toushinoakashi      | Fighter's Proof       | Duelist's Proof     | Duelist's Tag |
+| 勇気のオーブ     | yuukinoōbu          | Courage Orb           | N/A                 |
 | 奥義の書         | ōginosho            | Book of Mysteries     | Arcane Book         | Arcana Book   |
 | 秘伝の書         | hitennosho          | Book of Secrets       | Book of Secrets     | Esotera Book  |
 | ルーンの書       | rūnnosho            | Book of Runes         | Book of Runes       | Rune Book     |
 | 禁呪の書         | kinjunosho          | Book of Incantations  | Forbidden Book      | Omen Book     |
+| 叡智のオーブ     | eichinoōbu          | Intellect Orb         | N/A                 |
 | 金狼の魂         | kinōkaminotamashī   | Golden Wolf's Spirit  | Gold Wolf Soul      | Gold Aura     |
 | 銀狼の魂         | ginōkaminotamashī   | Silver Wolf's Spirit  | Silver Wolf Soul    | Silver Aura   |
 | 死狼の魂         | shiōkaminotamashī   | Deadly Wolf's Spirit  | Death Wolf Soul     | Death Aura    |
 | 魔狼の魂         | maōkaminotamashī    | Demon Wolf's Spirit   | Demon Wolf Soul     | Mage Aura     |
+| 本能のオーブ     | honnōnoōbu          | Instinct Orb          | N/A                 |
 | 聖水のこびん     | seisuinokobin       | Vial of Holy Water    | Holy Water Vial     | Holy Bottle   |
 | 塩のこびん       | ennokobin           | Vial of Salt          | Jar of Salt         | Salt Bottle   |
 | 灰のこびん       | hoinokobin          | Vial of Ashes         | Jar of Ashes        | Ash Bottle    |
 | 血のこびん       | chinokobin          | Vial of Blood         | Jar of Blood        | Curse Bottle  |
+| 希望のオーブ     | kibōnoōbu           | Hope Orb              | N/A                 |
 | 幸運のサイコロ   | kōunnosaikoro       | Lucky Dice            | Good Luck Die       | Lucky Dice    |
 | 悪運のサイコロ   | akuunnosaikoro      | Unlucky Dice          | Bad Luck Die        | Destiny Dice  |
 | 必中のサイコロ   | hicchuunosaikoro    | Successful Dice       | Bullseye Die        | Precise Dice  |
 | 夜目のサイコロ   | yaminosaikoro       | Bleak Dice            | Nighteye Die        | Dusk Dice     |
+| 信頼のオーブ     | shinrainoōbu        | Trust Orb             | N/A                 |
 | ブリーシンガメン | burīshingamen       | Brisingamen           | Briesingamen        | Brisingamen   |
 | 明星のクサリ     | myōjōnokusari       | Venus's Chain         | Morning Star Chain  | Evening Star  |
 | 騎竜のクサリ     | ryūkishinokusari    | Dragon Knight's Chain | Knight Dragon Chain | Dragoon Band  |
 | グレイプニル     | gureinpuniru        | Gleipnir              | Gleipnir            | Gleipnir      |
+| 慈愛のオーブ     | jiainoōbu           | Love Orb              | N/A                 |
 
 ### Spellcasters
 
