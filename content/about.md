@@ -17,7 +17,7 @@ Like many autistic people, I've always had a sense of justice, and that has been
 
 I have been using Free software in one way or another for my entire computer-literate life, having grown up in a Linux household back when computers at home were still a very new concept and rare to encounter. It is my considered opinion that Free software is an important part of social justice work, and yet there is a significant lack of marginalized voices in Free software, especially in majority-white countries like the US.
 
-I have been a member of the National Federation of the Blind since 2016, and have served in the past as the secretary of the Tulsa chapter in Oklahoma. I currently serve as a board member at large, as the chapter's constitution does not prohibit the election of officers to the board who do not reside in the state, much less in Tulsa.
+I have been a member of the National Federation of the Blind since 2016, and have served in the past as the secretary, a boardmember at large, and vice-president of the Tulsa chapter in Oklahoma.
 
 I am a volunteer with Microsoft's Technology Education and Learning Support (TEALS) program, which aims to provide computer science education in high schools across the US, serving students who would otherwise not have access due to race, gender identity, disability, etc. I work with blind teenagers, particularly.
 
