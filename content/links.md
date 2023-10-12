@@ -3,10 +3,9 @@ title: Links
 description: Links to our various resources.
 ---
 # Social Media
-* **Discord**: {{< me href="https://discordapp.com/users/165317317138317313" text="VulpineAmethyst#3244" >}}
+* **Discord**: {{< me href="https://discordapp.com/users/165317317138317313" text="VulpineAmethyst" >}}
 * **Fediverse**: {{< me href="https://social.treehouse.systems/@VulpineAmethyst" text="@VulpineAmethyst@treehouse.systems" >}} or {{< me href="https://503junk.house/@VulpineAmethyst" text="@VulpineAmethyst@503junk.house" >}}
 * **Ko-Fi**: {{< me href="https://ko-fi.com/VulpineAmethyst" text="VulpineAmethyst" >}}
-* **Twitter**: {{< me href="https://twitter.com" text="@VulpineAmethyst" >}}
 * **Tumblr**: {{< me href="https://tumblr.com/VulpineAmethyst" text="VulpineAmethyst" >}}
 
 ## Miscellaneous
