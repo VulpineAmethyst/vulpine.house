@@ -4,3 +4,6 @@ title = 'The Fridge'
 author = 'Síle Ekaterin Liszka'
 theme = 'clean'
 disableKinds = ['RSS', 'sitemap']
+
+[Params]
+Fediverse = ['https://social.treehouse.systems/@VulpineAmethyst']
