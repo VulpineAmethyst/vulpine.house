@@ -1,5 +1,5 @@
 ---
-title: Russian Beafsteak
+title: Russian Beefsteak
 tags:
   - beef
   - main dish
