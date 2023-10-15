@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "{{ replace .Name "-" " " | title }}"
+title: something
 description: something or other
 tags:
 - main
