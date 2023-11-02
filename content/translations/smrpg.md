@@ -200,6 +200,7 @@ Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few thin
 ## Key Items
 
 | Japanese             | Romaji             | Síle                 | Woolsey        |
+| -------------------- | ------------------ | -------------------- | -------------- |
 | アルトカード         | arutokādo          | Alto Card            | Alto Card      |
 | プチボム             | puchibomb          | Petit Bomb           | Bambino Bomb   |
 | むしかご             | mushikago          | Insect Cage          | Beetle Box     |
@@ -288,7 +289,7 @@ Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few thin
 | モックン         | mokkun           | Mokkun            | Fautso                   |
 | フラワーリップ   | furawārippu      | Pirahna Lip       | Fink Flower              |
 | ひのクリスタル   | hinokurisutaru   | Fire Crystal      | Fire Crystal             |
-| ブブル           | buburu           | Booble(?)         | Fireball                 |
+| ブブル           | buburu           | Bubble            | Fireball                 |
 | オイスター       | oisutā           | Oyster            | Forkies                  |
 | しょうたいふめい | shoutaifumei     | Unidentified      | Formless                 |
 | リチャード       | richādo          | Richard           | Frogog                   |
@@ -326,16 +327,16 @@ Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few thin
 | ジュゲム         | jugemu           | Lakitu            | Lakitu                   |
 | ひだりめ         | hidarime         | Left Eye          | Left Eye                 |
 | クララ           | kurara           | Clara             | Leuko                    |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Axem Black  |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Axem Green  |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Axem Pink   |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Axem Red    |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Axem Yellow |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Bowyer      |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Drill Bit   |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Mack        |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Shyster     |
-| りょうさんがた   | ryousangate      | Machined Model    | MachinēMade Yaridovich  |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Black  |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Green  |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Pink   |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Red    |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Yellow |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Bowyer      |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Drill Bit   |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Mack        |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Shyster     |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Yaridovich  |
 | ケンゾール       | kenzōru          | Sworzerer         | Mack                     |
 | メルクリンク     | merukurinku      | Merclink          | Mad Adder                |
 | トン             | ton              | Ton               | Mad Mallet               |
@@ -424,6 +425,7 @@ Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few thin
 ## Places
 
 | Japanese                 | Romaji                  | Síle                        | Woolsey            |
+| ------------------------ | ----------------------- | --------------------------- | ------------------ |
 | マリオの家               | marionoie               | Mario's House               | Mario's Pad        |
 | クッパ城                 | kuppashiro              | Koopa Keep                  | Bowser's Keep      |
 | クッパ城の見える丘       | kuppashironoaimamierōka | Hill Overlooking Koopa Keep | Vista Hill         |
