@@ -151,7 +151,7 @@ Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few thin
 | ブリリアントカード   | buririantokādo       | Brilliant Card     | Bright Card   |
 | カルボクッキー       | karubokukkī          | Carbo Cookie       | Carbo Cookie  |
 | ミンナカタクナール   | minnakatakunāru      | Group Stiffener    | Crystalline   |
-| あのころにもどりたい | anokoronimodoritai   | Rewinder           | Earlier Times |
+| あのころにもどりたい | anokoronimodoritai   | I Wanna Return     | Earlier Times |
 | あしはえドリンク     | ashihaedorinku       | Pure Drink         | Elixir        |
 | ツヨクナール         | tsuyokunāru          | Strengthener       | Energizer     |
 | ひりょう             | hiryou               | Fertilizer         | Fertilizer    |
@@ -171,7 +171,7 @@ Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few thin
 | ラッキージュエル     | rakkījueru           | Lucky Jewel        | Lucky Jewel   |
 | メイプルシロップ     | meipurushiroppu      | Maple Syrup        | Maple Syrup   |
 | ウルトラキノコ       | urutorakinoko        | Ultra Mushroom     | Max Mushroom  |
-| おヒレちぢみドリンク | ohirechijimidorinku  | Tail-Shrink Drink  | Megalixir     |
+| おヒレちぢみドリンク | ohirechijimidorinku  | Fin-Shrink Drink   | Megalixir     |
 | スーパーキノコ       | sūpākinoko           | Super Mushroom     | Mid Mushroom  |
 | カビはえキノコ       | kabihaekinoko        | Mold Mushroom      | Moldy Mush    |
 | ムクムクのクッキー   | mukumukunokukkī      | Plump Cookie       | Muku Cookie   |
@@ -444,9 +444,9 @@ Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few thin
 | ハナチャンの森           | hanachannomori          | Wriggler Forest             | Forest Maze        |
 | パイプダンジョン         | paipudanjon             | Pipe Dungeon                | Pipe Vault         |
 | ヨースター島             | yōsutātou               | Yo'ster Island              | Yo'ster Isle       |
-| ドゥカティ               | dukati                  | Ducaty                      | Moleville(?)       |
-| 炭坑                     | tankou                  | Coal Mine                   | (?)                |
-| イガ谷                   | igatani                 | Burr Valley                 | (?)                |
+| ドゥカティ               | dukati                  | Ducaty                      | Moleville          |
+| 炭坑                     | tankou                  | Coal Mine                   | Coal Mines         |
+| イガ谷                   | igatani                 | Burr Valley                 | Booster Pass       |
 | ブッキータワー           | bukkītawā               | Bookie's Tower              | Booster Tower      |
 | ブッキー坂               | bukkīsaka               | Bookie's Hill               | Booster Hill       |
 | メリー・マリー村         | merī.marīmura           | Merry Marry Village         | Marrymore          |
@@ -455,21 +455,21 @@ Kudos to [Mario Wiki](https://www.mariowiki.com/), because there were a few thin
 | リップルタウン           | rippurutaun             | Ripple Town                 | Seaside Town       |
 | 海                       | umi                     | Sea                         | Sea                |
 | ちんぼつ船               | chinbotsufune           | Sunken Ship                 | Sunken Ship        |
-| カブト虫買い取りセンター | kabutomushikaitorisentā | Beetles'R'Us                | (?)                |
+| カブト虫買い取りセンター | kabutomushikaitorisentā | Beetles'R'Us                | Beetles Are Us     |
 | 武器・ぼう具屋           | buki.bōkuya             | Weapon Shop                 | (?)                |
 | けんこう食品店           | kenkōshokuhinten        | Health Shop                 | (?)                |
-| キノコ大好きボ～イのお店 | kinokodaisukibōinootana | Mushroom Fanshop            | (?)                |
+| キノコ大好きボ～イのお店 | kinokodaisukibōinootana | Mushroom Fanboy's Shop      | Mushroom Boy's Shop |
 | アクセサリーショップ     | akusesarīshoppu         | Accessory Shop              | (?)                |
-| カントリーロード         | kantorīrōdo             | Country Road                | Land's End(?)      |
+| カントリーロード         | kantorīrōdo             | Country Road                | Land's End         |
 | ベロ～ムしんでん         | bero~mushinden          | Plump Tongue's Temple       | Belome's Temple    |
 | モンスタウン             | monsutaun               | Monstown                    | Monstro Town       |
 | ビーンズバレー           | bīnzubarē               | Beans Valley                | Bean Valley        |
 | クラウンカジノ           | kuraunkajino            | Clown Casino                | Grate Guy's Casino |
-| マシュマロの国           | mashumaronokuni         | Marshmallow Country         | Nimbus Land        |
+| マシュマロの国           | mashumaronokuni         | Marshmallow Kingdom         | Nimbus Land        |
 | ちょうこくか　ガロの家   | chōkokuka garonoie      | Sculptor Galo's House       | (?)                |
 | ムューシカー             | myūshikā                | Musica                      | (?)                |
 | バーレル火山             | bārerukazan             | Barrel Volcano              | Barrel Volcano     |
 | ヒノマート               | hinomāto                | Hinomart                    | (?)                |
 | 武器世界へ               | bukisakai               | Weapon World                | (?)                |
-| 武器工場                 | bukikōjō                | Weapons Factory             | (?)                |
+| 武器工場                 | bukikōjō                | Weapons Factory             | Factory            |
 
